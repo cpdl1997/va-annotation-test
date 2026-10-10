@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Video comparison study</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://unpkg.com/jspsych@7.3.4"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-html-button-response@1.2.0"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-instructions@1.2.0"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-call-function@1.2.0"></script>
+  <!-- DataPipe plugin: check https://www.npmjs.com/package/@jspsych-contrib/plugin-pipe for the latest version -->
+  <script src="https://unpkg.com/@jspsych-contrib/plugin-pipe"></script>
+  <link href="https://unpkg.com/jspsych@7.3.4/css/jspsych.css" rel="stylesheet">
+  <style>
+    .pair { display: flex; gap: 24px; justify-content: center; }
+    .pair video { width: 46vw; max-width: 640px; background: #000; }
+    .label { font-weight: 600; margin: 6px 0; }
+  </style>
+</head>
+<body></body>
+<script>
+// ====================== CONFIG: EDIT THESE ======================
+const VIDEO_BASE_URL   = "https://YOUR-R2-PUBLIC-URL/videos/";   // Cloudflare R2 public bucket URL
+const PLAYLIST_BASE    = "playlists/playlist_";                  // files: playlists/playlist_0.json, _1.json ...
+const NUM_PLAYLISTS    = 20;                                     // how many playlist files you made
+const DATAPIPE_ID      = "YOUR_DATAPIPE_EXPERIMENT_ID";          // from pipe.jspsych.org
+const COMPLETION_CODE  = "YOUR_PROLIFIC_COMPLETION_CODE";        // from Prolific study setup
+const MIN_WIDTH        = 1000;                                   // block small screens
+// =================================================================
+
+// Playlist JSON format (list of trials):
+// [{"id":"p001","kind":"new","left":"a.mp4","right":"b.mp4"},
+//  {"id":"g001","kind":"golden","left":"c.mp4","right":"d.mp4","correct":"left"},
+//  {"id":"r001","kind":"repeat","left":"b.mp4","right":"a.mp4","repeat_of":"p001"},
+//  {"id":"a001","kind":"attention","left":"e.mp4","right":"f.mp4","correct":"left"}]
+
+const jsPsych = initJsPsych({
+  show_progress_bar: true,
+  on_finish: () => {
+    // Redirect back to Prolific so the submission is marked complete
+    window.location.href = "https://app.prolific.com/submissions/complete?cc=" + COMPLETION_CODE;
+  }
+});
+
+// Read Prolific parameters from the URL
+const urlVars = jsPsych.data.urlVariables();
+const PID = urlVars.PROLIFIC_PID || "NO_PID_" + Date.now();
+jsPsych.data.addProperties({
+  prolific_pid: PID,
+  study_id: urlVars.STUDY_ID || "",
+  session_id: urlVars.SESSION_ID || ""
+});
+
+const timeline = [];
+
+// 1. Device gate: desktop-sized screens only
+if (window.innerWidth < MIN_WIDTH || /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent)) {
+  document.body.innerHTML = "<h2>Please open this study on a desktop or laptop computer with a larger window, then reopen it from Prolific.</h2>";
+  throw new Error("Unsupported device");
+}
+
+// 2. Consent + instructions
+timeline.push({
+  type: jsPsychInstructions,
+  pages: [
+    "<h2>Consent</h2><p>PASTE YOUR ETHICS-APPROVED INFORMATION AND CONSENT TEXT HERE. By continuing you agree to take part.</p>",
+    "<h2>Instructions</h2><p>You will see two videos side by side. Watch both fully, then choose which video is of better overall quality. Some trials check your attention; follow their on-screen instructions exactly.</p>"
+  ],
+  show_clickable_nav: true,
+  button_label_next: "Continue"
+});
+
+// 3. Get a playlist via DataPipe balanced assignment, then load it
+timeline.push({
+  type: jsPsychPipe,
+  action: "condition",
+  experiment_id: DATAPIPE_ID,
+  num_conditions: NUM_PLAYLISTS,
+  on_finish: (data) => { jsPsych.data.addProperties({ playlist_id: data.condition }); }
+});
+
+// 4. Build trials from the playlist (runs after the condition trial)
+timeline.push({
+  timeline: [{
+    type: jsPsychHtmlButtonResponse,
+    stimulus: () => {
+      const t = jsPsych.timelineVariable("t");
+      return `<div class="pair">
+        <div><div class="label">Video A</div><video id="vL" src="${VIDEO_BASE_URL}${t.left}" preload="auto" controls controlsList="nodownload noplaybackrate"></video></div>
+        <div><div class="label">Video B</div><video id="vR" src="${VIDEO_BASE_URL}${t.right}" preload="auto" controls controlsList="nodownload noplaybackrate"></video></div>
+      </div>
+      ${t.kind === "attention" ? "<p><b>Attention check: please choose Video A (left), regardless of quality.</b></p>" : "<p>Which video has better quality?</p>"}`;
+    },
+    choices: ["Video A is better", "Video B is better"],
+    // lock the answer buttons until both videos have finished playing
+    on_load: () => {
+      const btns = document.querySelectorAll(".jspsych-btn");
+      btns.forEach(b => b.disabled = true);
+      const vL = document.getElementById("vL"), vR = document.getElementById("vR");
+      let doneL = false, doneR = false;
+      const check = () => { if (doneL && doneR) btns.forEach(b => b.disabled = false); };
+      vL.addEventListener("ended", () => { doneL = true; check(); });
+      vR.addEventListener("ended", () => { doneR = true; check(); });
+      window.__plays = { L: 0, R: 0 };
+      vL.addEventListener("play", () => window.__plays.L++);
+      vR.addEventListener("play", () => window.__plays.R++);
+    },
+    data: () => {
+      const t = jsPsych.timelineVariable("t");
+      return { pair_id: t.id, kind: t.kind, left: t.left, right: t.right,
+               correct: t.correct || "", repeat_of: t.repeat_of || "" };
+    },
+    on_finish: (data) => {
+      data.chosen = data.response === 0 ? "left" : "right";
+      data.is_correct = data.correct ? (data.chosen === data.correct) : "";
+      data.plays_left = window.__plays.L;
+      data.plays_right = window.__plays.R;
+    }
+  }],
+  timeline_variables: [],   // filled in below once the playlist is fetched
+});
+
+// Fetch the playlist and inject it into the trial block before it runs
+const trialBlock = timeline[timeline.length - 1];
+timeline.splice(timeline.length - 1, 0, {
+  type: jsPsychCallFunction,
+  async: true,
+  func: (done) => {
+    const pid = jsPsych.data.get().last(1).values()[0].condition;
+    fetch(PLAYLIST_BASE + pid + ".json")
+      .then(r => r.json())
+      .then(list => {
+        // shuffle trial order per participant
+        const shuffled = jsPsych.randomization.shuffle(list);
+        trialBlock.timeline_variables = shuffled.map(t => ({ t }));
+        done();
+      });
+  }
+});
+
+// 5. Save all data to OSF via DataPipe, then on_finish redirects to Prolific
+timeline.push({
+  type: jsPsychPipe,
+  action: "save",
+  experiment_id: DATAPIPE_ID,
+  filename: `${PID}.csv`,
+  data_string: () => jsPsych.data.get().csv()
+});
+
+jsPsych.run(timeline);
+</script>
+</html>
