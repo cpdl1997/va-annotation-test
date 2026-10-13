@@ -1,0 +1,359 @@
+[
+ {
+  "id": "s76759ebf",
+  "kind": "new",
+  "left": "c_7c934274936f.mp4",
+  "right": "c_af56e04a9aee.mp4",
+  "source": "c_6c96142ea600.mp4",
+  "prompt": "Replace the lush green forest background, including the soft-focus green leaves and greyish-brown tree trunks, with a vibrant and colorful water park. The new background should feature bright, multi-colored water slides, sparkling blue swimming pools, and a sunny atmosphere, while keeping the Red-tailed Hawk and the thick, textured tree branch it is perched on completely intact and unchanged."
+ },
+ {
+  "id": "sd3e62f6b",
+  "kind": "new",
+  "left": "c_4038481f132e.mp4",
+  "right": "c_f0bca6861b1b.mp4",
+  "source": "c_8c00bf879e54.mp4",
+  "prompt": "Remove the thin silver bracelet from the woman's left wrist throughout the entire video. Ensure the skin on her wrist is seamlessly reconstructed to match the surrounding skin tone and texture, maintaining a natural appearance as she moves her arms and hands while laughing. The removal should be consistent across all frames, leaving no trace of the jewelry or any blurring artifacts on her wrist."
+ },
+ {
+  "id": "w1_pl9_r02",
+  "kind": "repeat",
+  "left": "c_7a238b315585.mp4",
+  "right": "c_4aee90a41d50.mp4",
+  "source": "c_2b83e9098f0e.mp4",
+  "prompt": "Transform the entire video into a claymation style. The Black woman, her red V-neck dress, the silver ribbon microphone, and the smoky background should all be reimagined as if they were handcrafted from modeling clay. The textures should appear matte and slightly irregular, with visible fingerprints and soft, rounded edges characteristic of stop-motion animation. The woman's facial expressions and hand gestures should be rendered with the chunky, tactile quality of clay, and the dramatic blue and red lighting should be adapted to reflect off these sculpted surfaces, maintaining the moody jazz-club atmosphere while adopting a playful, handcrafted aesthetic.",
+  "repeat_of": "sf9caa710"
+ },
+ {
+  "id": "w1_pl9_r01",
+  "kind": "repeat",
+  "left": "c_f5354709362d.mp4",
+  "right": "c_3388057bebb5.mp4",
+  "source": "c_c19bd533318d.mp4",
+  "prompt": "Transform the entire video into a watercolor painting style. Apply a soft, artistic filter that replaces the realistic textures of the woman's pale skin, light hair, and the pink flower petal eyebrows with fluid, translucent paint washes. The edges of the subject and the plain, light-colored background should appear slightly blurred and bleeding into one another, mimicking the effect of wet-on-wet watercolor. Maintain the muted color palette and the vibrant pink of the petals, but render them as delicate pigment stains with visible paper texture and soft, organic brushstrokes throughout the frame.",
+  "repeat_of": "s3235a25d"
+ },
+ {
+  "id": "w1_pl9_g05",
+  "kind": "golden",
+  "left": "c_fc9db1c53c19.mp4",
+  "right": "c_1745cf70b6eb.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s62f12c90",
+  "kind": "new",
+  "left": "c_be359f4b5f30.mp4",
+  "right": "c_bdf9bb866c72.mp4",
+  "source": "c_84b5b0c2926f.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire scene\", \"change\": \"Apply a Bauhaus art style, transforming the organic plants and grid of black trays into a composition of bold geometric shapes and a primary color palette\", \"scene_context\": \"top-down view of plants in nursery trays\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the textured leaves with simplified circles, triangles, and rectangles in red, blue, and yellow. The black plastic grid should be converted into clean, thick black lines forming a rigid geometric structure.\"}"
+ },
+ {
+  "id": "sddcdd3fa",
+  "kind": "new",
+  "left": "c_73d1151b2260.mp4",
+  "right": "c_2a715007ba20.mp4",
+  "source": "c_e644268966e5.mp4",
+  "prompt": "Boom up the camera, moving the viewpoint vertically upward from the current static close-up of the white parking sign. The movement should shift the frame to reveal more of the vivid blue sky and the blurred, leafless tree branches that are currently partially visible above the top section of the sign. The final composition should show the parking sign positioned lower in the frame, providing a wider view of the upper background elements."
+ },
+ {
+  "id": "sa2d911d4",
+  "kind": "new",
+  "left": "c_bf59fd29bd72.mp4",
+  "right": "c_11e6d40e98e2.mp4",
+  "source": "c_aeb01ed9f5ea.mp4",
+  "prompt": "Replace the brown horse with a black mane, located in the center of the frame, with a fluffy ginger kitten. The kitten should be positioned in the same area as the horse, maintaining the same scale and movement as the horse shifts its head. Ensure the kitten's fur is a vibrant ginger color and looks soft and fluffy. The person's hand entering from the bottom left at 00:01 should now appear to be gently petting the kitten's head and ears instead of the horse's forehead and mane. The interaction should look natural, with the kitten reacting calmly to the touch, while keeping the rocky background and natural lighting unchanged."
+ },
+ {
+  "id": "w1_pl9_g02",
+  "kind": "golden",
+  "left": "c_65c42a7265c9.mp4",
+  "right": "c_8d338f5336b4.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "w1_pl9_r05",
+  "kind": "repeat",
+  "left": "c_8ffb05e2af7b.mp4",
+  "right": "c_8109016c1012.mp4",
+  "source": "c_f60c42aac1ac.mp4",
+  "prompt": "Replace the black neoprene hood worn by the man on his head throughout the video with a pair of glowing silent disco headphones. The headphones should be positioned naturally over his ears and head, following his movements as he adjusts his gear. The headphones should feature vibrant, glowing LED lights on the earcups that pulse or change colors, creating a sharp contrast against the black wetsuit and the white boat background. Ensure the headphones maintain a consistent scale and perspective as the man moves and the camera shifts slightly.",
+  "repeat_of": "s30013e05"
+ },
+ {
+  "id": "s89856c62",
+  "kind": "new",
+  "left": "c_4386edee9624.mp4",
+  "right": "c_8a63d3dccc9a.mp4",
+  "source": "c_ba0130d71b98.mp4",
+  "prompt": "Apply a pastel dreamlike style to the entire scene. Soften the vibrant pink background and the bright yellow surface into muted, airy, and desaturated pastel tones. Introduce a glowing, ethereal haze across the frame to diffuse the lighting, reducing the high contrast of the tattoos and the glossy sheen of the yellow slime to create a soft-focus, surreal atmosphere."
+ },
+ {
+  "id": "w1_pl9_r03",
+  "kind": "repeat",
+  "left": "c_b672f0c5acfd.mp4",
+  "right": "c_de93dd230b6c.mp4",
+  "source": "c_3a0f8f10eb71.mp4",
+  "prompt": "Modify the scene so that instead of being static, the white plastic tiles with black uppercase letters drop from above and scatter dynamically across the dark gray matte surface. The tiles should fall with realistic physics, bouncing and sliding upon impact to create a random, disordered pile, replacing the current slow camera pan over already-placed tiles.",
+  "repeat_of": "sd34b638e"
+ },
+ {
+  "id": "w1_pl9_a02",
+  "kind": "attention",
+  "left": "c_9c66ccb1aeaf.mp4",
+  "right": "c_85c929461dbe.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "sc9c43c53",
+  "kind": "new",
+  "left": "c_15d127bd4fb2.mp4",
+  "right": "c_b3651ce4a05a.mp4",
+  "source": "c_4a6f9635158c.mp4",
+  "prompt": "Add a small, colorful rainbow arching through the shimmering water droplets in the center of the frame. The rainbow should be semi-transparent and blend naturally with the mist and spray of the vertical water stream, with its vibrant spectrum of colors appearing as if refracted by the water droplets. Position the arch so it spans across the central column of water, maintaining a soft, ethereal glow that complements the bright, natural lighting of the sunny day and the surrounding green foliage."
+ },
+ {
+  "id": "s822d752f",
+  "kind": "new",
+  "left": "c_ab205f418d35.mp4",
+  "right": "c_ac75b4f9d341.mp4",
+  "source": "c_fb622fb90dcb.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"the woman with long black hair and a striped t-shirt\", \"change\": \"remove the woman from the scene\", \"scene_context\": \"walking and running through a garden hedge maze on a dirt path\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the woman entirely from all frames, ensuring the dirt path and the dense green hedges behind her are seamlessly filled in to maintain a natural look.\"}"
+ },
+ {
+  "id": "s78d22c2b",
+  "kind": "new",
+  "left": "c_efc0ae87d10e.mp4",
+  "right": "c_ec97c47077f1.mp4",
+  "source": "c_74d6d5fcb580.mp4",
+  "prompt": "Remove the person's hands from the entire video. Carefully erase the fingers and palms that are stirring the raw egg into the mound of white flour. Fill in the resulting gaps by seamlessly reconstructing the textures of the powdery flour and the viscous orange egg yolk, ensuring the ingredients appear to move or clump naturally without any visible human interaction. The final result should show only the flour and egg on the light-colored surface, maintaining the shallow depth of field and bright, diffused lighting of the original scene."
+ },
+ {
+  "id": "s86ad8f9d",
+  "kind": "new",
+  "left": "c_f0ae8a82971d.mp4",
+  "right": "c_df10d3eed185.mp4",
+  "source": "c_12fb214d9315.mp4",
+  "prompt": "Apply a pastel dreamlike style to the entire scene. Soften the vibrant pink background and the bright yellow surface into muted, airy, and desaturated pastel tones. Introduce a glowing, ethereal haze across the frame to diffuse the lighting, reducing the high contrast of the tattoos and the glossy sheen of the yellow slime to create a soft-focus, surreal atmosphere."
+ },
+ {
+  "id": "w1_pl9_g03",
+  "kind": "golden",
+  "left": "c_2871fb0c1adb.mp4",
+  "right": "c_e56d98539102.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "se5aac161",
+  "kind": "new",
+  "left": "c_120f9107fa45.mp4",
+  "right": "c_3ae83c1fd5a2.mp4",
+  "source": "c_6091732d314c.mp4",
+  "prompt": "Add a layer of light, translucent white mist that drifts slowly and naturally across the white desk surface and over the woman's white t-shirt. The mist should be subtle and ethereal, partially obscuring the details of the desk and the fabric of the shirt without completely hiding them. Ensure the movement of the mist is fluid and soft, blending seamlessly with the bright, minimalist lighting of the room to maintain the calm and studious mood of the scene."
+ },
+ {
+  "id": "s36c0c63f",
+  "kind": "new",
+  "left": "c_13162e18b8a2.mp4",
+  "right": "c_cf9951cdf047.mp4",
+  "source": "c_84fdeb22c356.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"bottom half of the white whiteboard and the person's arm\", \"change\": \"add a flood of water covering the area\", \"scene_context\": \"the lower portion of the frame where the x-axis and the person's forearm are located\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The water should appear as a realistic flood, with ripples and reflections, submerging the bottom half of the whiteboard and the person's arm up to the elbow.\"}"
+ },
+ {
+  "id": "s30013e05",
+  "kind": "new",
+  "left": "c_8109016c1012.mp4",
+  "right": "c_8ffb05e2af7b.mp4",
+  "source": "c_f60c42aac1ac.mp4",
+  "prompt": "Replace the black neoprene hood worn by the man on his head throughout the video with a pair of glowing silent disco headphones. The headphones should be positioned naturally over his ears and head, following his movements as he adjusts his gear. The headphones should feature vibrant, glowing LED lights on the earcups that pulse or change colors, creating a sharp contrast against the black wetsuit and the white boat background. Ensure the headphones maintain a consistent scale and perspective as the man moves and the camera shifts slightly."
+ },
+ {
+  "id": "w1_pl9_g01",
+  "kind": "golden",
+  "left": "c_de0c640bb23d.mp4",
+  "right": "c_9243339c09ea.mp4",
+  "source": "c_edbb5b590319.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "sa7bfa2ee",
+  "kind": "new",
+  "left": "c_f1241b54135b.mp4",
+  "right": "c_037e99169c3c.mp4",
+  "source": "c_3da7873be750.mp4",
+  "prompt": "Add a layer of morning frost to the light-colored brick wall in the background. The frost should appear as a delicate, crystalline white coating that clings to the texture of the bricks and mortar, creating a frozen, wintry effect. Ensure the frost is subtly integrated into the blurred background, maintaining the existing depth of field so that the frost remains out of focus while the glass and pouring water stay sharp. The overall look should enhance the cool, moody color palette of the scene."
+ },
+ {
+  "id": "s5ee35a53",
+  "kind": "new",
+  "left": "c_6f84b9fd7956.mp4",
+  "right": "c_cd80263e7745.mp4",
+  "source": "c_f1500c8f6135.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire snowy forest scene\", \"change\": \"transform into an oil painting\", \"scene_context\": \"a snowy forest path with a person walking away\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply thick, visible brushstrokes and a rich texture characteristic of oil on canvas. The muted colors of the snow and trees should be rendered with painterly blends and artistic highlights.\"}"
+ },
+ {
+  "id": "sd34b638e",
+  "kind": "new",
+  "left": "c_de93dd230b6c.mp4",
+  "right": "c_b672f0c5acfd.mp4",
+  "source": "c_3a0f8f10eb71.mp4",
+  "prompt": "Modify the scene so that instead of being static, the white plastic tiles with black uppercase letters drop from above and scatter dynamically across the dark gray matte surface. The tiles should fall with realistic physics, bouncing and sliding upon impact to create a random, disordered pile, replacing the current slow camera pan over already-placed tiles."
+ },
+ {
+  "id": "sb5f9abed",
+  "kind": "new",
+  "left": "c_383f364f9d3c.mp4",
+  "right": "c_dd27d9daf786.mp4",
+  "source": "c_23c48f311ac9.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"sandy enclosure and white structural pillar\", \"change\": \"replace with a distant, ancient stone castle\", \"scene_context\": \"the background area behind the elephant\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The sandy ground and the white pillar should be completely replaced by a landscape featuring a weathered, ancient stone castle in the distance. Ensure the lighting on the castle matches the bright, natural light of the original scene.\"}"
+ },
+ {
+  "id": "w1_pl9_r04",
+  "kind": "repeat",
+  "left": "c_8a63d3dccc9a.mp4",
+  "right": "c_4386edee9624.mp4",
+  "source": "c_ba0130d71b98.mp4",
+  "prompt": "Apply a pastel dreamlike style to the entire scene. Soften the vibrant pink background and the bright yellow surface into muted, airy, and desaturated pastel tones. Introduce a glowing, ethereal haze across the frame to diffuse the lighting, reducing the high contrast of the tattoos and the glossy sheen of the yellow slime to create a soft-focus, surreal atmosphere.",
+  "repeat_of": "s89856c62"
+ },
+ {
+  "id": "s5766c611",
+  "kind": "new",
+  "left": "c_8b89358a3269.mp4",
+  "right": "c_e40e7093e89a.mp4",
+  "source": "c_3a45a30fa1cd.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"red light illuminating the base of the water jet\", \"change\": \"remove the red light\", \"scene_context\": \"at the base of the vertical water jet on the metal grate floor\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the red glow and red highlights from the water droplets and the metal grate surrounding the nozzle. The base of the fountain should now be lit only by the ambient dark environment and silvery-white highlights.\"}"
+ },
+ {
+  "id": "s3235a25d",
+  "kind": "new",
+  "left": "c_3388057bebb5.mp4",
+  "right": "c_f5354709362d.mp4",
+  "source": "c_c19bd533318d.mp4",
+  "prompt": "Transform the entire video into a watercolor painting style. Apply a soft, artistic filter that replaces the realistic textures of the woman's pale skin, light hair, and the pink flower petal eyebrows with fluid, translucent paint washes. The edges of the subject and the plain, light-colored background should appear slightly blurred and bleeding into one another, mimicking the effect of wet-on-wet watercolor. Maintain the muted color palette and the vibrant pink of the petals, but render them as delicate pigment stains with visible paper texture and soft, organic brushstrokes throughout the frame."
+ },
+ {
+  "id": "w1_pl9_a01",
+  "kind": "attention",
+  "left": "c_0cbc792d1874.mp4",
+  "right": "c_de5c8628a325.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "s6a5079c0",
+  "kind": "new",
+  "left": "c_d0dbf069ae13.mp4",
+  "right": "c_bd03100c65d5.mp4",
+  "source": "c_2ce1699893d5.mp4",
+  "prompt": "Replace the white minimalist cafe background, including the white walls and the white espresso machine, with a scenic view of a glacier. The barista, their sage green apron, the stainless steel pitcher, and the items on the counter should remain untouched, while the entire environment behind and around them is transformed into a vast, icy glacial landscape with towering ice formations and a cold, blue-toned atmosphere."
+ },
+ {
+  "id": "sf9caa710",
+  "kind": "new",
+  "left": "c_4aee90a41d50.mp4",
+  "right": "c_7a238b315585.mp4",
+  "source": "c_2b83e9098f0e.mp4",
+  "prompt": "Transform the entire video into a claymation style. The Black woman, her red V-neck dress, the silver ribbon microphone, and the smoky background should all be reimagined as if they were handcrafted from modeling clay. The textures should appear matte and slightly irregular, with visible fingerprints and soft, rounded edges characteristic of stop-motion animation. The woman's facial expressions and hand gestures should be rendered with the chunky, tactile quality of clay, and the dramatic blue and red lighting should be adapted to reflect off these sculpted surfaces, maintaining the moody jazz-club atmosphere while adopting a playful, handcrafted aesthetic."
+ },
+ {
+  "id": "w1_pl9_g04",
+  "kind": "golden",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s9a960200",
+  "kind": "new",
+  "left": "c_75764152b118.mp4",
+  "right": "c_f24a4a02538e.mp4",
+  "source": "c_d63f10d9cedb.mp4",
+  "prompt": "Transform the entire video into a stylized caricature animation. The woman in the black sports bra and leggings, the barbell with black plates, and the industrial gym background with its exposed brick walls and red metal rigs should all be redrawn in a cartoonish, exaggerated style. Enhance the woman's athletic proportions and facial expressions to fit a caricature aesthetic, while maintaining the original movements of the deadlift. The moody, cool-toned lighting and high contrast of the original scene should be translated into bold, vibrant colors and thick, expressive outlines characteristic of a high-quality animated caricature."
+ },
+ {
+  "id": "sbbdd3ced",
+  "kind": "new",
+  "left": "c_2e8ec6d120f6.mp4",
+  "right": "c_4e17399f6960.mp4",
+  "source": "c_9b429fdfed84.mp4",
+  "prompt": "Modify the timing of the action so that the person's hand, wearing a white protective suit, is already gripping the handle of the metallic spray gun at 00:00, rather than entering the frame and gripping it at 00:02. The hand should be firmly positioned on the handle from the very start of the video, maintaining the same grip and placement as seen later in the clip, while the rest of the scene remains static until the trigger is pulled."
+ },
+ {
+  "id": "se5c34c83",
+  "kind": "new",
+  "left": "c_86ff374e91ff.mp4",
+  "right": "c_d98b9063a41f.mp4",
+  "source": "c_8be8af43cdc1.mp4",
+  "prompt": "Add a dense, swirling sandstorm that blows across the light-colored sandy beach in the background. The sandstorm should consist of thick, tan-colored dust and wind-blown particles that gradually obscure the line of palm trees and the tall white apartment buildings, reducing their visibility and creating a hazy, atmospheric effect. The storm should move dynamically across the shoreline, while the person on the black jet ski and the ocean waves in the foreground remain clear and unaffected."
+ },
+ {
+  "id": "s57c79258",
+  "kind": "new",
+  "left": "c_261a752e0e13.mp4",
+  "right": "c_fae34b1013d8.mp4",
+  "source": "c_78d3d128f15e.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the fluffy blue merle and white Border Collie\", \"change\": \"jump up to take a treat from the person's hand\", \"scene_context\": \"in the foreground, sitting next to the chocolate Labrador\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The Border Collie should transition from its sitting position to a vertical jump, reaching its mouth toward the hand in the top right of the frame to catch a treat.\"}"
+ },
+ {
+  "id": "s3940705d",
+  "kind": "new",
+  "left": "c_c457da9ba2d2.mp4",
+  "right": "c_74f5e04bbe5f.mp4",
+  "source": "c_73c6936d9a3e.mp4",
+  "prompt": "Replace the background, specifically the modern dark wood building and the slatted pergola casting linear shadows, with a classic stone archway that opens up to a lush, green garden. The stone archway should be detailed with natural textures and serve as a frame for the vibrant foliage, flowers, and greenery of the garden beyond. Ensure the lighting on the new background matches the bright, natural daylight of the original scene, and maintain the man, the striped rug, and the wooden deck exactly as they are."
+ },
+ {
+  "id": "s43e5352e",
+  "kind": "new",
+  "left": "c_53a278505abf.mp4",
+  "right": "c_d7c276dc525e.mp4",
+  "source": "c_7436f54b08fe.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey rock face and surrounding environment\", \"change\": \"replace with an underwater coral reef setting\", \"scene_context\": \"the background and surface the climber is ascending\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The jagged grey rock should be replaced with colorful coral formations and sea sponges. The surrounding air should be replaced with clear blue water containing small floating particles and fish to enhance the underwater atmosphere.\"}"
+ },
+ {
+  "id": "s6ebcb589",
+  "kind": "new",
+  "left": "c_85055f623ec7.mp4",
+  "right": "c_f23b309cca92.mp4",
+  "source": "c_37d8019f8f63.mp4",
+  "prompt": "Add a small bunch of fresh, vibrant green mint leaves resting on the white surface of the paddleboard, positioned immediately next to the man's left hand. The mint leaves should appear natural and realistic, with a slight sheen to suggest freshness, and should be scaled appropriately to fit the scene. Ensure the leaves are placed so they remain stationary on the board throughout the duration of the clip, blending seamlessly with the soft, diffused lighting of the beach environment."
+ },
+ {
+  "id": "s6e425524",
+  "kind": "new",
+  "left": "c_c0b4b46f8957.mp4",
+  "right": "c_2a0eea1c8111.mp4",
+  "source": "c_07b51238ba6f.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"the orange and white ticket\", \"change\": \"remove the ticket from the scene\", \"scene_context\": \"being inserted into the narrow slot of the ticket validation machine\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the ticket entirely while keeping the hand's movement and the machine slot visible. Ensure the background and the machine's surface are seamlessly filled in where the ticket was present.\"}"
+ },
+ {
+  "id": "s534cae2f",
+  "kind": "new",
+  "left": "c_5d862f23236e.mp4",
+  "right": "c_dff5d8716f99.mp4",
+  "source": "c_8f36f3f54b5b.mp4",
+  "prompt": "Replace the grassy field background, consisting of green and brown grass, with a broadleaf forest floor. The new background should feature a natural layer of fallen brown leaves, twigs, and patches of forest soil, while maintaining the same low-angle perspective and bright, natural sunlight. Ensure the golfer's brown shoes, the golf club, and the white golf ball remain untouched and interact naturally with the new forest floor texture throughout the entire video."
+ },
+ {
+  "id": "s798a387c",
+  "kind": "new",
+  "left": "c_37fbfb367b8d.mp4",
+  "right": "c_37a127037ebe.mp4",
+  "source": "c_731d8c1dfa03.mp4",
+  "prompt": "Add strong wind to the scene that creates visible ripples and choppy textures across the bright blue water surface. Modify the white water splashes and spray generated by the swimmer's freestyle strokes so that they are blown forcefully sideways, rather than splashing vertically, to simulate a high-wind environment."
+ },
+ {
+  "id": "s2df7a2f3",
+  "kind": "new",
+  "left": "c_9faf0c279b62.mp4",
+  "right": "c_49fa1f1ca131.mp4",
+  "source": "c_cef352ae2e85.mp4",
+  "prompt": "Transform the entire video into a claymation style. The Black woman, her red V-neck dress, the silver ribbon microphone, and the smoky background should all be reimagined as if they were handcrafted from modeling clay. The textures should appear matte and slightly irregular, with visible fingerprints and soft, rounded edges characteristic of stop-motion animation. The woman's facial expressions and hand gestures should be rendered with the chunky, tactile quality of clay, and the dramatic blue and red lighting should be adapted to reflect off these sculpted surfaces, maintaining the moody jazz-club atmosphere while adopting a playful, handcrafted aesthetic."
+ }
+]

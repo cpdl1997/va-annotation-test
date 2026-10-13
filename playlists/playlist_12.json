@@ -1,0 +1,359 @@
+[
+ {
+  "id": "scd403453",
+  "kind": "new",
+  "left": "c_5a3d83207ee5.mp4",
+  "right": "c_e136a35e7941.mp4",
+  "source": "c_3db3f9791ecf.mp4",
+  "prompt": "Modify the motion of the swirling red and blue ink plumes so that instead of their current slow, organic diffusion, they move in a rapid, clockwise spiral. The fluid ribbons of red and blue pigment should accelerate and tighten into a spinning vortex, maintaining their vibrant colors and smoke-like textures while rotating quickly around a central point in the frame."
+ },
+ {
+  "id": "s84718e21",
+  "kind": "new",
+  "left": "c_e9dfc4d03bff.mp4",
+  "right": "c_f652d975b8ef.mp4",
+  "source": "c_504513535f81.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"shot framing\", \"change\": \"change the close-up shot to a wide shot showing the person and the area they are watering\", \"scene_context\": \"a person using an orange spray nozzle in a garden\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"eye-level\", \"movement\": \"static\"}, \"detail\": \"Zoom out from the hand and nozzle to reveal the full figure of the person and the surrounding garden area being watered.\"}"
+ },
+ {
+  "id": "s069cd5b2",
+  "kind": "new",
+  "left": "c_bf84e6366c45.mp4",
+  "right": "c_0b74dca23f34.mp4",
+  "source": "c_9e8b11f27b39.mp4",
+  "prompt": "Replace the small green plant seedling that the person pulls out of the white utility bag with a small red flower. The red flower should be held in the person's gloved hands in the same manner as the seedling, maintaining the same scale and movement. Ensure the red color of the flower is vibrant and stands out against the muted, earthy tones of the forest background and the white bag, while blending naturally with the lighting and shadows of the scene."
+ },
+ {
+  "id": "s3677a71d",
+  "kind": "new",
+  "left": "c_4736699db2ad.mp4",
+  "right": "c_668798a575e1.mp4",
+  "source": "c_d0ef7a9456a8.mp4",
+  "prompt": "Add a hailstorm to the entire scene, featuring small, white ice pellets falling consistently across the frame. The hail should fall from the pale, overcast sky, passing in front of the man in the navy blue polo and the background of green and palm trees. Ensure the ice pellets have a slight motion blur to simulate falling speed and that they interact naturally with the environment, appearing to land on the dry, coarse grass and dirt of the driving range."
+ },
+ {
+  "id": "sef7a568b",
+  "kind": "new",
+  "left": "c_a4ad8d8acac8.mp4",
+  "right": "c_e98ef4829d08.mp4",
+  "source": "c_9d1c8f3cfb74.mp4",
+  "prompt": "Change the static close-up shot of the person wearing the white sleeveless top and black leather bag into an aerial drone shot. The camera should start at the current close-up position and smoothly pull back and ascend, transitioning from the detailed view of the tattooed arm and blue denim shirt to a wide-angle overhead perspective that reveals the person standing within the full urban environment and industrial setting."
+ },
+ {
+  "id": "s8fc0eb3f",
+  "kind": "new",
+  "left": "c_b42c161fc6e1.mp4",
+  "right": "c_bf76861f9ec2.mp4",
+  "source": "c_fed5a05d51b2.mp4",
+  "prompt": "Modify the action of the hand with rings and light-colored nail polish so that instead of just touching the small white pebble inside the frosted glass bowl, the hand physically grasps and picks up the pebble, lifting it completely out of the bowl. The movement should be smooth and natural, maintaining the soft lighting and high-contrast aesthetic of the scene."
+ },
+ {
+  "id": "s38021157",
+  "kind": "new",
+  "left": "c_df6277919c6a.mp4",
+  "right": "c_33b7a91fa1d9.mp4",
+  "source": "c_dbb3dd2ba4f6.mp4",
+  "prompt": "Change the color of the low red-brick wall located in the background, behind the zebra and below the green chain-link fence, from its original red hue to Medium Violet Magenta. Ensure the new color is applied uniformly across the entire length of the wall while preserving the original texture and mortar lines of the bricks."
+ },
+ {
+  "id": "scf953200",
+  "kind": "new",
+  "left": "c_ec23f55695f9.mp4",
+  "right": "c_6902283f2d49.mp4",
+  "source": "c_88112b4ff58d.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"entire scene\", \"change\": \"add a sandstorm effect with blowing dust and a hazy orange tint\", \"scene_context\": \"a woman rock climbing up a light-brown granite wall\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Overlay dynamic particles of blowing sand and dust that move across the frame. Apply a warm, hazy orange color grade to the entire image to simulate a desert sandstorm atmosphere.\"}"
+ },
+ {
+  "id": "sb739280d",
+  "kind": "new",
+  "left": "c_7ef61e50d19d.mp4",
+  "right": "c_8b6bedd4c8df.mp4",
+  "source": "c_53da22b02d4a.mp4",
+  "prompt": "Transform the entire video, including the hand, the metal pour spout, the flowing clear liquid, and the dark blue background with its golden and white bokeh lights, into a pencil sketch style. The final result should look like a hand-drawn animation on textured paper, replacing all colors and gradients with graphite-like pencil strokes, cross-hatching for the shadows in the blue background, and fine, light lines to represent the transparency of the pouring liquid and the highlights of the bokeh circles."
+ },
+ {
+  "id": "s091ed5dd",
+  "kind": "new",
+  "left": "c_c523ca0e5284.mp4",
+  "right": "c_be1cbc2b76f6.mp4",
+  "source": "c_fc36eb059082.mp4",
+  "prompt": "Add a strong wind effect to the scene, specifically targeting the small green plant located in the blurred background. The leaves of the plant should flutter and sway rapidly and erratically, as if caught in a powerful gust of wind, while all other elements in the office workspace remain still. The movement should be consistent throughout the clip, creating a dynamic contrast between the static foreground and the wind-blown foliage in the background."
+ },
+ {
+  "id": "w1_pl12_a02",
+  "kind": "attention",
+  "left": "c_85c929461dbe.mp4",
+  "right": "c_9c66ccb1aeaf.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "s7973a952",
+  "kind": "new",
+  "left": "c_e8909c36f60c.mp4",
+  "right": "c_41dfb1e43deb.mp4",
+  "source": "c_c89ca66c91a9.mp4",
+  "prompt": "Add a large, swirling tornado in the background, positioned behind the small green leafy shrub. The tornado should appear as a rotating funnel of grey and white debris and wind, extending from the snowy ground up into the sky. Ensure the tornado's motion is dynamic and swirling, blending naturally with the cool color palette of the winter landscape while maintaining a sense of scale and intensity behind the shrub."
+ },
+ {
+  "id": "w1_pl12_r02",
+  "kind": "repeat",
+  "left": "c_7ccecb3c3977.mp4",
+  "right": "c_36a358aff409.mp4",
+  "source": "c_3bc57d801cbe.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"tilt the camera up to focus on the white metal vaulted ceiling\", \"scene_context\": \"inside a large, arched train station with a blonde woman\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"low angle\", \"movement\": \"tilt up\"}, \"detail\": \"As the woman looks upward, the camera should smoothly tilt up from her face to capture the intricate geometry and glass panels of the white vaulted ceiling.\"}",
+  "repeat_of": "s4a04f464"
+ },
+ {
+  "id": "s1afe4968",
+  "kind": "new",
+  "left": "c_5f2f38c4e675.mp4",
+  "right": "c_3787f37c4522.mp4",
+  "source": "c_6806add32c88.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"the white disposable coffee cup\", \"change\": \"Remove the white disposable coffee cup from the man's hand\", \"scene_context\": \"held by the man in the dark blue uniform\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the coffee cup entirely from the sequence, ensuring the man's hand movements and facial expressions are naturally filled in where the cup previously obscured his face and clothing.\"}"
+ },
+ {
+  "id": "s55413fb4",
+  "kind": "new",
+  "left": "c_c882464af4d3.mp4",
+  "right": "c_210cfd5efcb2.mp4",
+  "source": "c_7b8edb38bbfd.mp4",
+  "prompt": "Add a soft, golden sunlight glow and floating dust motes across the woman in the black backless top and the dark gray yoga mat to simulate a sunny indoor environment. The golden light should appear as if streaming from a nearby window, creating warm highlights on her skin and the surface of the mat, while the dust motes should drift slowly and subtly through the light beams to enhance the atmospheric, sun-drenched feel of the room."
+ },
+ {
+  "id": "s26e62874",
+  "kind": "new",
+  "left": "c_ea2ccca73d0c.mp4",
+  "right": "c_0dd787067423.mp4",
+  "source": "c_b613bac182f6.mp4",
+  "prompt": "Change the current front-facing medium shot to a high-angle shot, shifting the camera viewpoint to look down from above at the group of four young adults and the white counter. The new perspective should emphasize the layout of the food, specifically the wooden platter of sliced tomatoes and the bowl of chips, while still capturing the people in the red jacket, black sweater, grey hoodie, and plaid shirt as they socialize with their wine glasses."
+ },
+ {
+  "id": "w1_pl12_g04",
+  "kind": "golden",
+  "left": "c_1745cf70b6eb.mp4",
+  "right": "c_fc9db1c53c19.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s3b5cff29",
+  "kind": "new",
+  "left": "c_87f8219cf732.mp4",
+  "right": "c_8c2f6ebcc66d.mp4",
+  "source": "c_e09d33690a1f.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the white polo and grey trousers\", \"change\": \"conversing with an unseen person off-camera while putting\", \"scene_context\": \"standing on a sunny golf green with a putter\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should be seen talking, nodding, and gesturing slightly with his head or free hand toward the side of the frame while maintaining his putting stance and completing the shot.\"}"
+ },
+ {
+  "id": "s96d8f2b8",
+  "kind": "new",
+  "left": "c_e249d7981ca0.mp4",
+  "right": "c_e01f0de3e521.mp4",
+  "source": "c_bee2d7715a69.mp4",
+  "prompt": "Change the color of the overcast sky from its current muted grey to a medium cyan-blue. The edit should specifically target the entire upper region of the frame above the horizon and the distant mountains, replacing the flat, desaturated grey tones with a vibrant yet natural medium cyan-blue hue while maintaining the existing cloud textures and lighting."
+ },
+ {
+  "id": "s4138195a",
+  "kind": "new",
+  "left": "c_365eee5c4ea4.mp4",
+  "right": "c_3954ae530107.mp4",
+  "source": "c_0505bae327bb.mp4",
+  "prompt": "Add strong wind to the scene that creates visible ripples and choppy textures across the bright blue water surface. Modify the white water splashes and spray generated by the swimmer's freestyle strokes so that they are blown forcefully sideways, rather than splashing vertically, to simulate a high-wind environment."
+ },
+ {
+  "id": "w1_pl12_r05",
+  "kind": "repeat",
+  "left": "c_d2adce1c9c3f.mp4",
+  "right": "c_0aeafeb34e9f.mp4",
+  "source": "c_5b31e935a305.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment.",
+  "repeat_of": "sadcb9d2e"
+ },
+ {
+  "id": "sf913a293",
+  "kind": "new",
+  "left": "c_5ef357772da4.mp4",
+  "right": "c_b1791710202a.mp4",
+  "source": "c_c7c6d10ea5cc.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"plain, off-white wall\", \"change\": \"replace with a scenic view of a coastal landscape featuring a lighthouse\", \"scene_context\": \"the background behind the woman\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new background should be a high-resolution coastal scene with a lighthouse, blending naturally with the lighting on the woman. Ensure the edges around her hair and arms are cleanly masked to maintain a realistic composite.\"}"
+ },
+ {
+  "id": "s54ea0653",
+  "kind": "new",
+  "left": "c_376e50c7bea9.mp4",
+  "right": "c_366d8b5f327f.mp4",
+  "source": "c_93b2ffd824cf.mp4",
+  "prompt": "Modify the action of the woman wearing the pinkish-red oversized shirt and mustard-yellow trousers so that she performs a full 360-degree spin around in a circle while holding the basketball before she tosses it high into the air. The spin should be fluid and integrated into her initial movements, maintaining the same rhythmic and surreal mood of the scene, and occur just before the moment the ball leaves her hands."
+ },
+ {
+  "id": "se906163a",
+  "kind": "new",
+  "left": "c_98867e5db8af.mp4",
+  "right": "c_e36201239ec9.mp4",
+  "source": "c_b4885c767dd0.mp4",
+  "prompt": "Change the color of the gold scalloped cake board located directly underneath the white frosted cake to a metallic silver. Ensure the silver color maintains the same reflective properties and highlights as the original gold board, blending naturally with the lighting of the wooden table."
+ },
+ {
+  "id": "w1_pl12_r04",
+  "kind": "repeat",
+  "left": "c_e98ef4829d08.mp4",
+  "right": "c_a4ad8d8acac8.mp4",
+  "source": "c_9d1c8f3cfb74.mp4",
+  "prompt": "Change the static close-up shot of the person wearing the white sleeveless top and black leather bag into an aerial drone shot. The camera should start at the current close-up position and smoothly pull back and ascend, transitioning from the detailed view of the tattooed arm and blue denim shirt to a wide-angle overhead perspective that reveals the person standing within the full urban environment and industrial setting.",
+  "repeat_of": "sef7a568b"
+ },
+ {
+  "id": "saff8d5d4",
+  "kind": "new",
+  "left": "c_a1b0a7c2b359.mp4",
+  "right": "c_689603ee5890.mp4",
+  "source": "c_4a07d7112690.mp4",
+  "prompt": "Change the static wide shot to an aerial drone shot that follows the shirtless man in red shorts from above. Instead of the fixed perspective, the camera should descend and track his movement as he walks across the blue mats and ascend vertically to follow his trajectory as he jumps high into the air from the small blue trampoline, capturing the layout of the gymnastics facility, including the orange platform and olive-green foam pits, from a top-down perspective."
+ },
+ {
+  "id": "s80637db9",
+  "kind": "new",
+  "left": "c_407e7a8dfbf6.mp4",
+  "right": "c_051e7f61868e.mp4",
+  "source": "c_d88aa8f928be.mp4",
+  "prompt": "Tilt the camera down from the spinning clear plastic reels and the central head assembly to focus on the white metallic base of the tape recorder, specifically centering the view on the lower section of the machine where the vents and the small black switch are located."
+ },
+ {
+  "id": "s927c10ad",
+  "kind": "new",
+  "left": "c_76d8708a0cfa.mp4",
+  "right": "c_dc96f75beca1.mp4",
+  "source": "c_68722e57b78b.mp4",
+  "prompt": "Change the color of the brown apron worn by the person to a deep maroon wine shade. Ensure the color shift is consistent across the entire fabric of the apron throughout the video, maintaining the original lighting, shadows, and texture of the material while replacing the brown hue with a rich, dark red wine color."
+ },
+ {
+  "id": "sd91c7fa4",
+  "kind": "new",
+  "left": "c_81b859311fc2.mp4",
+  "right": "c_1934251ff18d.mp4",
+  "source": "c_4e5749fb013f.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"Transform the entire video into a Studio Ghibli anime style\", \"scene_context\": \"a woman bowling in a bowling alley with a man watching\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply hand-drawn aesthetic with soft, painterly textures, vibrant yet natural colors, and the characteristic whimsical character designs of Studio Ghibli. The celestial mural in the background should be rendered as a lush, detailed anime painting.\"}"
+ },
+ {
+  "id": "w1_pl12_a01",
+  "kind": "attention",
+  "left": "c_0f47cde479f9.mp4",
+  "right": "c_6c16b03356b8.mp4",
+  "source": "c_cb4e7310d4a7.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "s8e3f7cd8",
+  "kind": "new",
+  "left": "c_b8eaf29ac8c0.mp4",
+  "right": "c_aa2e498f3689.mp4",
+  "source": "c_868c473e87b3.mp4",
+  "prompt": "Replace the pitch-black night background surrounding the shirtless man and the sandy beach with a cinematic starry night sky and a moonlit ocean. The deep black void should be filled with a dense field of twinkling stars and a glowing crescent moon that casts a soft, silvery reflection across the surface of a calm ocean meeting the shoreline. Ensure the new background blends seamlessly with the existing sandy foreground and that the warm orange glow from the flaming staffs continues to illuminate the man's skin and the sand, creating a high-contrast visual between the cool blue tones of the moonlit night and the warm fire."
+ },
+ {
+  "id": "s4a04f464",
+  "kind": "new",
+  "left": "c_36a358aff409.mp4",
+  "right": "c_7ccecb3c3977.mp4",
+  "source": "c_3bc57d801cbe.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"tilt the camera up to focus on the white metal vaulted ceiling\", \"scene_context\": \"inside a large, arched train station with a blonde woman\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"low angle\", \"movement\": \"tilt up\"}, \"detail\": \"As the woman looks upward, the camera should smoothly tilt up from her face to capture the intricate geometry and glass panels of the white vaulted ceiling.\"}"
+ },
+ {
+  "id": "s68f8bef7",
+  "kind": "new",
+  "left": "c_d35f6b857d30.mp4",
+  "right": "c_774bee127aaf.mp4",
+  "source": "c_e1ca3c21965b.mp4",
+  "prompt": "Add a strong wind effect to the scene, specifically targeting the small green plant located in the blurred background. The leaves of the plant should flutter and sway rapidly and erratically, as if caught in a powerful gust of wind, while all other elements in the office workspace remain still. The movement should be consistent throughout the clip, creating a dynamic contrast between the static foreground and the wind-blown foliage in the background."
+ },
+ {
+  "id": "s386d2aff",
+  "kind": "new",
+  "left": "c_48fbdcd3ec63.mp4",
+  "right": "c_e58efedb6d33.mp4",
+  "source": "c_2fdad2755bf5.mp4",
+  "prompt": "Remove the red battle ropes and their black rubberized handles from the person's hands throughout the entire video. The removal should be seamless, ensuring that the person's hands and fingers are realistically reconstructed where the ropes and handles were previously held. The background, including the dark grey walls and the geometric white LED ceiling lights, should be filled in naturally to replace the space occupied by the ropes. The final result should show the person standing in the gym with their hands empty, maintaining the same lighting, shadows, and muscle tension in their arms and hands."
+ },
+ {
+  "id": "w1_pl12_g05",
+  "kind": "golden",
+  "left": "c_c16c7cc8a9c4.mp4",
+  "right": "c_9b25fc4df586.mp4",
+  "source": "c_dff4add31e30.mp4",
+  "prompt": "Add a strong wind effect to the scene that causes the red and white floral tablecloth on the left side of the frame to flutter and blow realistically. The fabric should ripple and wave dynamically throughout the video, as if caught in a powerful gust of wind, while the man and the other objects in the workshop remain unaffected. Ensure the movement of the cloth looks natural and consistent with the physics of a light fabric being blown by a strong breeze."
+ },
+ {
+  "id": "sfddb705a",
+  "kind": "new",
+  "left": "c_8b7a24cff720.mp4",
+  "right": "c_f21a5a4616e2.mp4",
+  "source": "c_1ada89e3af68.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"red beaded bracelet\", \"change\": \"replace with a silver chain bracelet\", \"scene_context\": \"on the person's left wrist, next to the tattoo\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The silver chain bracelet should have a metallic sheen that reflects the warm orange glow of the campfire as the fire grows. It should follow the same movement and position as the original red beaded bracelet.\"}"
+ },
+ {
+  "id": "w1_pl12_r03",
+  "kind": "repeat",
+  "left": "c_689603ee5890.mp4",
+  "right": "c_a1b0a7c2b359.mp4",
+  "source": "c_4a07d7112690.mp4",
+  "prompt": "Change the static wide shot to an aerial drone shot that follows the shirtless man in red shorts from above. Instead of the fixed perspective, the camera should descend and track his movement as he walks across the blue mats and ascend vertically to follow his trajectory as he jumps high into the air from the small blue trampoline, capturing the layout of the gymnastics facility, including the orange platform and olive-green foam pits, from a top-down perspective.",
+  "repeat_of": "saff8d5d4"
+ },
+ {
+  "id": "w1_pl12_g02",
+  "kind": "golden",
+  "left": "c_de0c640bb23d.mp4",
+  "right": "c_9243339c09ea.mp4",
+  "source": "c_edbb5b590319.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "w1_pl12_r01",
+  "kind": "repeat",
+  "left": "c_2a5c8c1126ee.mp4",
+  "right": "c_5c24951c9eec.mp4",
+  "source": "c_d078ea659074.mp4",
+  "prompt": "Add a gentle snowfall effect to the scene, with small, white snowflakes drifting slowly through the open fireplace opening from the top of the frame. Ensure the snowflakes interact naturally with the environment by having some of them settle and accumulate as a thin, white layer on the top surface and handle of the copper pot in the left foreground. The snow should appear translucent and soft, contrasting with the warm orange glow of the flickering flames and the dark brick background, while maintaining the cozy, atmospheric mood of the shot.",
+  "repeat_of": "sb791ef37"
+ },
+ {
+  "id": "sb791ef37",
+  "kind": "new",
+  "left": "c_5c24951c9eec.mp4",
+  "right": "c_2a5c8c1126ee.mp4",
+  "source": "c_d078ea659074.mp4",
+  "prompt": "Add a gentle snowfall effect to the scene, with small, white snowflakes drifting slowly through the open fireplace opening from the top of the frame. Ensure the snowflakes interact naturally with the environment by having some of them settle and accumulate as a thin, white layer on the top surface and handle of the copper pot in the left foreground. The snow should appear translucent and soft, contrasting with the warm orange glow of the flickering flames and the dark brick background, while maintaining the cozy, atmospheric mood of the shot."
+ },
+ {
+  "id": "w1_pl12_g01",
+  "kind": "golden",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "s043b2a92",
+  "kind": "new",
+  "left": "c_6a90294d8cba.mp4",
+  "right": "c_e39e71a637df.mp4",
+  "source": "c_4073018a2d49.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"tilt the camera up to focus on the white metal vaulted ceiling\", \"scene_context\": \"inside a large, arched train station with a blonde woman\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"low angle\", \"movement\": \"tilt up\"}, \"detail\": \"As the woman looks upward, the camera should smoothly tilt up from her face to capture the intricate geometry and glass panels of the white vaulted ceiling.\"}"
+ },
+ {
+  "id": "w1_pl12_g03",
+  "kind": "golden",
+  "left": "c_c510c06349d2.mp4",
+  "right": "c_2c8a9a316d84.mp4",
+  "source": "c_f4dd583f008e.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "sadcb9d2e",
+  "kind": "new",
+  "left": "c_0aeafeb34e9f.mp4",
+  "right": "c_d2adce1c9c3f.mp4",
+  "source": "c_5b31e935a305.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ }
+]

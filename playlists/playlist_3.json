@@ -1,0 +1,359 @@
+[
+ {
+  "id": "w1_pl3_r03",
+  "kind": "repeat",
+  "left": "c_91883f91193f.mp4",
+  "right": "c_b85fd5246d79.mp4",
+  "source": "c_811d0b4a62f5.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"red accents on the players' white baseball uniforms\", \"change\": \"change the red accents to bright yellow\", \"scene_context\": \"on players positioned across the dirt infield and green grass outfield\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply the bright yellow color consistently to the caps, socks, and jersey trim of all players in white uniforms throughout the entire sequence, keeping the white base of the uniforms unchanged.\"}",
+  "repeat_of": "s33a1cd00"
+ },
+ {
+  "id": "seba0f42d",
+  "kind": "new",
+  "left": "c_0e86d6b92e68.mp4",
+  "right": "c_5be7a6fc2b5f.mp4",
+  "source": "c_cfb998442e38.mp4",
+  "prompt": "Add a small piece of green broccoli resting on one of the red-tiled stairs in the lower half of the frame. The broccoli should be placed statically on a step, appearing as a small, textured green organic object that contrasts with the smooth red surface of the tiles. Ensure the lighting and shadows on the broccoli match the soft, natural daylight of the scene so that it looks naturally integrated into the environment as the man walks past it."
+ },
+ {
+  "id": "sd09d9368",
+  "kind": "new",
+  "left": "c_7a1c85a2a2db.mp4",
+  "right": "c_5bce51fd5966.mp4",
+  "source": "c_327976fcc448.mp4",
+  "prompt": "Change the camera movement to zoom in on the thin layer of white mist floating across the lake's surface, moving closer to the water to capture the detailed texture and movement of the fog as it drifts between the reflections of the leafless trees."
+ },
+ {
+  "id": "w1_pl3_r01",
+  "kind": "repeat",
+  "left": "c_33b3b6d0b510.mp4",
+  "right": "c_454dba746ce7.mp4",
+  "source": "c_e5b4283e64ca.mp4",
+  "prompt": "Apply a pop art style to the entire video, transforming the scene into a comic-book aesthetic. Implement bold, thick black outlines around the man, the blue yoga mat, the black tufted leather sofa, and the architectural lines of the window and red brick wall. Replace the natural lighting and neutral tones with a vibrant, highly saturated color palette, making the red bricks and blue mat pop intensely against the background. The final result should look like a stylized graphic illustration with flat, vivid colors and strong contrast.",
+  "repeat_of": "s8d68ff13"
+ },
+ {
+  "id": "s3cfdc5bc",
+  "kind": "new",
+  "left": "c_3d49b58a8c60.mp4",
+  "right": "c_ccb60cec88c5.mp4",
+  "source": "c_d010b56a0e81.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the yellow shirt and grey vest\", \"change\": \"jumps off the concrete ledge\", \"scene_context\": \"standing centrally on a concrete ledge against an urban backdrop\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should bend his knees and propel himself forward and downward, landing on the ground below the ledge. The movement should be fluid and physically natural, maintaining his clothing and appearance.\"}"
+ },
+ {
+  "id": "sb285a8de",
+  "kind": "new",
+  "left": "c_f421bcd34340.mp4",
+  "right": "c_21bdcd3ac6ab.mp4",
+  "source": "c_45a4a22a5bc4.mp4",
+  "prompt": "Replace the light-colored table surface and the blurred white background with a sandy desert landscape. The new background should feature golden-brown sand dunes and sparse, dry vegetation under a bright sky. Ensure that the person in the blue top, the red paper, the white ink bowl, and the striped cloth remain untouched and appear naturally integrated into the new desert environment, maintaining the original lighting and focus."
+ },
+ {
+  "id": "s5a825932",
+  "kind": "new",
+  "left": "c_81a6fc2971ae.mp4",
+  "right": "c_79683e8c1c32.mp4",
+  "source": "c_b309c18de0ab.mp4",
+  "prompt": "Change the aerial wide shot to a close-up shot of the blue pickup truck and silver trailer. Instead of the high-angle perspective showing the entire golden-brown field and distant trees, the camera should be positioned much closer to the vehicle, focusing tightly on the blue truck and the small silver trailer it is towing. The frame should emphasize the details of the truck and trailer as they move across the dry grass, while the background elements like the white shed and red structure become blurred or move out of frame, creating a more intimate and detailed view of the vehicle's movement."
+ },
+ {
+  "id": "se5448bd9",
+  "kind": "new",
+  "left": "c_25a4bbec23aa.mp4",
+  "right": "c_abf8e8552753.mp4",
+  "source": "c_4492237e854a.mp4",
+  "prompt": "Replace the yellow banana located on the white desk, behind the student's hand and next to the open textbook, with a red apple. The red apple should be placed in the exact same position as the banana, maintaining the same scale and perspective to fit naturally within the academic setting. Ensure the lighting and shadows on the red apple match the bright, neutral lighting of the scene so that it looks like a real object resting on the white surface."
+ },
+ {
+  "id": "s33a1cd00",
+  "kind": "new",
+  "left": "c_b85fd5246d79.mp4",
+  "right": "c_91883f91193f.mp4",
+  "source": "c_811d0b4a62f5.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"red accents on the players' white baseball uniforms\", \"change\": \"change the red accents to bright yellow\", \"scene_context\": \"on players positioned across the dirt infield and green grass outfield\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply the bright yellow color consistently to the caps, socks, and jersey trim of all players in white uniforms throughout the entire sequence, keeping the white base of the uniforms unchanged.\"}"
+ },
+ {
+  "id": "sf269deaf",
+  "kind": "new",
+  "left": "c_00d183993f45.mp4",
+  "right": "c_0fb918ad0b7c.mp4",
+  "source": "c_d25d938c5910.mp4",
+  "prompt": "Add a heavy rain effect falling across the entire industrial scene. The rain should consist of dense, fast-moving vertical streaks of water that overlay the person in the grey t-shirt, the weathered grey bench grinder, and the reddish-brown background. Ensure the rain is consistently distributed across the frame, creating a moody, wet atmosphere that interacts with the lighting of the scene, while maintaining the visibility of the bright orange sparks flying from the grinding wheel."
+ },
+ {
+  "id": "w1_pl3_a01",
+  "kind": "attention",
+  "left": "c_7766f8ad5204.mp4",
+  "right": "c_fd0f5bcdbd3c.mp4",
+  "source": "c_08467013f4af.mp4",
+  "prompt": "Replace the entire background behind the man, including the blurred park setting, the green food truck, the picnic tables, and the handwritten menu board, with a scenic coastal environment. The new background should feature a sandy shoreline, a blue ocean, and a prominent lighthouse visible in the far distance. Ensure the lighting on the coastal scene matches the muted, overcast lighting on the man to maintain a seamless integration."
+ },
+ {
+  "id": "s0358f762",
+  "kind": "new",
+  "left": "c_68ba4a475808.mp4",
+  "right": "c_d483bcfb7a50.mp4",
+  "source": "c_270e96e9eeb1.mp4",
+  "prompt": "Change the static medium shot to an arc shot that rotates around the person performing the resistance band squat. Instead of the camera remaining fixed in front of the person on the red yoga mat, the viewpoint should smoothly orbit around them in a semi-circle. This movement should capture the person from different angles as they transition from the squat position to standing, showing the tension of the red resistance band and the person's form from the side and back, while maintaining the focus on their lower body against the wooden paneled wall."
+ },
+ {
+  "id": "sef7bd4b5",
+  "kind": "new",
+  "left": "c_bb1affcde0b5.mp4",
+  "right": "c_87e0e58d32f3.mp4",
+  "source": "c_3d01dcde180f.mp4",
+  "prompt": "Zoom in on the woman's hands as they manipulate the warp threads and shuttle on the wooden loom. Change the static medium close-up shot to a tight close-up focusing specifically on her hands, the gold bracelets, and the watch on her left wrist. The frame should tightly crop out her upper body and the surrounding workshop, centering the view on the rhythmic movement of her fingers weaving the orange and black striped fabric and the action of passing the shuttle through the threads."
+ },
+ {
+  "id": "sf02fbb26",
+  "kind": "new",
+  "left": "c_f6ef4753672d.mp4",
+  "right": "c_92d74da93af2.mp4",
+  "source": "c_b4247978d492.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"red-brown brick wall building facade\", \"change\": \"replace with a lush green garden hedge\", \"scene_context\": \"the background behind the cat and the wooden fence\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The brick wall should be completely replaced by a dense, vibrant green hedge with small leaves, maintaining the same depth and lighting as the original scene.\"}"
+ },
+ {
+  "id": "sbdd32162",
+  "kind": "new",
+  "left": "c_d0bacdce84b4.mp4",
+  "right": "c_06360d4abeef.mp4",
+  "source": "c_a5152019052e.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small, colorful silent disco headphone\", \"change\": \"add a small, colorful silent disco headphone resting on top of the white flakes\", \"scene_context\": \"in the center of the frame, resting on the white flaky material\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The headphones should be small in scale relative to the frame and feature vibrant, multi-colored accents. They should appear to be physically resting on the surface of the flakes, with some flakes slightly overlapping the bottom of the headphones to create a natural integration.\"}"
+ },
+ {
+  "id": "s0f491a78",
+  "kind": "new",
+  "left": "c_e15395469cda.mp4",
+  "right": "c_f7c1a005169d.mp4",
+  "source": "c_46bbb7c7885f.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "s6fc3f1a3",
+  "kind": "new",
+  "left": "c_36fc8ff37316.mp4",
+  "right": "c_a1f91d55977d.mp4",
+  "source": "c_509d0ad7c8ed.mp4",
+  "prompt": "Replace the rustic, thatched-roof shelter and the rural outdoor background, including the wooden platform, the earthy-toned surroundings, and the framing wooden posts, with a grand, ornate throne room. The new background should feature opulent architectural details such as high vaulted ceilings, polished marble floors, gold-leafed columns, and rich velvet drapery. Ensure the man remains in his original position and continues his action of shaving bamboo, but place him within this luxurious setting so that the contrast between his simple attire and the majestic environment is visually striking."
+ },
+ {
+  "id": "s8d68ff13",
+  "kind": "new",
+  "left": "c_454dba746ce7.mp4",
+  "right": "c_33b3b6d0b510.mp4",
+  "source": "c_e5b4283e64ca.mp4",
+  "prompt": "Apply a pop art style to the entire video, transforming the scene into a comic-book aesthetic. Implement bold, thick black outlines around the man, the blue yoga mat, the black tufted leather sofa, and the architectural lines of the window and red brick wall. Replace the natural lighting and neutral tones with a vibrant, highly saturated color palette, making the red bricks and blue mat pop intensely against the background. The final result should look like a stylized graphic illustration with flat, vivid colors and strong contrast."
+ },
+ {
+  "id": "s84091491",
+  "kind": "new",
+  "left": "c_f3b736be2a98.mp4",
+  "right": "c_73513a666bef.mp4",
+  "source": "c_b15ad13a2bae.mp4",
+  "prompt": "Replace the distant blue mountains in the background with a futuristic cityscape. The cityscape should feature towering skyscrapers, neon lights, and advanced architectural structures that stretch across the horizon, replacing the natural mountain range while maintaining the same perspective and scale. Ensure the lighting of the futuristic city blends naturally with the cloudy sky and the overall lighting of the scene, creating a stark contrast between the rustic, reddish-brown dirt road in the foreground and the high-tech urban environment in the distance."
+ },
+ {
+  "id": "sb1f119f8",
+  "kind": "new",
+  "left": "c_96eb44f9d15e.mp4",
+  "right": "c_fbf81097c243.mp4",
+  "source": "c_36d405c79243.mp4",
+  "prompt": "Replace the plain white wall and the textured grey wall in the background with a blurred view of an indoor basketball court. Ensure the basketball court background is out of focus to maintain the depth of field, keeping the houseplants on the wooden windowsill and shelf in sharp focus. The transition between the foreground plants and the new background should be seamless, preserving the soft, natural lighting of the original scene."
+ },
+ {
+  "id": "w1_pl3_r05",
+  "kind": "repeat",
+  "left": "c_06360d4abeef.mp4",
+  "right": "c_d0bacdce84b4.mp4",
+  "source": "c_a5152019052e.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small, colorful silent disco headphone\", \"change\": \"add a small, colorful silent disco headphone resting on top of the white flakes\", \"scene_context\": \"in the center of the frame, resting on the white flaky material\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The headphones should be small in scale relative to the frame and feature vibrant, multi-colored accents. They should appear to be physically resting on the surface of the flakes, with some flakes slightly overlapping the bottom of the headphones to create a natural integration.\"}",
+  "repeat_of": "sbdd32162"
+ },
+ {
+  "id": "s9c43a897",
+  "kind": "new",
+  "left": "c_a832aad38b81.mp4",
+  "right": "c_b228e497da11.mp4",
+  "source": "c_3b32dfd6ba05.mp4",
+  "prompt": "Change the static medium shot to an arc shot that rotates around the person performing the resistance band squat. Instead of the camera remaining fixed in front of the person on the red yoga mat, the viewpoint should smoothly orbit around them in a semi-circle. This movement should capture the person from different angles as they transition from the squat position to standing, showing the tension of the red resistance band and the person's form from the side and back, while maintaining the focus on their lower body against the wooden paneled wall."
+ },
+ {
+  "id": "sa4759c4a",
+  "kind": "new",
+  "left": "c_54bd7f3d0b95.mp4",
+  "right": "c_904f2b7543c8.mp4",
+  "source": "c_d7cadc6d34a5.mp4",
+  "prompt": "Change the static close-up shot to a slow, gradual zoom-in on the white dog's face. The camera should move closer to the dog's mouth and nose as it chews the light-colored treat, increasing the detail of the facial movements, the texture of the white fur, and the dog's tongue. The zoom should be smooth and steady, maintaining the focus on the dog's head while the background grass and blurred structure recede further into the periphery."
+ },
+ {
+  "id": "w1_pl3_g04",
+  "kind": "golden",
+  "left": "c_671416bfa57a.mp4",
+  "right": "c_cc923f3ba468.mp4",
+  "source": "c_ff9b47833482.mp4",
+  "prompt": "Replace the three clear plastic drawers, which are currently wrapped in protective plastic film inside the white LG freezer, with three rustic wooden crates. The wooden crates should be sized to fit perfectly within the freezer's compartments, maintaining the same positions as the original drawers. Ensure the texture of the wood is detailed and natural, contrasting with the smooth white interior of the freezer. The crates should follow the camera's upward panning and tilting movement, remaining realistically integrated into the scene with consistent lighting and shadows as the camera moves."
+ },
+ {
+  "id": "s790bf47e",
+  "kind": "new",
+  "left": "c_ad71ffbfcdcf.mp4",
+  "right": "c_cea6690e2feb.mp4",
+  "source": "c_114fb5646f68.mp4",
+  "prompt": "Add a small, silver-colored fish that jumps out of the murky green water in the foreground, creating a small splash and concentric ripples upon its re-entry. The fish should arc gracefully from the water's surface, appearing briefly against the backdrop of the mossy stone wall and green ferns, before diving back down. The motion should be fluid and natural, with the water droplets from the splash blending seamlessly with the existing ripples and foam created by the trickling weir."
+ },
+ {
+  "id": "w1_pl3_g05",
+  "kind": "golden",
+  "left": "c_9ff7fca93f28.mp4",
+  "right": "c_170850d3bb90.mp4",
+  "source": "c_4885d7789dfe.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "s0c6ef3ce",
+  "kind": "new",
+  "left": "c_8f01cf400455.mp4",
+  "right": "c_690c513bf2d3.mp4",
+  "source": "c_73b306e99ddb.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"transform into a pixel art style\", \"scene_context\": \"a hand pouring sand against a red sandstone background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Convert the footage into a low-resolution, grid-based pixel art aesthetic. Maintain the warm terracotta and ochre color palette while simplifying the textures of the sand and rock into distinct blocks of color.\"}"
+ },
+ {
+  "id": "w1_pl3_a02",
+  "kind": "attention",
+  "left": "c_0f47cde479f9.mp4",
+  "right": "c_6c16b03356b8.mp4",
+  "source": "c_cb4e7310d4a7.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "w1_pl3_g02",
+  "kind": "golden",
+  "left": "c_49062e6a8f97.mp4",
+  "right": "c_99d191f1a090.mp4",
+  "source": "c_112bfa1cff08.mp4",
+  "prompt": "Add a layer of light, translucent white mist over the distant green coastline and the horizon line. The mist should appear as a soft, atmospheric haze that partially obscures the dense green mangroves and blends the land into the pale blue sky, creating a sense of depth and humidity without completely hiding the landscape. The effect should be subtle and consistent across the entire background throughout the duration of the clip."
+ },
+ {
+  "id": "sbef57147",
+  "kind": "new",
+  "left": "c_a08d1a2f53e8.mp4",
+  "right": "c_8835a7bfbcde.mp4",
+  "source": "c_0229f440056a.mp4",
+  "prompt": "Modify the action of the black and white striped zebra walking across the grassy ridge. Instead of continuing its path from left to right, have the zebra stop walking, turn toward the calm body of water below the ridge, and lower its head to drink from the water's surface. Ensure the movement is fluid and physically plausible, and update the mirror reflection in the water to accurately match the zebra's new posture as it bends down to drink."
+ },
+ {
+  "id": "s5d5f1ac8",
+  "kind": "new",
+  "left": "c_a1292a5eb94b.mp4",
+  "right": "c_e8e77efe1520.mp4",
+  "source": "c_f39e7bc93b83.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"black wall fans\", \"change\": \"remove the black wall fans\", \"scene_context\": \"mounted on the wall in the background behind the man\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the two black electric fans visible on the wall in the background. Fill the resulting gaps with the existing wall texture and colors to maintain a seamless background.\"}"
+ },
+ {
+  "id": "w1_pl3_g01",
+  "kind": "golden",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "w1_pl3_r02",
+  "kind": "repeat",
+  "left": "c_79683e8c1c32.mp4",
+  "right": "c_81a6fc2971ae.mp4",
+  "source": "c_b309c18de0ab.mp4",
+  "prompt": "Change the aerial wide shot to a close-up shot of the blue pickup truck and silver trailer. Instead of the high-angle perspective showing the entire golden-brown field and distant trees, the camera should be positioned much closer to the vehicle, focusing tightly on the blue truck and the small silver trailer it is towing. The frame should emphasize the details of the truck and trailer as they move across the dry grass, while the background elements like the white shed and red structure become blurred or move out of frame, creating a more intimate and detailed view of the vehicle's movement.",
+  "repeat_of": "s5a825932"
+ },
+ {
+  "id": "sa6ff0b11",
+  "kind": "new",
+  "left": "c_f4b4130e7462.mp4",
+  "right": "c_18c0feb7a3f1.mp4",
+  "source": "c_ee6a78549a32.mp4",
+  "prompt": "Change the color of the light blue wall in the background to lavender. Ensure that the lavender hue is applied consistently across the entire wall surface, while preserving the white, stylized wave-like patterns and the overall lighting of the scene. The final result should replace all light blue tones in the background with a soft lavender color, maintaining the same brightness and saturation levels to keep the cool color palette of the enclosure."
+ },
+ {
+  "id": "s02ed7d55",
+  "kind": "new",
+  "left": "c_d2398767c734.mp4",
+  "right": "c_741bba38f902.mp4",
+  "source": "c_7e31cd2cece0.mp4",
+  "prompt": "Transform the entire video into an oil painting style. Apply thick, visible brushstrokes and a rich, textured impasto effect across the entire frame. The brown dog, the sparse green shrubs, and the sandy, dirt-covered slope should all be rendered as if painted on canvas, with blended colors and soft edges. Enhance the muted browns and greens of the arid environment to look like oil pigments, maintaining the static camera perspective while replacing the realistic photographic detail with a classic, artistic painterly aesthetic."
+ },
+ {
+  "id": "s57a60f36",
+  "kind": "new",
+  "left": "c_271ae092ecb1.mp4",
+  "right": "c_63102e203f47.mp4",
+  "source": "c_17694b8695bc.mp4",
+  "prompt": "Replace the golden sunset background, including the warm orange and purple sky and the shimmering golden reflections on the ocean surface, with a deep indigo and black starry night sky featuring a bright, luminous full moon. The moon should be positioned in the upper center of the frame, and its cool, silvery-white light must be reflected on the water's surface in place of the golden sun's reflection. Ensure that the dark, jagged rocks in the foreground remain as silhouettes, but adjust their lighting to subtly reflect the cool, silver tones of the moonlight. The white splashes and droplets of water that appear starting at 00:04 should now catch and reflect the silvery moonlight instead of the golden sunset light."
+ },
+ {
+  "id": "sa5ee8a7d",
+  "kind": "new",
+  "left": "c_9d3b040a4d48.mp4",
+  "right": "c_c7636c79d097.mp4",
+  "source": "c_742cc2afa934.mp4",
+  "prompt": "Add a layer of thick, white fog that fills the entire indoor room, surrounding the woman in the white slip dress and her reflection in the mirror. The fog should be dense and atmospheric, partially obscuring the background and the edges of the frame while allowing the woman and her reflection to remain visible through the haze. The white fog should blend with the existing soft, natural light coming from the right, enhancing the airy and intimate mood of the scene."
+ },
+ {
+  "id": "s92edac25",
+  "kind": "new",
+  "left": "c_5a56332bee18.mp4",
+  "right": "c_c4d24e52abaa.mp4",
+  "source": "c_7e1f5d200441.mp4",
+  "prompt": "Replace the blurred, neutral-toned indoor background behind the person's hands, the wooden clothespin, and the white textured fabric with a bright, sunny outdoor gas station scene. The new background should feature elements like gas pumps, a paved lot, and clear daylight, while maintaining the original shallow depth of field so that the background remains softly blurred, keeping the focus entirely on the hands and the action of clipping the fabric."
+ },
+ {
+  "id": "s353976d4",
+  "kind": "new",
+  "left": "c_f7e42139e215.mp4",
+  "right": "c_53cb23ae005b.mp4",
+  "source": "c_83bb01b2c93a.mp4",
+  "prompt": "Apply a ukiyo-e art style to the entire video, transforming the skydiver in the black helmet and jumpsuit, the scattered white clouds, and the green mountainous coastline and deep blue ocean into a traditional Japanese woodblock print. Replace the realistic textures with flat areas of bold color, strong black outlines, and stylized, rhythmic patterns for the waves and clouds. The bright sun should be rendered as a simple, stylized circle, and the overall composition should mimic the aesthetic of a classic Edo-period print, maintaining the first-person perspective and action while changing the visual medium to a hand-printed art style."
+ },
+ {
+  "id": "s9e4f71ff",
+  "kind": "new",
+  "left": "c_da18ec7adb49.mp4",
+  "right": "c_39f0c253a8d7.mp4",
+  "source": "c_bc46bebb0715.mp4",
+  "prompt": "Remove the silver wedding band from the ring finger of the man's right hand throughout the entire video. Ensure the skin texture and lighting on the finger are seamlessly reconstructed where the ring was located, maintaining a natural appearance as his hand moves to peel off the blue heart sticker and apply the red heart sticker to his forehead."
+ },
+ {
+  "id": "s9380193d",
+  "kind": "new",
+  "left": "c_913d76071a11.mp4",
+  "right": "c_ba445f7c110d.mp4",
+  "source": "c_4e1b12a39890.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change the static side-profile shot to an aerial/drone shot looking straight down\", \"scene_context\": \"the man standing at the wooden desk\", \"camera\": {\"shot_type\": \"aerial shot\", \"angle\": \"top-down / bird's-eye view\", \"movement\": \"static\"}, \"detail\": \"The camera should be positioned directly above the man, capturing the top of his head, his hands cleaning the glasses, and the layout of the wooden desk including the laptop and glasses case.\"}"
+ },
+ {
+  "id": "w1_pl3_g03",
+  "kind": "golden",
+  "left": "c_1db26344910b.mp4",
+  "right": "c_9e7f36a928a8.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "sf2313717",
+  "kind": "new",
+  "left": "c_a09a252a2cb8.mp4",
+  "right": "c_89ae2d03ec15.mp4",
+  "source": "c_b31cc86ed400.mp4",
+  "prompt": "Add a colorful hopscotch grid drawn in chalk on the polished hardwood floor in front of the two girls. The grid should consist of numbered squares in various bright colors like yellow, blue, and pink, appearing as if they were hand-drawn with chalk directly onto the glossy wooden surface. Ensure the chalk texture looks slightly powdery and matte to contrast with the reflective finish of the floor, and position the grid so it extends from the bottom edge of the frame up toward the girls' feet, maintaining a natural perspective that matches the camera's static medium shot."
+ },
+ {
+  "id": "w1_pl3_r04",
+  "kind": "repeat",
+  "left": "c_0fb918ad0b7c.mp4",
+  "right": "c_00d183993f45.mp4",
+  "source": "c_d25d938c5910.mp4",
+  "prompt": "Add a heavy rain effect falling across the entire industrial scene. The rain should consist of dense, fast-moving vertical streaks of water that overlay the person in the grey t-shirt, the weathered grey bench grinder, and the reddish-brown background. Ensure the rain is consistently distributed across the frame, creating a moody, wet atmosphere that interacts with the lighting of the scene, while maintaining the visibility of the bright orange sparks flying from the grinding wheel.",
+  "repeat_of": "sf269deaf"
+ }
+]

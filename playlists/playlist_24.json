@@ -1,0 +1,359 @@
+[
+ {
+  "id": "w1_pl24_g03",
+  "kind": "golden",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "w1_pl24_g05",
+  "kind": "golden",
+  "left": "c_8d338f5336b4.mp4",
+  "right": "c_65c42a7265c9.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "sf7ceb126",
+  "kind": "new",
+  "left": "c_eaacf4c642f3.mp4",
+  "right": "c_b36b1f3c80aa.mp4",
+  "source": "c_63b869fa33e5.mp4",
+  "prompt": "Change the static medium close-up shot of the two men in the blue floral shirt and grey sweater to a wide shot. Expand the frame to reveal more of the indoor room surrounding them and show the full extent of the window and sheer white curtains, providing a broader view of the environment while maintaining the same intimate pose and soft, natural lighting."
+ },
+ {
+  "id": "s0f9ae1e1",
+  "kind": "new",
+  "left": "c_9c80bf6b9a10.mp4",
+  "right": "c_027f1ca524a6.mp4",
+  "source": "c_aaaabe4a6bef.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change the static side-profile shot to an aerial/drone shot looking straight down\", \"scene_context\": \"the man standing at the wooden desk\", \"camera\": {\"shot_type\": \"aerial shot\", \"angle\": \"top-down / bird's-eye view\", \"movement\": \"static\"}, \"detail\": \"The camera should be positioned directly above the man, capturing the top of his head, his hands cleaning the glasses, and the layout of the wooden desk including the laptop and glasses case.\"}"
+ },
+ {
+  "id": "sc6b4043e",
+  "kind": "new",
+  "left": "c_b18a23ac8afb.mp4",
+  "right": "c_b31439eb5717.mp4",
+  "source": "c_bb2b3ffb16e0.mp4",
+  "prompt": "Change the close-up, low-angle shot of the yellow golf ball and silver club to a wide shot showing the golfer's full body and the surrounding golf course. The camera should pull back from the ground level to a distance that captures the entire person, from their head down to their purple and white sneakers, and reveal the broader landscape of the green grass and distant trees of the golf course."
+ },
+ {
+  "id": "s975de1c5",
+  "kind": "new",
+  "left": "c_4a61883f4247.mp4",
+  "right": "c_486ea754359b.mp4",
+  "source": "c_e34f3554ae74.mp4",
+  "prompt": "Remove the large, dark brown elephant that walks from the center background toward the foreground and turns right. Carefully erase the elephant from every frame it appears in, ensuring that the lush green grass and the background of tall, thin pine-like trees are seamlessly reconstructed behind it. The final result should be a clean, static shot of the empty forest clearing and grassy field, maintaining the soft, diffused lighting and natural color palette without any visual artifacts or traces of the animal."
+ },
+ {
+  "id": "sa7cbca72",
+  "kind": "new",
+  "left": "c_3dc553d2231a.mp4",
+  "right": "c_2c692ca9f34c.mp4",
+  "source": "c_8f422a7e2c1c.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the camouflage shirt and yellow hard hat\", \"change\": \"drop the metal rebar on the ground\", \"scene_context\": \"walking toward a concrete block structure in the foreground of a construction site\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should shift his shoulder and release the rebar, letting it fall naturally onto the reddish-brown dirt. The rebar should land with a slight bounce and create a small puff of dust upon impact.\"}"
+ },
+ {
+  "id": "scbe55a20",
+  "kind": "new",
+  "left": "c_fd0f5bcdbd3c.mp4",
+  "right": "c_7766f8ad5204.mp4",
+  "source": "c_08467013f4af.mp4",
+  "prompt": "Replace the entire background behind the man, including the blurred park setting, the green food truck, the picnic tables, and the handwritten menu board, with a scenic coastal environment. The new background should feature a sandy shoreline, a blue ocean, and a prominent lighthouse visible in the far distance. Ensure the lighting on the coastal scene matches the muted, overcast lighting on the man to maintain a seamless integration."
+ },
+ {
+  "id": "sbafc0723",
+  "kind": "new",
+  "left": "c_64534bf41afb.mp4",
+  "right": "c_cfdc4a8d01bf.mp4",
+  "source": "c_c78751c1bef1.mp4",
+  "prompt": "Change the bright, sunny day to a dark thunderstorm. Replace the clear blue sky with heavy, dark grey storm clouds and add intermittent flashes of lightning. Introduce a consistent rain effect with visible raindrops falling across the entire scene, including over the dinosaur head, the white mist, and the paved walkway. Adjust the overall lighting to be dim and moody, removing the high-contrast sunlight and soft shadows to match the stormy atmosphere."
+ },
+ {
+  "id": "w1_pl24_g01",
+  "kind": "golden",
+  "left": "c_1db26344910b.mp4",
+  "right": "c_9e7f36a928a8.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "s2f5a010a",
+  "kind": "new",
+  "left": "c_1ca986284c07.mp4",
+  "right": "c_e94afd8af7e8.mp4",
+  "source": "c_bf8e0a0d5ad4.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "se3a1522f",
+  "kind": "new",
+  "left": "c_ebcb9373ac15.mp4",
+  "right": "c_081fd6847597.mp4",
+  "source": "c_a244ee2fc243.mp4",
+  "prompt": "Pan the camera to the left, starting at 00:01, to follow the movement of the wooden-handled brush as it paints the vibrant green lines across the white textured surface. Instead of the current static shot, the camera should track the brush's horizontal motion from right to left and back again, keeping the brush tip and the emerging green pigment centered in the frame throughout the painting process."
+ },
+ {
+  "id": "s7e9910f1",
+  "kind": "new",
+  "left": "c_f1e218f2eba1.mp4",
+  "right": "c_ad2bcaec4c09.mp4",
+  "source": "c_57aef5ccff4f.mp4",
+  "prompt": "Tilt the camera up from the man wearing the tan hat and grey t-shirt sitting on the dark, jagged rock to reveal the full height and scale of the massive dark cliffs towering in the background. The movement should start from the man's position and pan vertically upward, shifting the focus from the crashing white waves and the man to the imposing, desaturated grey rock faces that dominate the upper portion of the frame."
+ },
+ {
+  "id": "sc18ddf2d",
+  "kind": "new",
+  "left": "c_f660c776e8b8.mp4",
+  "right": "c_e0acb292f0a2.mp4",
+  "source": "c_60b5abda8cd2.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change to a side view of the man playing the flute\", \"scene_context\": \"a young man playing a wooden flute in an outdoor garden\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"side view\", \"movement\": \"static\"}, \"detail\": \"The camera should be positioned perpendicular to the man, capturing his profile as he plays the flute and slowly lifts his head. The background foliage and soft lighting should remain consistent with the original scene.\"}"
+ },
+ {
+  "id": "s21f01f0d",
+  "kind": "new",
+  "left": "c_3669128209c7.mp4",
+  "right": "c_b443f7e49c64.mp4",
+  "source": "c_f09fbd0abf33.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"the wooden hanger on the left side of the bamboo pole\", \"change\": \"remove the wooden hanger\", \"scene_context\": \"hanging on the left side of the horizontal bamboo pole\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Completely remove the wooden hanger and its metal hook from the left side of the bamboo pole, ensuring the background foliage is seamlessly filled in where the hanger was located.\"}"
+ },
+ {
+  "id": "s1375cf74",
+  "kind": "new",
+  "left": "c_43bf7fc1cfd1.mp4",
+  "right": "c_8bc8e31aa888.mp4",
+  "source": "c_5b5339ff5b8c.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"spotted jellyfish in the center of the frame\", \"change\": \"replace with glowing, translucent blue jellyfish\", \"scene_context\": \"floating in a dark blue aquarium among other jellyfish\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new blue jellyfish should maintain the same pulsing motion and gelatinous texture as the original, emitting a soft blue bioluminescent glow that illuminates the surrounding water.\"}"
+ },
+ {
+  "id": "s559f38a8",
+  "kind": "new",
+  "left": "c_a9cecaa6638f.mp4",
+  "right": "c_31a78f6720e9.mp4",
+  "source": "c_76c9a4d058a1.mp4",
+  "prompt": "Modify the action of the black and white striped zebra walking across the grassy ridge. Instead of continuing its path from left to right, have the zebra stop walking, turn toward the calm body of water below the ridge, and lower its head to drink from the water's surface. Ensure the movement is fluid and physically plausible, and update the mirror reflection in the water to accurately match the zebra's new posture as it bends down to drink."
+ },
+ {
+  "id": "s9b6d57dc",
+  "kind": "new",
+  "left": "c_fc5e01dee1fc.mp4",
+  "right": "c_8fc801fe2223.mp4",
+  "source": "c_177a23bc61e6.mp4",
+  "prompt": "Apply a ukiyo-e art style to the entire video, transforming the skydiver in the black helmet and jumpsuit, the scattered white clouds, and the green mountainous coastline and deep blue ocean into a traditional Japanese woodblock print. Replace the realistic textures with flat areas of bold color, strong black outlines, and stylized, rhythmic patterns for the waves and clouds. The bright sun should be rendered as a simple, stylized circle, and the overall composition should mimic the aesthetic of a classic Edo-period print, maintaining the first-person perspective and action while changing the visual medium to a hand-printed art style."
+ },
+ {
+  "id": "sd5dcba37",
+  "kind": "new",
+  "left": "c_35185b8d2308.mp4",
+  "right": "c_03b2b1490181.mp4",
+  "source": "c_a9f36a97d2a2.mp4",
+  "prompt": "Change the static shot to a slow zoom-in on the clear glass teapot resting on the rustic wooden slice. The camera should gradually move closer to the teapot, focusing on the dried purple lavender flowers being added by the wooden spoon, increasing the visual emphasis on the delicate interaction and the details of the flowers inside the glass as the sequence progresses."
+ },
+ {
+  "id": "s35b7efe2",
+  "kind": "new",
+  "left": "c_330b954cd1d6.mp4",
+  "right": "c_e9b805129c3a.mp4",
+  "source": "c_6ed512415162.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"two red airport crash tenders\", \"change\": \"change the color to bright yellow\", \"scene_context\": \"positioned on a wet asphalt tarmac facing each other\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The saturated red paint of both fire trucks should be replaced with a bright, vibrant yellow while maintaining the original lighting, reflections, and shadows.\"}"
+ },
+ {
+  "id": "sad886534",
+  "kind": "new",
+  "left": "c_9ef63b970f30.mp4",
+  "right": "c_301e07785b01.mp4",
+  "source": "c_8b1043846393.mp4",
+  "prompt": "Change the static medium close-up shot of the two men in the blue floral shirt and grey sweater to a wide shot. Expand the frame to reveal more of the indoor room surrounding them and show the full extent of the window and sheer white curtains, providing a broader view of the environment while maintaining the same intimate pose and soft, natural lighting."
+ },
+ {
+  "id": "w1_pl24_a01",
+  "kind": "attention",
+  "left": "c_48171f7bb3fa.mp4",
+  "right": "c_0183fe31fd4b.mp4",
+  "source": "c_da900e009400.mp4",
+  "prompt": "Replace the dimly lit kitchen background, including the dark cabinetry, the countertop with jars, and the window on the left, with a bright, modern bakery shop interior. The new background should feature light-colored walls, glass display cases filled with pastries, and warm, ambient lighting throughout the space. Ensure the man in the black beanie and grey sweater remains the central subject, and adjust the high-contrast lighting on his figure to blend naturally with the bright, airy atmosphere of the bakery shop."
+ },
+ {
+  "id": "s5874f304",
+  "kind": "new",
+  "left": "c_a1fb2fc2ea19.mp4",
+  "right": "c_42ee322f5eaa.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s30b3e2b7",
+  "kind": "new",
+  "left": "c_f459d86192cb.mp4",
+  "right": "c_df0b5f6526cd.mp4",
+  "source": "c_f415ca5891be.mp4",
+  "prompt": "Apply an ink wash painting style to the entire scene, transforming the low-angle shot of the three friends into a traditional East Asian art piece. The clear blue sky should become a soft, graded wash of light blue and white ink, while the figures\u2014including the person in the paint-splattered white t-shirt, the person in the grey sleeveless top, and the person in the red and white striped shirt\u2014should be rendered with fluid, expressive black ink brushstrokes. The red stripes of the shirt should be simplified into muted, bleeding crimson washes. The overall effect should feature soft edges, varying ink densities, and a textured paper background, replacing the photographic realism with a poetic, hand-painted aesthetic."
+ },
+ {
+  "id": "w1_pl24_r02",
+  "kind": "repeat",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring.",
+  "repeat_of": "s5874f304"
+ },
+ {
+  "id": "s01102fdd",
+  "kind": "new",
+  "left": "c_7109975f8c8a.mp4",
+  "right": "c_eb915d27a83b.mp4",
+  "source": "c_f36d93973a2e.mp4",
+  "prompt": "Remove the wooden drying rack visible in the background, including the brown wooden posts and the white metal frame. Carefully erase these elements from the scene, filling in the gaps with the surrounding bright, minimalist white wall and neutral-toned background to ensure a seamless and clean look. The final result should show the person holding the white fabric against a completely clear, unobstructed indoor background."
+ },
+ {
+  "id": "s7853748b",
+  "kind": "new",
+  "left": "c_774683d08607.mp4",
+  "right": "c_1c766fea88b3.mp4",
+  "source": "c_fa7265afed54.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"white notebook\", \"change\": \"change the color to fuchsia purple\", \"scene_context\": \"on the left side of the wooden table\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The white cover and edges of the notebook on the left should be uniformly changed to a vibrant fuchsia purple while maintaining the original texture and lighting.\"}"
+ },
+ {
+  "id": "w1_pl24_r03",
+  "kind": "repeat",
+  "left": "c_301e07785b01.mp4",
+  "right": "c_9ef63b970f30.mp4",
+  "source": "c_8b1043846393.mp4",
+  "prompt": "Change the static medium close-up shot of the two men in the blue floral shirt and grey sweater to a wide shot. Expand the frame to reveal more of the indoor room surrounding them and show the full extent of the window and sheer white curtains, providing a broader view of the environment while maintaining the same intimate pose and soft, natural lighting.",
+  "repeat_of": "sad886534"
+ },
+ {
+  "id": "sb208490b",
+  "kind": "new",
+  "left": "c_f3f90097905c.mp4",
+  "right": "c_eb4c6c2635ed.mp4",
+  "source": "c_651111aa0933.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"lighting\", \"change\": \"Add bright, direct sunlight and sharp shadows to replace the overcast lighting\", \"scene_context\": \"the outdoor paved area where the musician is playing\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the soft, diffused light with high-contrast sunlight, creating distinct, hard-edged shadows on the pavement and the musician's clothing and instrument.\"}"
+ },
+ {
+  "id": "s70266dbb",
+  "kind": "new",
+  "left": "c_185fb7bd0d2c.mp4",
+  "right": "c_322457bbb2ff.mp4",
+  "source": "c_1e7175abbef5.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"pan right to follow the charging cable\", \"scene_context\": \"the side of a red electric vehicle during charging\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"eye-level\", \"movement\": \"pan right\"}, \"detail\": \"The camera should shift from a static position to a smooth rightward pan, tracking the movement of the charging cable as the handle is inserted into the port.\"}"
+ },
+ {
+  "id": "sfc450d8a",
+  "kind": "new",
+  "left": "c_8c33254aa92d.mp4",
+  "right": "c_520f10aad40d.mp4",
+  "source": "c_069a7e6e02a7.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire scene\", \"change\": \"transform into a low poly 3D art style\", \"scene_context\": \"a person bodyboarding in the ocean under a clear blue sky\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Convert all elements, including the water, foam, person, and sky, into simplified geometric polygons with flat shading. Maintain the original color palette of deep blue, white, and red while removing all smooth gradients and organic textures.\"}"
+ },
+ {
+  "id": "w1_pl24_r04",
+  "kind": "repeat",
+  "left": "c_322457bbb2ff.mp4",
+  "right": "c_185fb7bd0d2c.mp4",
+  "source": "c_1e7175abbef5.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"pan right to follow the charging cable\", \"scene_context\": \"the side of a red electric vehicle during charging\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"eye-level\", \"movement\": \"pan right\"}, \"detail\": \"The camera should shift from a static position to a smooth rightward pan, tracking the movement of the charging cable as the handle is inserted into the port.\"}",
+  "repeat_of": "s70266dbb"
+ },
+ {
+  "id": "s8370a811",
+  "kind": "new",
+  "left": "c_42c241b0e6c7.mp4",
+  "right": "c_9255d97a078d.mp4",
+  "source": "c_ca96227f5259.mp4",
+  "prompt": "Change the handheld selfie perspective to an arc shot that circles around the man in the white denim jacket. Instead of the static, close-up front-facing view, the camera should smoothly orbit 360 degrees around the man, capturing him from different angles as he transitions from smiling to a stern expression. The movement should maintain a consistent distance from the man, revealing more of the white wall with abstract black line art in the background as the camera rotates. The final result should be a cinematic, fluid circular motion that replaces the slight natural shaking of the handheld selfie."
+ },
+ {
+  "id": "w1_pl24_g02",
+  "kind": "golden",
+  "left": "c_cc923f3ba468.mp4",
+  "right": "c_671416bfa57a.mp4",
+  "source": "c_ff9b47833482.mp4",
+  "prompt": "Replace the three clear plastic drawers, which are currently wrapped in protective plastic film inside the white LG freezer, with three rustic wooden crates. The wooden crates should be sized to fit perfectly within the freezer's compartments, maintaining the same positions as the original drawers. Ensure the texture of the wood is detailed and natural, contrasting with the smooth white interior of the freezer. The crates should follow the camera's upward panning and tilting movement, remaining realistically integrated into the scene with consistent lighting and shadows as the camera moves."
+ },
+ {
+  "id": "sd8ea27cb",
+  "kind": "new",
+  "left": "c_3925c8090195.mp4",
+  "right": "c_0b08e0b1c397.mp4",
+  "source": "c_642b760af77e.mp4",
+  "prompt": "Transform the entire video into a stylized caricature animation. The woman in the black sports bra and leggings, the barbell with black plates, and the industrial gym background with its exposed brick walls and red metal rigs should all be redrawn in a cartoonish, exaggerated style. Enhance the woman's athletic proportions and facial expressions to fit a caricature aesthetic, while maintaining the original movements of the deadlift. The moody, cool-toned lighting and high contrast of the original scene should be translated into bold, vibrant colors and thick, expressive outlines characteristic of a high-quality animated caricature."
+ },
+ {
+  "id": "s5527868b",
+  "kind": "new",
+  "left": "c_f7a022fa16af.mp4",
+  "right": "c_b1c4a2604d9e.mp4",
+  "source": "c_54c247b264cf.mp4",
+  "prompt": "Transform the entire video into a watercolor painting style. Apply a soft, artistic filter that replaces the realistic textures of the woman's pale skin, light hair, and the pink flower petal eyebrows with fluid, translucent paint washes. The edges of the subject and the plain, light-colored background should appear slightly blurred and bleeding into one another, mimicking the effect of wet-on-wet watercolor. Maintain the muted color palette and the vibrant pink of the petals, but render them as delicate pigment stains with visible paper texture and soft, organic brushstrokes throughout the frame."
+ },
+ {
+  "id": "w1_pl24_r01",
+  "kind": "repeat",
+  "left": "c_2c692ca9f34c.mp4",
+  "right": "c_3dc553d2231a.mp4",
+  "source": "c_8f422a7e2c1c.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the camouflage shirt and yellow hard hat\", \"change\": \"drop the metal rebar on the ground\", \"scene_context\": \"walking toward a concrete block structure in the foreground of a construction site\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should shift his shoulder and release the rebar, letting it fall naturally onto the reddish-brown dirt. The rebar should land with a slight bounce and create a small puff of dust upon impact.\"}",
+  "repeat_of": "sa7cbca72"
+ },
+ {
+  "id": "sc67c49ae",
+  "kind": "new",
+  "left": "c_40573a6e498d.mp4",
+  "right": "c_a078707a8af4.mp4",
+  "source": "c_503d0daa1ec7.mp4",
+  "prompt": "Replace the entire background of the scene, including the dry yellowish-brown grass, the green shrubs, and the sparse grey branches and foliage, with a snowy winter landscape. The adult zebra and foal should remain untouched, but the environment surrounding them should be transformed into a vast, white, snow-covered terrain with frost-covered trees and a cold, wintry atmosphere, ensuring the zebras appear as if they are standing in a deep snowfield."
+ },
+ {
+  "id": "s99273aa0",
+  "kind": "new",
+  "left": "c_f241b8da36e4.mp4",
+  "right": "c_6da46ff915a0.mp4",
+  "source": "c_b942ef7e8384.mp4",
+  "prompt": "Change the color of the large orange pumpkin being carved to a vibrant turquoise. Ensure that the turquoise hue is applied consistently across the entire surface of the pumpkin, including the outer skin and the interior flesh visible through the carved eyes and jagged mouth. The lighting and shadows on the pumpkin should be preserved to maintain its three-dimensional shape and texture, but the original orange tones must be completely replaced by turquoise."
+ },
+ {
+  "id": "w1_pl24_a02",
+  "kind": "attention",
+  "left": "c_85c929461dbe.mp4",
+  "right": "c_9c66ccb1aeaf.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "w1_pl24_g04",
+  "kind": "golden",
+  "left": "c_dc8b4e13cd18.mp4",
+  "right": "c_297b49bef8d7.mp4",
+  "source": "c_5f480a0660c0.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "w1_pl24_r05",
+  "kind": "repeat",
+  "left": "c_9255d97a078d.mp4",
+  "right": "c_42c241b0e6c7.mp4",
+  "source": "c_ca96227f5259.mp4",
+  "prompt": "Change the handheld selfie perspective to an arc shot that circles around the man in the white denim jacket. Instead of the static, close-up front-facing view, the camera should smoothly orbit 360 degrees around the man, capturing him from different angles as he transitions from smiling to a stern expression. The movement should maintain a consistent distance from the man, revealing more of the white wall with abstract black line art in the background as the camera rotates. The final result should be a cinematic, fluid circular motion that replaces the slight natural shaking of the handheld selfie.",
+  "repeat_of": "s8370a811"
+ },
+ {
+  "id": "sa0f5d3c2",
+  "kind": "new",
+  "left": "c_a59431c1bca6.mp4",
+  "right": "c_274b7ba5e1b1.mp4",
+  "source": "c_7fd8cadd6158.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"derelict concrete room and weathered poster\", \"change\": \"replace with a futuristic, metallic sci-fi corridor\", \"scene_context\": \"the environment surrounding the man and the hatch\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The concrete walls should be replaced with brushed metal panels, integrated neon light strips, and high-tech circuitry. The weathered poster should be replaced with a holographic interface or a digital display screen.\"}"
+ },
+ {
+  "id": "sc377cd9c",
+  "kind": "new",
+  "left": "c_008d5610db0a.mp4",
+  "right": "c_892b22c18ed9.mp4",
+  "source": "c_b7ffab8734bc.mp4",
+  "prompt": "Replace the indoor room background, specifically removing the black office chair on the left and the black-and-white checkered fabric on the right, and replace it with a modern recreation room. The new background should feature contemporary elements such as a sleek lounge area, gaming consoles, or minimalist decor, while maintaining the same bright, neutral lighting to ensure the person in the white hazmat suit and the light-brown wooden table blend seamlessly into the new environment."
+ }
+]

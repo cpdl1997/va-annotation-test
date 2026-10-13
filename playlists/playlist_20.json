@@ -1,0 +1,359 @@
+[
+ {
+  "id": "w1_pl20_r01",
+  "kind": "repeat",
+  "left": "c_1b932d8f09a2.mp4",
+  "right": "c_615618b20356.mp4",
+  "source": "c_be7f66887323.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change to a side view that captures the full height of the man in the navy blue athletic suit jumping to hit the ball\", \"scene_context\": \"indoor gym with cream-colored walls and white beamed ceiling\", \"camera\": {\"shot_type\": \"full shot\", \"angle\": \"side view\", \"movement\": \"static or slight pan\"}, \"detail\": \"The camera should be positioned perpendicular to the man's jump trajectory to clearly show his full body extension from the floor to the peak of his jump as he hits the volleyball.\"}",
+  "repeat_of": "sbe1a82d5"
+ },
+ {
+  "id": "w1_pl20_r04",
+  "kind": "repeat",
+  "left": "c_e5acf1b694f3.mp4",
+  "right": "c_f8f4252c866a.mp4",
+  "source": "c_1ef012cd7d04.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire scene\", \"change\": \"Apply a Bauhaus art style, transforming the organic plants and grid of black trays into a composition of bold geometric shapes and a primary color palette\", \"scene_context\": \"top-down view of plants in nursery trays\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the textured leaves with simplified circles, triangles, and rectangles in red, blue, and yellow. The black plastic grid should be converted into clean, thick black lines forming a rigid geometric structure.\"}",
+  "repeat_of": "s566255be"
+ },
+ {
+  "id": "s74463dc5",
+  "kind": "new",
+  "left": "c_23df33c2b198.mp4",
+  "right": "c_1c4360230c43.mp4",
+  "source": "c_bd7950cafed0.mp4",
+  "prompt": "Change the color of the large orange pumpkin being carved to a vibrant turquoise. Ensure that the turquoise hue is applied consistently across the entire surface of the pumpkin, including the outer skin and the interior flesh visible through the carved eyes and jagged mouth. The lighting and shadows on the pumpkin should be preserved to maintain its three-dimensional shape and texture, but the original orange tones must be completely replaced by turquoise."
+ },
+ {
+  "id": "w1_pl20_g05",
+  "kind": "golden",
+  "left": "c_9b25fc4df586.mp4",
+  "right": "c_c16c7cc8a9c4.mp4",
+  "source": "c_dff4add31e30.mp4",
+  "prompt": "Add a strong wind effect to the scene that causes the red and white floral tablecloth on the left side of the frame to flutter and blow realistically. The fabric should ripple and wave dynamically throughout the video, as if caught in a powerful gust of wind, while the man and the other objects in the workshop remain unaffected. Ensure the movement of the cloth looks natural and consistent with the physics of a light fabric being blown by a strong breeze."
+ },
+ {
+  "id": "s879871af",
+  "kind": "new",
+  "left": "c_e990e931cae1.mp4",
+  "right": "c_88d3d1b37a97.mp4",
+  "source": "c_9614069feb98.mp4",
+  "prompt": "Replace the pink bubblegum bubble that the man blows from his mouth with a floating potato chip. The potato chip should appear and expand in size and position exactly where the pink bubble would be, mimicking the bubble's growth and popping motion. Ensure the potato chip has a realistic golden-brown color and texture, and that it disappears or fragments in the same way the bubble pops, leaving no pink residue on the man's lips. The replacement should be seamless, maintaining the original timing and movement of the bubblegum throughout the video."
+ },
+ {
+  "id": "sbe1a82d5",
+  "kind": "new",
+  "left": "c_615618b20356.mp4",
+  "right": "c_1b932d8f09a2.mp4",
+  "source": "c_be7f66887323.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change to a side view that captures the full height of the man in the navy blue athletic suit jumping to hit the ball\", \"scene_context\": \"indoor gym with cream-colored walls and white beamed ceiling\", \"camera\": {\"shot_type\": \"full shot\", \"angle\": \"side view\", \"movement\": \"static or slight pan\"}, \"detail\": \"The camera should be positioned perpendicular to the man's jump trajectory to clearly show his full body extension from the floor to the peak of his jump as he hits the volleyball.\"}"
+ },
+ {
+  "id": "sc5c60192",
+  "kind": "new",
+  "left": "c_9dec0acb0479.mp4",
+  "right": "c_769ac5d706eb.mp4",
+  "source": "c_7f9e5e9f838e.mp4",
+  "prompt": "Replace the lush green garden background, including the dense foliage, the tree trunk on the left, the palm tree on the right, and the beige planter with red flowers, with a concrete viaduct. The dog and the light gray concrete patio should remain untouched. The new background should feature the industrial, gray textures of a concrete viaduct, maintaining the same soft, natural lighting and static camera perspective to ensure the dog appears naturally integrated into the new urban environment."
+ },
+ {
+  "id": "s5667ebe6",
+  "kind": "new",
+  "left": "c_b06f4f38d850.mp4",
+  "right": "c_130575eb6fa2.mp4",
+  "source": "c_0f85af3a4cec.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person in the background\", \"change\": \"swing the axe more slowly\", \"scene_context\": \"standing behind the vertical block of wood in an outdoor yard\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Slow down the downward motion of the axe swing starting at 00:03, extending the time it takes for the axe to travel from the peak of the swing to the point of impact at 00:04.\"}"
+ },
+ {
+  "id": "w1_pl20_g03",
+  "kind": "golden",
+  "left": "c_99d191f1a090.mp4",
+  "right": "c_49062e6a8f97.mp4",
+  "source": "c_112bfa1cff08.mp4",
+  "prompt": "Add a layer of light, translucent white mist over the distant green coastline and the horizon line. The mist should appear as a soft, atmospheric haze that partially obscures the dense green mangroves and blends the land into the pale blue sky, creating a sense of depth and humidity without completely hiding the landscape. The effect should be subtle and consistent across the entire background throughout the duration of the clip."
+ },
+ {
+  "id": "w1_pl20_a02",
+  "kind": "attention",
+  "left": "c_0cbc792d1874.mp4",
+  "right": "c_de5c8628a325.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "w1_pl20_a01",
+  "kind": "attention",
+  "left": "c_48171f7bb3fa.mp4",
+  "right": "c_0183fe31fd4b.mp4",
+  "source": "c_da900e009400.mp4",
+  "prompt": "Replace the dimly lit kitchen background, including the dark cabinetry, the countertop with jars, and the window on the left, with a bright, modern bakery shop interior. The new background should feature light-colored walls, glass display cases filled with pastries, and warm, ambient lighting throughout the space. Ensure the man in the black beanie and grey sweater remains the central subject, and adjust the high-contrast lighting on his figure to blend naturally with the bright, airy atmosphere of the bakery shop."
+ },
+ {
+  "id": "s11474e10",
+  "kind": "new",
+  "left": "c_7fc49948914b.mp4",
+  "right": "c_c9a8b062a6a7.mp4",
+  "source": "c_8a4d23917f8f.mp4",
+  "prompt": "Change the color of the man's brown t-shirt to fuchsia purple. The edit should precisely target the fabric of the shirt he is wearing throughout the pillow fight, ensuring the fuchsia purple hue is vibrant and consistent across all frames. Maintain the original shading, folds, and texture of the garment so that the lighting and movement of the fabric remain realistic as he moves and laughs. The rest of the scene, including the beige sofa, white curtains, and other pillows, should remain unchanged."
+ },
+ {
+  "id": "w1_pl20_r03",
+  "kind": "repeat",
+  "left": "c_aa32ff364a09.mp4",
+  "right": "c_b856a920397b.mp4",
+  "source": "c_e5220dffba70.mp4",
+  "prompt": "Replace the dark, shadowy void background behind the intricate white spider web and weathered brown wooden branches with a blurred image of a fire station. Ensure the fire station background is out of focus to maintain the depth of field, keeping the sharp detail of the silk threads and the fibrous texture of the wood in the foreground. The transition between the foreground elements and the new background should be seamless, preserving the high contrast of the pale web against the new, softer colors of the fire station scene.",
+  "repeat_of": "s9c20ddee"
+ },
+ {
+  "id": "se90e9694",
+  "kind": "new",
+  "left": "c_42ffac85fbe8.mp4",
+  "right": "c_13fb0e78762a.mp4",
+  "source": "c_f5acfd414a4e.mp4",
+  "prompt": "Add a light dusting of snow falling inside the light-colored drawer. The snow should appear as small, soft white flakes drifting slowly downward throughout the entire duration of the clip, settling gently on the bottom surface of the drawer, the matte black electronic case, and the colorful paper. Ensure the snow particles are subtle and semi-transparent to maintain the soft, natural lighting of the scene, creating a surreal winter effect within the confined space of the drawer."
+ },
+ {
+  "id": "s566255be",
+  "kind": "new",
+  "left": "c_f8f4252c866a.mp4",
+  "right": "c_e5acf1b694f3.mp4",
+  "source": "c_1ef012cd7d04.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire scene\", \"change\": \"Apply a Bauhaus art style, transforming the organic plants and grid of black trays into a composition of bold geometric shapes and a primary color palette\", \"scene_context\": \"top-down view of plants in nursery trays\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the textured leaves with simplified circles, triangles, and rectangles in red, blue, and yellow. The black plastic grid should be converted into clean, thick black lines forming a rigid geometric structure.\"}"
+ },
+ {
+  "id": "sf3ba7ef5",
+  "kind": "new",
+  "left": "c_1ed543921405.mp4",
+  "right": "c_a58710cd2e67.mp4",
+  "source": "c_aed078994ec2.mp4",
+  "prompt": "Transform the entire video into a vibrant anime style, replacing the gritty, desaturated, and bluish color palette with highly saturated colors and clean, bold line art. The black and white sheep, the yellow ear tag, the green hay, and the rustic wooden poles should all be rendered with the smooth shading and bright, vivid tones characteristic of modern anime. The overcast sky in the background should be changed to a bright, clear blue with stylized white clouds, ensuring the overall aesthetic is colorful and polished."
+ },
+ {
+  "id": "s9bb66092",
+  "kind": "new",
+  "left": "c_1decf72e8540.mp4",
+  "right": "c_b9e3f01c947b.mp4",
+  "source": "c_fb91d81a1e0e.mp4",
+  "prompt": "Remove the white ceramic bunny-shaped egg holder and the two pale eggs it contains from the white tablecloth. Ensure the area where the egg holder was positioned is seamlessly filled in with the white texture and lighting of the tablecloth, maintaining a clean and minimalist look without any visible artifacts or remnants of the object."
+ },
+ {
+  "id": "w1_pl20_g01",
+  "kind": "golden",
+  "left": "c_65c42a7265c9.mp4",
+  "right": "c_8d338f5336b4.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "s2557314b",
+  "kind": "new",
+  "left": "c_33092249a836.mp4",
+  "right": "c_aa0358d477e3.mp4",
+  "source": "c_2db1eba2f395.mp4",
+  "prompt": "Replace the red metallic pom-pom held by the woman in the cheerleader outfit with a small white sheep. The sheep should be positioned naturally in her arms where the pom-pom was previously located, maintaining the same scale and perspective. Ensure the white wool of the sheep blends realistically with the bright, soft studio lighting and that the woman's grip appears to be holding the small animal. The rest of the scene, including the woman's expression, her red and white outfit, and the minimalist grey background with neon lights, must remain unchanged."
+ },
+ {
+  "id": "sf858010c",
+  "kind": "new",
+  "left": "c_9b854d9957ac.mp4",
+  "right": "c_372b79c96bef.mp4",
+  "source": "c_80c571e5c3a9.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the smoldering reddish-brown earth and white smoke\", \"change\": \"zoom out from the close-up to reveal a wide aerial view of the entire landfill\", \"scene_context\": \"the foreground of a waste-filled landscape\", \"camera\": {\"shot_type\": \"wide aerial shot\", \"angle\": \"high angle\", \"movement\": \"zoom out\"}, \"detail\": \"The camera should smoothly transition from the detailed close-up of the smoke and earth to a high-altitude perspective, showing the vast scale of the landfill and the surrounding environment.\"}"
+ },
+ {
+  "id": "s7798d312",
+  "kind": "new",
+  "left": "c_8d54babeebf2.mp4",
+  "right": "c_15c237093bd1.mp4",
+  "source": "c_f96e0599bbd1.mp4",
+  "prompt": "Change the static shot to a slow zoom-in on the clear glass teapot resting on the rustic wooden slice. The camera should gradually move closer to the teapot, focusing on the dried purple lavender flowers being added by the wooden spoon, increasing the visual emphasis on the delicate interaction and the details of the flowers inside the glass as the sequence progresses."
+ },
+ {
+  "id": "s8351f2c9",
+  "kind": "new",
+  "left": "c_eee601819aa2.mp4",
+  "right": "c_9463189f3465.mp4",
+  "source": "c_fafe040a3aac.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"dense green foliage background\", \"change\": \"replace with a sunny vineyard\", \"scene_context\": \"the area surrounding the two Siamese kittens\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The lush green leaves and white wildflowers should be replaced with rows of grapevines under bright, warm sunlight. The kittens should remain in the foreground, seamlessly integrated into the new vineyard setting.\"}"
+ },
+ {
+  "id": "s37485828",
+  "kind": "new",
+  "left": "c_04d6677eb5c2.mp4",
+  "right": "c_6689e129b81e.mp4",
+  "source": "c_a6b95b0f639a.mp4",
+  "prompt": "Add a small black handheld scanner into the delivery man's left hand. The scanner should be realistically scaled and positioned so that it appears to be held naturally by the man as he stands by the white delivery van. Ensure the scanner's lighting and shadows match the bright, warm sunlight and lens flare present in the scene to blend seamlessly with the delivery man's blue jacket and the surrounding environment. The object should remain consistently tracked in his hand throughout the duration of the static shot."
+ },
+ {
+  "id": "scc559e35",
+  "kind": "new",
+  "left": "c_3c2ef576e83f.mp4",
+  "right": "c_1eee35e21eef.mp4",
+  "source": "c_f9857e0551f1.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"rain falling on the grey tiled patio\", \"change\": \"replace the rain with a hailstorm\", \"scene_context\": \"falling onto the grey tiled patio and into the puddle\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the fine raindrops with small, white, solid ice pellets. The ripples in the puddle should be replaced by more violent splashes and the accumulation of small white hail stones on the tiles and in the saucer.\"}"
+ },
+ {
+  "id": "s9e556bc4",
+  "kind": "new",
+  "left": "c_2aabfccc7aab.mp4",
+  "right": "c_d069a967a32b.mp4",
+  "source": "c_4520874be115.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the white door\", \"change\": \"slams shut\", \"scene_context\": \"at the end of the industrial concrete corridor\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The white door should swing rapidly from an open position to a fully closed position with a sudden, forceful impact.\"}"
+ },
+ {
+  "id": "s62c21c54",
+  "kind": "new",
+  "left": "c_d6b77a3053af.mp4",
+  "right": "c_7da2efc79c2e.mp4",
+  "source": "c_669554bf5776.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person sitting on the light blue sofa\", \"change\": \"stops counting the US dollar bills and puts them into their beige trouser pocket\", \"scene_context\": \"sitting on a light blue sofa with a coffee table in the foreground\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The person should transition from the counting motion to gathering the bills together and sliding them into the side pocket of their beige trousers.\"}"
+ },
+ {
+  "id": "s70f2d831",
+  "kind": "new",
+  "left": "c_a9f70cce58e7.mp4",
+  "right": "c_1ab4fc118508.mp4",
+  "source": "c_82a0db7ef983.mp4",
+  "prompt": "Change the stationary wide shot to a tracking shot that moves backward at the same speed as the man and woman in black wetsuits. Instead of the subjects running from a distance toward the camera and eventually exiting the frame, the camera should maintain a consistent distance from them throughout the sequence. As the man with the white surfboard and the woman with the grey and white surfboard run across the sandy beach, the camera should retreat in synchronization with their forward motion, keeping them centered in the frame and preserving the view of the tan cliffs to the left and the crashing ocean waves to the right."
+ },
+ {
+  "id": "w1_pl20_g04",
+  "kind": "golden",
+  "left": "c_fc9db1c53c19.mp4",
+  "right": "c_1745cf70b6eb.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s0301aa05",
+  "kind": "new",
+  "left": "c_fcdd1ee4ee36.mp4",
+  "right": "c_8c628dfaebf7.mp4",
+  "source": "c_7a29b8076333.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"black forensic kit and its tools\", \"change\": \"Remove the black forensic kit and its tools from the dirt ground\", \"scene_context\": \"on the dirt ground at the bottom of the frame\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The black kit and all the brushes and swabs inside it should be completely removed, leaving only the dirt ground visible beneath where the kit was placed.\"}"
+ },
+ {
+  "id": "sb34596ca",
+  "kind": "new",
+  "left": "c_c0ce2f97ef6a.mp4",
+  "right": "c_40a83937fd7b.mp4",
+  "source": "c_ab44795a00d0.mp4",
+  "prompt": "Remove the blue noise-canceling headphones and the attached microphone from the man's head. Ensure that the black baseball cap and the sides of his head are realistically reconstructed where the headphones were previously positioned. The removal should be seamless, maintaining the consistent lighting and muted color palette of the scene, so it appears as though the man is simply wearing the cap without any headgear."
+ },
+ {
+  "id": "sc79ebdfc",
+  "kind": "new",
+  "left": "c_1457f73220c6.mp4",
+  "right": "c_ec7c47240c6a.mp4",
+  "source": "c_ea78168cb266.mp4",
+  "prompt": "Pan the camera to the left, moving away from the man in the red and black plaid shirt and the woman in the white sweater to reveal more of the festive theme park environment. The movement should shift the focus from the couple and their desserts to show a wider view of the decorated Christmas tree, the surrounding buildings with striped awnings, and other park guests in the background, expanding the scene's scope while maintaining the bright, natural daylight."
+ },
+ {
+  "id": "w1_pl20_g02",
+  "kind": "golden",
+  "left": "c_ab4cb4bc4d72.mp4",
+  "right": "c_999ff958b3c6.mp4",
+  "source": "c_d31d36afde0c.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "w1_pl20_r05",
+  "kind": "repeat",
+  "left": "c_374b3cc0e523.mp4",
+  "right": "c_f61915a0e63a.mp4",
+  "source": "c_b2faa98303c4.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"lighting and atmosphere\", \"change\": \"Add a soft, warm sunlight effect with drifting dust motes across the wooden desk\", \"scene_context\": \"the light-colored wooden desk surface surrounding the laptop and notebooks\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Introduce golden-hour sunlight streaks diagonally across the desk with subtle, floating particles of dust visible in the light beams to create a cozy, natural atmosphere.\"}",
+  "repeat_of": "sb4c73373"
+ },
+ {
+  "id": "s535b3f5f",
+  "kind": "new",
+  "left": "c_4d479c5cd742.mp4",
+  "right": "c_39393aae81ed.mp4",
+  "source": "c_5aee58508550.mp4",
+  "prompt": "Pan the camera to the left, shifting the focus away from the woman in the black wetsuit and the blue surfboard to reveal a wider view of the sandy beach and the white buildings in the background. The movement should be a smooth horizontal pan that expands the visible coastline and architecture on the left side of the frame while maintaining the low, water-level perspective."
+ },
+ {
+  "id": "w1_pl20_r02",
+  "kind": "repeat",
+  "left": "c_1c4360230c43.mp4",
+  "right": "c_23df33c2b198.mp4",
+  "source": "c_bd7950cafed0.mp4",
+  "prompt": "Change the color of the large orange pumpkin being carved to a vibrant turquoise. Ensure that the turquoise hue is applied consistently across the entire surface of the pumpkin, including the outer skin and the interior flesh visible through the carved eyes and jagged mouth. The lighting and shadows on the pumpkin should be preserved to maintain its three-dimensional shape and texture, but the original orange tones must be completely replaced by turquoise.",
+  "repeat_of": "s74463dc5"
+ },
+ {
+  "id": "s09b5c452",
+  "kind": "new",
+  "left": "c_d77c853a7d08.mp4",
+  "right": "c_72b4530c21a1.mp4",
+  "source": "c_1252df797160.mp4",
+  "prompt": "Pan left from the center of the murky grey water, moving away from the erupting white splash, to focus on the line of tall, slender poplar trees and the dry grass atop the sloped concrete bank on the left side of the canal."
+ },
+ {
+  "id": "s5f43367a",
+  "kind": "new",
+  "left": "c_6c961910e18b.mp4",
+  "right": "c_e515916894b0.mp4",
+  "source": "c_90d0e0997c73.mp4",
+  "prompt": "Replace the plain white wall and the textured grey wall in the background with a blurred view of an indoor basketball court. Ensure the basketball court background is out of focus to maintain the depth of field, keeping the houseplants on the wooden windowsill and shelf in sharp focus. The transition between the foreground plants and the new background should be seamless, preserving the soft, natural lighting of the original scene."
+ },
+ {
+  "id": "sb4c73373",
+  "kind": "new",
+  "left": "c_f61915a0e63a.mp4",
+  "right": "c_374b3cc0e523.mp4",
+  "source": "c_b2faa98303c4.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"lighting and atmosphere\", \"change\": \"Add a soft, warm sunlight effect with drifting dust motes across the wooden desk\", \"scene_context\": \"the light-colored wooden desk surface surrounding the laptop and notebooks\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Introduce golden-hour sunlight streaks diagonally across the desk with subtle, floating particles of dust visible in the light beams to create a cozy, natural atmosphere.\"}"
+ },
+ {
+  "id": "sba362339",
+  "kind": "new",
+  "left": "c_5c19839774e4.mp4",
+  "right": "c_56aaeae2a86a.mp4",
+  "source": "c_47b9ac35e2e7.mp4",
+  "prompt": "Pan the camera to the left, shifting the focus away from the woman in the black wetsuit and the blue surfboard to reveal a wider view of the sandy beach and the white buildings in the background. The movement should be a smooth horizontal pan that expands the visible coastline and architecture on the left side of the frame while maintaining the low, water-level perspective."
+ },
+ {
+  "id": "s9c20ddee",
+  "kind": "new",
+  "left": "c_b856a920397b.mp4",
+  "right": "c_aa32ff364a09.mp4",
+  "source": "c_e5220dffba70.mp4",
+  "prompt": "Replace the dark, shadowy void background behind the intricate white spider web and weathered brown wooden branches with a blurred image of a fire station. Ensure the fire station background is out of focus to maintain the depth of field, keeping the sharp detail of the silk threads and the fibrous texture of the wood in the foreground. The transition between the foreground elements and the new background should be seamless, preserving the high contrast of the pale web against the new, softer colors of the fire station scene."
+ },
+ {
+  "id": "sfb5ca084",
+  "kind": "new",
+  "left": "c_8775817c0dc3.mp4",
+  "right": "c_05625a2110d9.mp4",
+  "source": "c_4c3779b419ba.mp4",
+  "prompt": "Change the action of the woman with dark hair in the grey and white two-tone shirt; instead of sitting cross-legged on the rug and tilting her head upward, she should be standing and making a bed. Replace the rug and the sitting position with a bed in the room, and animate her smoothing out the sheets and arranging the pillows with her hands. The woman should maintain her same appearance and clothing, and the overall minimalist room setting, including the potted palm plant and wooden lattice cabinet, should remain consistent."
+ },
+ {
+  "id": "sc221de05",
+  "kind": "new",
+  "left": "c_8b6828a36b6c.mp4",
+  "right": "c_522bb0ed1fce.mp4",
+  "source": "c_14de2142f469.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"pan left from the coffee pouring action to reveal more of the off-white wall and the surrounding room\", \"scene_context\": \"a person pouring coffee into a cup on a light-wood shelving unit\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"eye-level\", \"movement\": \"pan left\"}, \"detail\": \"The camera should start on the action of pouring coffee and smoothly shift its focus to the left, expanding the view of the minimalist room and the plain off-white wall.\"}"
+ },
+ {
+  "id": "s2db2c01b",
+  "kind": "new",
+  "left": "c_4769927249cc.mp4",
+  "right": "c_0b6e81cb2570.mp4",
+  "source": "c_c1c759e31afb.mp4",
+  "prompt": "Add a small, white sheep standing on the stone stairs, positioned next to the intricate wrought-iron railing. The sheep should appear naturally integrated into the derelict environment, with its white wool contrasting against the muted grey stone of the steps and the dark metal of the railing. Ensure the sheep's scale is realistic relative to the stairs and that it remains stationary as the camera pans upward, maintaining consistent lighting and shadows to match the dim, natural light of the scene."
+ },
+ {
+  "id": "sfca0ecae",
+  "kind": "new",
+  "left": "c_f7f1dd2789d3.mp4",
+  "right": "c_46856c60924f.mp4",
+  "source": "c_12bec3bd42a2.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"transform into a pixel art style\", \"scene_context\": \"a person trimming a green hedge with brown-handled shears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Convert all visual elements, including the foliage, the person's hands, and the shears, into a low-resolution, blocky pixel art aesthetic with a limited color palette.\"}"
+ }
+]

@@ -1,0 +1,359 @@
+[
+ {
+  "id": "s326dc515",
+  "kind": "new",
+  "left": "c_a9b6744514f3.mp4",
+  "right": "c_0171fa8bc21b.mp4",
+  "source": "c_332afb981f3e.mp4",
+  "prompt": "Replace the background, consisting of the soft-blue wall and the white curtain, with the interior of an airplane cabin. The new background should feature elements like airplane seats, overhead bins, and cabin windows to create a realistic aircraft environment. Ensure the woman, the round mirror, and the lighting on her profile remain unchanged, seamlessly blending her into the new airplane cabin setting while maintaining the original focus on her skincare routine."
+ },
+ {
+  "id": "s3c5641b3",
+  "kind": "new",
+  "left": "c_4fdbf99baf75.mp4",
+  "right": "c_db2c0fb0c786.mp4",
+  "source": "c_5064613b5797.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"two red airport crash tenders\", \"change\": \"change the color to bright yellow\", \"scene_context\": \"positioned on a wet asphalt tarmac facing each other\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The saturated red paint of both fire trucks should be replaced with a bright, vibrant yellow while maintaining the original lighting, reflections, and shadows.\"}"
+ },
+ {
+  "id": "sf5de7ef3",
+  "kind": "new",
+  "left": "c_fba86f5bb0d1.mp4",
+  "right": "c_b72d8b4fc782.mp4",
+  "source": "c_6eb14afeb958.mp4",
+  "prompt": "Boom up the camera from its current static medium shot to a higher angle, shifting the viewpoint upward to reveal more of the grey cabinetry above the woman and the ceiling of the kitchen. The final shot should maintain the woman in the frame while expanding the vertical field of view to include the upper reaches of the kitchen walls and the ceiling."
+ },
+ {
+  "id": "w1_pl6_r05",
+  "kind": "repeat",
+  "left": "c_4c568535c46b.mp4",
+  "right": "c_81fa0d96892f.mp4",
+  "source": "c_98cf06381c98.mp4",
+  "prompt": "Replace the lush green trees located along the sidewalk, between the road and the low concrete wall, with giant mint leaves. The mint leaves should maintain the same overall volume and placement as the original trees, but they should feature the characteristic oval shape, serrated edges, and vibrant light-green color of mint foliage. Ensure the giant leaves integrate naturally with the surrounding environment, casting soft shadows on the sidewalk and road as the lighting changes throughout the video.",
+  "repeat_of": "sf06f049f"
+ },
+ {
+  "id": "w1_pl6_a01",
+  "kind": "attention",
+  "left": "c_85c929461dbe.mp4",
+  "right": "c_9c66ccb1aeaf.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "sc08f5d93",
+  "kind": "new",
+  "left": "c_e9db15d1f824.mp4",
+  "right": "c_186105c08e34.mp4",
+  "source": "c_d894fa4f2666.mp4",
+  "prompt": "Replace the bright turquoise underwater background and the intense white sunlight filtering from above with a view of a bustling downtown city skyline. The city buildings and skyscrapers should be visible through the water, maintaining the underwater aesthetic with distorted perspectives, cyan color grading, and floating air bubbles to ensure the man in the diving mask remains seamlessly integrated into the new urban aquatic environment."
+ },
+ {
+  "id": "s314ce5f9",
+  "kind": "new",
+  "left": "c_26a1c4a5592f.mp4",
+  "right": "c_4874c3565439.mp4",
+  "source": "c_ef08f3a3322c.mp4",
+  "prompt": "Add a layer of light, translucent white mist that drifts slowly and naturally across the white desk surface and over the woman's white t-shirt. The mist should be subtle and ethereal, partially obscuring the details of the desk and the fabric of the shirt without completely hiding them. Ensure the movement of the mist is fluid and soft, blending seamlessly with the bright, minimalist lighting of the room to maintain the calm and studious mood of the scene."
+ },
+ {
+  "id": "s702e7e6d",
+  "kind": "new",
+  "left": "c_daaf7e8e2d56.mp4",
+  "right": "c_d312b9fad2cf.mp4",
+  "source": "c_43cf41ed649d.mp4",
+  "prompt": "Change the stationary wide shot to a tracking shot that moves backward at the same speed as the man and woman in black wetsuits. Instead of the subjects running from a distance toward the camera and eventually exiting the frame, the camera should maintain a consistent distance from them throughout the sequence. As the man with the white surfboard and the woman with the grey and white surfboard run across the sandy beach, the camera should retreat in synchronization with their forward motion, keeping them centered in the frame and preserving the view of the tan cliffs to the left and the crashing ocean waves to the right."
+ },
+ {
+  "id": "s4201963c",
+  "kind": "new",
+  "left": "c_1bd4486739bb.mp4",
+  "right": "c_eddb2ef2172a.mp4",
+  "source": "c_64e2bfbdd5d5.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"red accents on the players' white baseball uniforms\", \"change\": \"change the red accents to bright yellow\", \"scene_context\": \"on players positioned across the dirt infield and green grass outfield\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply the bright yellow color consistently to the caps, socks, and jersey trim of all players in white uniforms throughout the entire sequence, keeping the white base of the uniforms unchanged.\"}"
+ },
+ {
+  "id": "sf06f049f",
+  "kind": "new",
+  "left": "c_81fa0d96892f.mp4",
+  "right": "c_4c568535c46b.mp4",
+  "source": "c_98cf06381c98.mp4",
+  "prompt": "Replace the lush green trees located along the sidewalk, between the road and the low concrete wall, with giant mint leaves. The mint leaves should maintain the same overall volume and placement as the original trees, but they should feature the characteristic oval shape, serrated edges, and vibrant light-green color of mint foliage. Ensure the giant leaves integrate naturally with the surrounding environment, casting soft shadows on the sidewalk and road as the lighting changes throughout the video."
+ },
+ {
+  "id": "w1_pl6_r03",
+  "kind": "repeat",
+  "left": "c_2da497639a71.mp4",
+  "right": "c_1550243860f9.mp4",
+  "source": "c_57e9965cd73d.mp4",
+  "prompt": "Replace the American Robin, characterized by its dark gray back and bright orange breast, with a small blue jay. The blue jay should maintain the same position and movements as the original bird, remaining stationary on the grassy bank for the first three seconds and then hopping and fluttering toward the left and away from the camera starting at 0:03. Ensure the blue jay's distinctive blue plumage, white chest, and black collar are visually integrated into the scene, matching the soft, natural lighting and the earthy color palette of the muddy bank and reddish-brown water.",
+  "repeat_of": "s09b99719"
+ },
+ {
+  "id": "w1_pl6_a02",
+  "kind": "attention",
+  "left": "c_0f47cde479f9.mp4",
+  "right": "c_6c16b03356b8.mp4",
+  "source": "c_cb4e7310d4a7.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "s313dcf93",
+  "kind": "new",
+  "left": "c_aba539f2312a.mp4",
+  "right": "c_c4846a2bf2af.mp4",
+  "source": "c_ad2663b24cb6.mp4",
+  "prompt": "Change the color of the brown calf walking across the grassy field from its original earthy brown to a medium purple. The color change should be applied consistently to the calf's entire body as it moves from left to right across the frame, ensuring the purple hue looks natural and maintains the original lighting, shadows, and texture of the animal's coat throughout the entire duration of the video."
+ },
+ {
+  "id": "s706d6d12",
+  "kind": "new",
+  "left": "c_4a65070bdf85.mp4",
+  "right": "c_4c00fa5a8832.mp4",
+  "source": "c_5bdafc0343ca.mp4",
+  "prompt": "Change the camera movement to zoom in on the thin layer of white mist floating across the lake's surface, moving closer to the water to capture the detailed texture and movement of the fog as it drifts between the reflections of the leafless trees."
+ },
+ {
+  "id": "sae72be4c",
+  "kind": "new",
+  "left": "c_8fb13ef1df59.mp4",
+  "right": "c_7920931c3408.mp4",
+  "source": "c_b770f0a0ae0d.mp4",
+  "prompt": "Replace the dark, textured gray background behind the person's hand and the matchstick with a blurred image of a rustic wooden table. Ensure the new background maintains a shallow depth of field to keep the focus on the hand's movements, and adjust the lighting and color grading of the wooden table image to match the dramatic, directional lighting and muted color palette of the original scene."
+ },
+ {
+  "id": "s4c60078a",
+  "kind": "new",
+  "left": "c_8ec1d5f52535.mp4",
+  "right": "c_541727b0cdbc.mp4",
+  "source": "c_69c8d975c47e.mp4",
+  "prompt": "Change the static high-angle shot to a close-up shot of the plastic water bottle floating in the dark blue water. The camera should zoom in or shift its viewpoint to focus tightly on the bottle, making it the central subject of the frame. The rusty orange chain of barriers should either be moved out of the frame or become a blurred background element to emphasize the bottle's isolation and the texture of the surrounding dark navy ripples. The final result should maintain the dim, moody lighting while providing a detailed view of the floating plastic waste."
+ },
+ {
+  "id": "sf5c0b52e",
+  "kind": "new",
+  "left": "c_91cbf4d9d375.mp4",
+  "right": "c_86e8f7d45dd7.mp4",
+  "source": "c_eb3f5cd2d200.mp4",
+  "prompt": "Replace the blurred, neutral-toned indoor background behind the person's hands, the wooden clothespin, and the white textured fabric with a bright, sunny outdoor gas station scene. The new background should feature elements like gas pumps, a paved lot, and clear daylight, while maintaining the original shallow depth of field so that the background remains softly blurred, keeping the focus entirely on the hands and the action of clipping the fabric."
+ },
+ {
+  "id": "s09b99719",
+  "kind": "new",
+  "left": "c_1550243860f9.mp4",
+  "right": "c_2da497639a71.mp4",
+  "source": "c_57e9965cd73d.mp4",
+  "prompt": "Replace the American Robin, characterized by its dark gray back and bright orange breast, with a small blue jay. The blue jay should maintain the same position and movements as the original bird, remaining stationary on the grassy bank for the first three seconds and then hopping and fluttering toward the left and away from the camera starting at 0:03. Ensure the blue jay's distinctive blue plumage, white chest, and black collar are visually integrated into the scene, matching the soft, natural lighting and the earthy color palette of the muddy bank and reddish-brown water."
+ },
+ {
+  "id": "sf751bc14",
+  "kind": "new",
+  "left": "c_aec629a67456.mp4",
+  "right": "c_9b98ae1b0858.mp4",
+  "source": "c_ea47a57ceb66.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"dark black background\", \"change\": \"replace with a clear sunny sky\", \"scene_context\": \"the area behind the crowd of people reaching upward\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The deep black void behind the crowd should be replaced with a bright, vivid blue sky and a warm, sunny glow. The lighting on the people should be adjusted from monochromatic blue to natural daylight to match the new sunny environment.\"}"
+ },
+ {
+  "id": "w1_pl6_g03",
+  "kind": "golden",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s628eae81",
+  "kind": "new",
+  "left": "c_4ac63f2daf95.mp4",
+  "right": "c_67449a13a809.mp4",
+  "source": "c_95a13d500b54.mp4",
+  "prompt": "Tilt the camera down from the spinning clear plastic reels and the central head assembly to focus on the white metallic base of the tape recorder, specifically centering the view on the lower section of the machine where the vents and the small black switch are located."
+ },
+ {
+  "id": "s9ac10c3b",
+  "kind": "new",
+  "left": "c_f7b83a0b5986.mp4",
+  "right": "c_10c2e622de35.mp4",
+  "source": "c_2e0946cf9483.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"two red airport crash tenders\", \"change\": \"change the color to bright yellow\", \"scene_context\": \"positioned on a wet asphalt tarmac facing each other\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The saturated red paint of both fire trucks should be replaced with a bright, vibrant yellow while maintaining the original lighting, reflections, and shadows.\"}"
+ },
+ {
+  "id": "s0474505f",
+  "kind": "new",
+  "left": "c_98e4d9ec7783.mp4",
+  "right": "c_8f7607dc7a94.mp4",
+  "source": "c_b839f066ce93.mp4",
+  "prompt": "Transform the entire video into a Gongbi style painting. Convert the man in the leather jacket, the black horse, and the overcast sky into a traditional Chinese artwork characterized by meticulous, fine brushwork and delicate, precise lines. The deep black of the horse's coat and the man's dark hair should be rendered with subtle ink washes, while the pale sky and skin tones should use a soft, muted color palette. The final result should look like a detailed silk painting, replacing the photographic realism with a refined, elegant aesthetic and a flat, artistic texture."
+ },
+ {
+  "id": "w1_pl6_g01",
+  "kind": "golden",
+  "left": "c_99d191f1a090.mp4",
+  "right": "c_49062e6a8f97.mp4",
+  "source": "c_112bfa1cff08.mp4",
+  "prompt": "Add a layer of light, translucent white mist over the distant green coastline and the horizon line. The mist should appear as a soft, atmospheric haze that partially obscures the dense green mangroves and blends the land into the pale blue sky, creating a sense of depth and humidity without completely hiding the landscape. The effect should be subtle and consistent across the entire background throughout the duration of the clip."
+ },
+ {
+  "id": "s527f7fb7",
+  "kind": "new",
+  "left": "c_3850ac2a7efd.mp4",
+  "right": "c_1e0416e20728.mp4",
+  "source": "c_8258adbbddf9.mp4",
+  "prompt": "Change the action of the woman with dark hair in the grey and white two-tone shirt; instead of sitting cross-legged on the rug and tilting her head upward, she should be standing and making a bed. Replace the rug and the sitting position with a bed in the room, and animate her smoothing out the sheets and arranging the pillows with her hands. The woman should maintain her same appearance and clothing, and the overall minimalist room setting, including the potted palm plant and wooden lattice cabinet, should remain consistent."
+ },
+ {
+  "id": "s8102975a",
+  "kind": "new",
+  "left": "c_e93fbb82759a.mp4",
+  "right": "c_6a5744a3e258.mp4",
+  "source": "c_8f8bb20812ea.mp4",
+  "prompt": "Add a layer of morning frost to the light-colored brick wall in the background. The frost should appear as a delicate, crystalline white coating that clings to the texture of the bricks and mortar, creating a frozen, wintry effect. Ensure the frost is subtly integrated into the blurred background, maintaining the existing depth of field so that the frost remains out of focus while the glass and pouring water stay sharp. The overall look should enhance the cool, moody color palette of the scene."
+ },
+ {
+  "id": "seaaec259",
+  "kind": "new",
+  "left": "c_1c14beef5784.mp4",
+  "right": "c_de786c620873.mp4",
+  "source": "c_f23f4605d1c0.mp4",
+  "prompt": "Transform the entire video into a vibrant anime style, replacing the gritty, desaturated, and bluish color palette with highly saturated colors and clean, bold line art. The black and white sheep, the yellow ear tag, the green hay, and the rustic wooden poles should all be rendered with the smooth shading and bright, vivid tones characteristic of modern anime. The overcast sky in the background should be changed to a bright, clear blue with stylized white clouds, ensuring the overall aesthetic is colorful and polished."
+ },
+ {
+  "id": "s3b80d0fa",
+  "kind": "new",
+  "left": "c_4c19c5c6b726.mp4",
+  "right": "c_399b3302811c.mp4",
+  "source": "c_bcd7328495f1.mp4",
+  "prompt": "Modify the action of the blue merle Border Collie running in the distance along the dirt path. As the dog runs toward the camera on the grassy embankment, animate it to perform a leap, jumping over a small patch of grass. The jump should be physically plausible, with the dog's body lifting off the ground and landing smoothly back on the path, maintaining its forward momentum and the overall bright, overexposed lighting of the scene."
+ },
+ {
+  "id": "se0058700",
+  "kind": "new",
+  "left": "c_e1692c3b6f81.mp4",
+  "right": "c_90fb52eb8b5a.mp4",
+  "source": "c_89ab897fd978.mp4",
+  "prompt": "Replace the large, tan ceramic pot located in the blurred background behind the white and grey tabby cat with a large, translucent jellyfish. The jellyfish should maintain the same approximate scale and position as the original pot, appearing softly out of focus to match the shallow depth of field of the scene. Ensure the translucent quality of the jellyfish allows some of the background colors to bleed through, blending naturally into the muted, diffused lighting of the outdoor patio."
+ },
+ {
+  "id": "s45c154e5",
+  "kind": "new",
+  "left": "c_c92892b42d7d.mp4",
+  "right": "c_fe5301145237.mp4",
+  "source": "c_6d598fb49f78.mp4",
+  "prompt": "Add intermittent, high-intensity flashes of white light to the dark, textured concrete wall in the background to simulate lightning during a thunderstorm. These flashes should be sudden and brief, momentarily brightening the grayscale scene and casting sharp, flickering highlights on the water's surface and the vertical lines of the wall. The timing of the flashes should be irregular to create a natural, atmospheric storm effect, contrasting with the moody, high-contrast lighting of the original footage."
+ },
+ {
+  "id": "sf9c7500f",
+  "kind": "new",
+  "left": "c_524e5cf6ca73.mp4",
+  "right": "c_a542433ae680.mp4",
+  "source": "c_dfa1951e4381.mp4",
+  "prompt": "Replace the dark, textured gray background behind the person's hand and the matchstick with a blurred image of a rustic wooden table. Ensure the new background maintains a shallow depth of field to keep the focus on the hand's movements, and adjust the lighting and color grading of the wooden table image to match the dramatic, directional lighting and muted color palette of the original scene."
+ },
+ {
+  "id": "w1_pl6_r04",
+  "kind": "repeat",
+  "left": "c_6a5744a3e258.mp4",
+  "right": "c_e93fbb82759a.mp4",
+  "source": "c_8f8bb20812ea.mp4",
+  "prompt": "Add a layer of morning frost to the light-colored brick wall in the background. The frost should appear as a delicate, crystalline white coating that clings to the texture of the bricks and mortar, creating a frozen, wintry effect. Ensure the frost is subtly integrated into the blurred background, maintaining the existing depth of field so that the frost remains out of focus while the glass and pouring water stay sharp. The overall look should enhance the cool, moody color palette of the scene.",
+  "repeat_of": "s8102975a"
+ },
+ {
+  "id": "s7a2bde26",
+  "kind": "new",
+  "left": "c_52a832f0cc67.mp4",
+  "right": "c_9dc31de413e1.mp4",
+  "source": "c_d99cfdf608e5.mp4",
+  "prompt": "Replace the hazy, pale blue sky in the background with a dramatic sunset sky featuring vibrant orange and purple hues. The new sky should seamlessly blend with the horizon line behind the distant scrubland and the sprawling branches of the dead tree, while maintaining the natural lighting on the zebra and the golden savanna grass. The transition from orange to purple should create a rich, atmospheric gradient across the upper portion of the frame, transforming the midday feel into a serene evening scene."
+ },
+ {
+  "id": "w1_pl6_g05",
+  "kind": "golden",
+  "left": "c_2c8a9a316d84.mp4",
+  "right": "c_c510c06349d2.mp4",
+  "source": "c_f4dd583f008e.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "sdb2dcd51",
+  "kind": "new",
+  "left": "c_2a013d43d808.mp4",
+  "right": "c_7537245d71b9.mp4",
+  "source": "c_06d3b6fe3abb.mp4",
+  "prompt": "Remove the small yellow buoy located in the lower foreground of the turquoise-green sea. Carefully erase the buoy and any associated ripples or wake it creates in the water, filling in the area with the surrounding choppy water texture and color to ensure a seamless and natural appearance. The final result should show an unobstructed view of the sea in the foreground."
+ },
+ {
+  "id": "w1_pl6_g02",
+  "kind": "golden",
+  "left": "c_999ff958b3c6.mp4",
+  "right": "c_ab4cb4bc4d72.mp4",
+  "source": "c_d31d36afde0c.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "s2e58da9a",
+  "kind": "new",
+  "left": "c_1a5b6ff8113b.mp4",
+  "right": "c_5f82b8227542.mp4",
+  "source": "c_ea5ad593e68d.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"fake black spider and white synthetic spiderwebs\", \"change\": \"Dolly out from the fake black spider and white synthetic spiderwebs to reveal more of the dim room and the framed portrait in the background\", \"scene_context\": \"hanging in the center of the frame with a light source behind the webs\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"eye-level\", \"movement\": \"dolly out\"}, \"detail\": \"The camera should smoothly move backward, transitioning from a close-up of the spider and webs to a wider view that brings the framed portrait and the surrounding dark room into clear focus.\"}"
+ },
+ {
+  "id": "s579454fb",
+  "kind": "new",
+  "left": "c_32cded5d0c94.mp4",
+  "right": "c_d734758f4c09.mp4",
+  "source": "c_6ebeb568c7a0.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"derelict concrete room and weathered poster\", \"change\": \"replace with a futuristic, metallic sci-fi corridor\", \"scene_context\": \"the environment surrounding the man and the hatch\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The concrete walls should be replaced with brushed metal panels, integrated neon light strips, and high-tech circuitry. The weathered poster should be replaced with a holographic interface or a digital display screen.\"}"
+ },
+ {
+  "id": "s55fe2458",
+  "kind": "new",
+  "left": "c_4b3c7fab94a4.mp4",
+  "right": "c_ba0d9c33b673.mp4",
+  "source": "c_37ac49093c67.mp4",
+  "prompt": "Transform the entire video into a watercolor painting style. Apply a soft, artistic filter across the whole frame, turning the woman's wavy brown hair, her skin tones, and the plain light-colored background into fluid, blended washes of color. The deep red of the lipstick and the silver of the hoop earrings should appear as vibrant, bleeding pigments with characteristic watercolor edges and subtle paper texture overlays. Ensure the movements of her hand and lips remain smooth but look like a series of painted frames, replacing the sharp photographic detail with a dreamy, hand-painted aesthetic."
+ },
+ {
+  "id": "w1_pl6_g04",
+  "kind": "golden",
+  "left": "c_2871fb0c1adb.mp4",
+  "right": "c_e56d98539102.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "s5508f725",
+  "kind": "new",
+  "left": "c_cb3cf43a8a9d.mp4",
+  "right": "c_200cbe1c5a24.mp4",
+  "source": "c_b1a06f8aad0a.mp4",
+  "prompt": "Replace the brown horse with a black mane, located in the center of the frame, with a fluffy ginger kitten. The kitten should be positioned in the same area as the horse, maintaining the same scale and movement as the horse shifts its head. Ensure the kitten's fur is a vibrant ginger color and looks soft and fluffy. The person's hand entering from the bottom left at 00:01 should now appear to be gently petting the kitten's head and ears instead of the horse's forehead and mane. The interaction should look natural, with the kitten reacting calmly to the touch, while keeping the rocky background and natural lighting unchanged."
+ },
+ {
+  "id": "s90b6a8a9",
+  "kind": "new",
+  "left": "c_83e3c3a7e9ea.mp4",
+  "right": "c_d78a59fc0a5b.mp4",
+  "source": "c_d1f96ffcb9b0.mp4",
+  "prompt": "Remove the red battle ropes and their black rubberized handles from the person's hands throughout the entire video. The removal should be seamless, ensuring that the person's hands and fingers are realistically reconstructed where the ropes and handles were previously held. The background, including the dark grey walls and the geometric white LED ceiling lights, should be filled in naturally to replace the space occupied by the ropes. The final result should show the person standing in the gym with their hands empty, maintaining the same lighting, shadows, and muscle tension in their arms and hands."
+ },
+ {
+  "id": "w1_pl6_r01",
+  "kind": "repeat",
+  "left": "c_4c00fa5a8832.mp4",
+  "right": "c_4a65070bdf85.mp4",
+  "source": "c_5bdafc0343ca.mp4",
+  "prompt": "Change the camera movement to zoom in on the thin layer of white mist floating across the lake's surface, moving closer to the water to capture the detailed texture and movement of the fog as it drifts between the reflections of the leafless trees.",
+  "repeat_of": "s706d6d12"
+ },
+ {
+  "id": "w1_pl6_r02",
+  "kind": "repeat",
+  "left": "c_90fb52eb8b5a.mp4",
+  "right": "c_e1692c3b6f81.mp4",
+  "source": "c_89ab897fd978.mp4",
+  "prompt": "Replace the large, tan ceramic pot located in the blurred background behind the white and grey tabby cat with a large, translucent jellyfish. The jellyfish should maintain the same approximate scale and position as the original pot, appearing softly out of focus to match the shallow depth of field of the scene. Ensure the translucent quality of the jellyfish allows some of the background colors to bleed through, blending naturally into the muted, diffused lighting of the outdoor patio.",
+  "repeat_of": "se0058700"
+ }
+]

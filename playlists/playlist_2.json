@@ -1,0 +1,359 @@
+[
+ {
+  "id": "s852f14f7",
+  "kind": "new",
+  "left": "c_97bd981e6c62.mp4",
+  "right": "c_7347620b951a.mp4",
+  "source": "c_1154f6055585.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"transform into a caricature style with exaggerated facial features and proportions\", \"scene_context\": \"a man and woman dancing intimately near a bright window\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply a stylized, illustrative look where the man's and woman's facial features are humorously oversized and their body proportions are distorted. Maintain the original colors, including the bright blue flower and the high-contrast lighting.\"}"
+ },
+ {
+  "id": "s0621050f",
+  "kind": "new",
+  "left": "c_342d5b2ad7f3.mp4",
+  "right": "c_dc1fa7d0e2ec.mp4",
+  "source": "c_fa6208ecd920.mp4",
+  "prompt": "Transform the visual style of the red ink diffusing in the water into a claymation style. Replace the fluid, translucent, and wispy textures of the red pigment with a solid, matte, and tactile clay appearance. The voluminous, cloud-like shapes should look like hand-molded red clay with subtle fingerprints and a slightly uneven, chunky surface. Maintain the overall composition and the high-contrast deep blue background, but ensure the red mass has the physical weight and opaque quality of sculpted clay rather than liquid ink."
+ },
+ {
+  "id": "sd6c1278b",
+  "kind": "new",
+  "left": "c_d0d07eff8028.mp4",
+  "right": "c_f4a5352095a9.mp4",
+  "source": "c_59eb02e402c0.mp4",
+  "prompt": "Replace the indoor room background, specifically removing the black office chair on the left and the black-and-white checkered fabric on the right, and replace it with a modern recreation room. The new background should feature contemporary elements such as a sleek lounge area, gaming consoles, or minimalist decor, while maintaining the same bright, neutral lighting to ensure the person in the white hazmat suit and the light-brown wooden table blend seamlessly into the new environment."
+ },
+ {
+  "id": "s0b3bfd59",
+  "kind": "new",
+  "left": "c_345ff079f579.mp4",
+  "right": "c_fba4f1646079.mp4",
+  "source": "c_049367392f6a.mp4",
+  "prompt": "Modify the action of the woman wearing the pinkish-red oversized shirt and mustard-yellow trousers so that she performs a full 360-degree spin around in a circle while holding the basketball before she tosses it high into the air. The spin should be fluid and integrated into her initial movements, maintaining the same rhythmic and surreal mood of the scene, and occur just before the moment the ball leaves her hands."
+ },
+ {
+  "id": "s04f5ef41",
+  "kind": "new",
+  "left": "c_36273a1cbffc.mp4",
+  "right": "c_c60e09d29c8d.mp4",
+  "source": "c_cda24e66e8a2.mp4",
+  "prompt": "Change the color of the dark, textured brick wall from its current muted gray and dark brown tones to a Cadet Blue-Purple. Ensure that the weathered texture of the bricks and the deep shadows cast across the surface remain visible, with the new blue-purple hue integrated naturally into the low-light, moody atmosphere of the scene."
+ },
+ {
+  "id": "s97b46ed6",
+  "kind": "new",
+  "left": "c_4441d328af2d.mp4",
+  "right": "c_6a5bb125fc6b.mp4",
+  "source": "c_1e0ecad9a5b1.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the fluffy blue merle and white Border Collie\", \"change\": \"jump up to take a treat from the person's hand\", \"scene_context\": \"in the foreground, sitting next to the chocolate Labrador\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The Border Collie should transition from its sitting position to a vertical jump, reaching its mouth toward the hand in the top right of the frame to catch a treat.\"}"
+ },
+ {
+  "id": "w1_pl2_g04",
+  "kind": "golden",
+  "left": "c_9e7f36a928a8.mp4",
+  "right": "c_1db26344910b.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "s055f0ea2",
+  "kind": "new",
+  "left": "c_7f0549f00a35.mp4",
+  "right": "c_67b54aabd7ac.mp4",
+  "source": "c_fea29f4eee25.mp4",
+  "prompt": "Change the color of the pale blue sky in the background to a rich sapphire green. The edit should specifically target the bright, light-colored areas of the sky visible behind the silhouette of the giraffe and the network of dark branches. Ensure the transition is seamless and the new sapphire green hue is consistent across the entire background throughout the video, while maintaining the high contrast between the dark foreground elements and the newly colored sky."
+ },
+ {
+  "id": "sfb4795db",
+  "kind": "new",
+  "left": "c_d0698b5b4187.mp4",
+  "right": "c_d740f7dcea80.mp4",
+  "source": "c_717663cf7f24.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the camouflage shirt and yellow hard hat\", \"change\": \"drop the metal rebar on the ground\", \"scene_context\": \"walking toward a concrete block structure in the foreground of a construction site\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should shift his shoulder and release the rebar, letting it fall naturally onto the reddish-brown dirt. The rebar should land with a slight bounce and create a small puff of dust upon impact.\"}"
+ },
+ {
+  "id": "sf70f5696",
+  "kind": "new",
+  "left": "c_ae1c9cebed1f.mp4",
+  "right": "c_cb598a0f27c2.mp4",
+  "source": "c_5eea631955b2.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"blurred background\", \"change\": \"replace the blurred background with a sunny outdoor promenade\", \"scene_context\": \"the area behind the person's hands and the white paper\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new background should feature a bright, sunlit pedestrian walkway with soft bokeh, maintaining the shallow depth of field to keep the focus on the hands and drawing.\"}"
+ },
+ {
+  "id": "s769fc25a",
+  "kind": "new",
+  "left": "c_ff989a5f0416.mp4",
+  "right": "c_c784285bf7cb.mp4",
+  "source": "c_924b488684ec.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small zebra figurine\", \"change\": \"Add a small zebra figurine to the top right shelf of the dark brown wooden cabinet, next to the pink teapot.\", \"scene_context\": \"on the top right shelf of the wooden cabinet, adjacent to the pink teapot\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The zebra figurine should be small in scale, with distinct black and white stripes, and placed naturally on the shelf surface next to the pink teapot.\"}"
+ },
+ {
+  "id": "w1_pl2_g01",
+  "kind": "golden",
+  "left": "c_9b25fc4df586.mp4",
+  "right": "c_c16c7cc8a9c4.mp4",
+  "source": "c_dff4add31e30.mp4",
+  "prompt": "Add a strong wind effect to the scene that causes the red and white floral tablecloth on the left side of the frame to flutter and blow realistically. The fabric should ripple and wave dynamically throughout the video, as if caught in a powerful gust of wind, while the man and the other objects in the workshop remain unaffected. Ensure the movement of the cloth looks natural and consistent with the physics of a light fabric being blown by a strong breeze."
+ },
+ {
+  "id": "s956f2696",
+  "kind": "new",
+  "left": "c_657a3064cf83.mp4",
+  "right": "c_e91a4f526908.mp4",
+  "source": "c_99549bb5d64d.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man's chalk-covered hands\", \"change\": \"tighten their grip and squeeze the vertical metal weight bars\", \"scene_context\": \"gripping two vertical metal weight bars in a gym\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The knuckles should whiten slightly and the muscles in the forearms should tense as the fingers wrap more firmly around the metal bars.\"}"
+ },
+ {
+  "id": "se9319ef7",
+  "kind": "new",
+  "left": "c_ab4cb4bc4d72.mp4",
+  "right": "c_999ff958b3c6.mp4",
+  "source": "c_d31d36afde0c.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "w1_pl2_r05",
+  "kind": "repeat",
+  "left": "c_1c2f61fbc030.mp4",
+  "right": "c_8b4754e9a2a3.mp4",
+  "source": "c_0412265194ba.mp4",
+  "prompt": "Add a small, brown butterfly that flies into the frame and lands gently on the cow's light-tan right ear. The butterfly should be realistically scaled and its wings should flutter slightly upon landing. Ensure the lighting on the butterfly matches the warm, natural side-lighting of the barn scene, and that its movement is synchronized with the cow's slight head movements and ear twitches to make the addition look seamless and natural.",
+  "repeat_of": "s0ff971c7"
+ },
+ {
+  "id": "w1_pl2_g02",
+  "kind": "golden",
+  "left": "c_2871fb0c1adb.mp4",
+  "right": "c_e56d98539102.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "w1_pl2_g05",
+  "kind": "golden",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "w1_pl2_r02",
+  "kind": "repeat",
+  "left": "c_a50f2e0efe59.mp4",
+  "right": "c_715dac7edb78.mp4",
+  "source": "c_1ecb9f7ad0ca.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"golden sunlight and clear sky\", \"change\": \"replace with a dark, stormy atmosphere featuring a thunderstorm with rain and lightning flashes\", \"scene_context\": \"the background sky and overall lighting of the grassy field\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The warm golden glow and lens flare should be replaced with deep grey clouds and a moody, dim lighting. Add visible rain streaks falling across the scene and intermittent bright flashes of lightning that illuminate the woman, the horse, and the trees.\"}",
+  "repeat_of": "s61df72e5"
+ },
+ {
+  "id": "w1_pl2_r04",
+  "kind": "repeat",
+  "left": "c_d740f7dcea80.mp4",
+  "right": "c_d0698b5b4187.mp4",
+  "source": "c_717663cf7f24.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the camouflage shirt and yellow hard hat\", \"change\": \"drop the metal rebar on the ground\", \"scene_context\": \"walking toward a concrete block structure in the foreground of a construction site\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should shift his shoulder and release the rebar, letting it fall naturally onto the reddish-brown dirt. The rebar should land with a slight bounce and create a small puff of dust upon impact.\"}",
+  "repeat_of": "sfb4795db"
+ },
+ {
+  "id": "sc357e08b",
+  "kind": "new",
+  "left": "c_55b68cb2e773.mp4",
+  "right": "c_8b54e31639c7.mp4",
+  "source": "c_c7fc3e66483e.mp4",
+  "prompt": "Tilt the camera up from the man wearing the tan hat and grey t-shirt sitting on the dark, jagged rock to reveal the full height and scale of the massive dark cliffs towering in the background. The movement should start from the man's position and pan vertically upward, shifting the focus from the crashing white waves and the man to the imposing, desaturated grey rock faces that dominate the upper portion of the frame."
+ },
+ {
+  "id": "sf0550e6d",
+  "kind": "new",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "w1_pl2_g03",
+  "kind": "golden",
+  "left": "c_297b49bef8d7.mp4",
+  "right": "c_dc8b4e13cd18.mp4",
+  "source": "c_5f480a0660c0.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "scb5d7212",
+  "kind": "new",
+  "left": "c_baa23e374abe.mp4",
+  "right": "c_429fa73e3111.mp4",
+  "source": "c_96b84d06c082.mp4",
+  "prompt": "Add a gentle snowfall effect to the scene, with small, white snowflakes drifting slowly through the open fireplace opening from the top of the frame. Ensure the snowflakes interact naturally with the environment by having some of them settle and accumulate as a thin, white layer on the top surface and handle of the copper pot in the left foreground. The snow should appear translucent and soft, contrasting with the warm orange glow of the flickering flames and the dark brick background, while maintaining the cozy, atmospheric mood of the shot."
+ },
+ {
+  "id": "s1786609d",
+  "kind": "new",
+  "left": "c_500b0a36afe3.mp4",
+  "right": "c_b399d7397839.mp4",
+  "source": "c_2aa3482cd2d8.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small cascading waterfall\", \"change\": \"add a small cascading waterfall\", \"scene_context\": \"the distant body of water in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The waterfall should be small and subtle, blending naturally into the distant landscape. It should feature white, foaming water cascading down a rocky ledge into the water body.\"}"
+ },
+ {
+  "id": "s01a13ad9",
+  "kind": "new",
+  "left": "c_7fa36b1b88c8.mp4",
+  "right": "c_1c70bd014cbb.mp4",
+  "source": "c_a0e20d43122d.mp4",
+  "prompt": "Add a small ginger cat sitting calmly in the green grass to the left of the giraffe. The cat should be positioned in the foreground area of the grassy field, maintaining a realistic scale relative to the giraffe and the surrounding environment. Ensure the cat's orange fur blends naturally with the muted lighting of the overcast scene, and that it remains stationary in the grass throughout the duration of the clip, matching the static camera perspective."
+ },
+ {
+  "id": "s6e3646c5",
+  "kind": "new",
+  "left": "c_0b19db6b2bcd.mp4",
+  "right": "c_ff9bd1c7f7c4.mp4",
+  "source": "c_4b54d7efd2d4.mp4",
+  "prompt": "Replace the lush green forest background, including the soft-focus green leaves and greyish-brown tree trunks, with a vibrant and colorful water park. The new background should feature bright, multi-colored water slides, sparkling blue swimming pools, and a sunny atmosphere, while keeping the Red-tailed Hawk and the thick, textured tree branch it is perched on completely intact and unchanged."
+ },
+ {
+  "id": "s2a401651",
+  "kind": "new",
+  "left": "c_e8a22b966f57.mp4",
+  "right": "c_5e7d5a3f6385.mp4",
+  "source": "c_592b1265d0c9.mp4",
+  "prompt": "Change the color of the reddish-brown tiled floor in the blurred background to a Deep Cobalt Blue. Ensure the color shift is consistent across the entire background area, maintaining the original blur and lighting effects, while leaving the tabby kittens and the weathered wooden surface untouched."
+ },
+ {
+  "id": "s919ba3fc",
+  "kind": "new",
+  "left": "c_95e82afc6139.mp4",
+  "right": "c_d559e520d402.mp4",
+  "source": "c_b99dbeb27fc3.mp4",
+  "prompt": "Replace the grey fence and green foliage in the background with a scenic view of a quaint European village. The new background should feature cobblestone streets, colorful old-world buildings with flower boxes, and distant rolling hills under the same bright, sunny lighting as the foreground. Ensure the transition between the blue and white striped deck chair and the new village scenery is seamless, maintaining the high-contrast shadows and peaceful atmosphere of the original shot."
+ },
+ {
+  "id": "s05eb8fa8",
+  "kind": "new",
+  "left": "c_237fbc79460b.mp4",
+  "right": "c_1fc83e47a85a.mp4",
+  "source": "c_cfaaadb2ad98.mp4",
+  "prompt": "Change the handheld selfie perspective to an arc shot that circles around the man in the white denim jacket. Instead of the static, close-up front-facing view, the camera should smoothly orbit 360 degrees around the man, capturing him from different angles as he transitions from smiling to a stern expression. The movement should maintain a consistent distance from the man, revealing more of the white wall with abstract black line art in the background as the camera rotates. The final result should be a cinematic, fluid circular motion that replaces the slight natural shaking of the handheld selfie."
+ },
+ {
+  "id": "w1_pl2_r01",
+  "kind": "repeat",
+  "left": "c_1c70bd014cbb.mp4",
+  "right": "c_7fa36b1b88c8.mp4",
+  "source": "c_a0e20d43122d.mp4",
+  "prompt": "Add a small ginger cat sitting calmly in the green grass to the left of the giraffe. The cat should be positioned in the foreground area of the grassy field, maintaining a realistic scale relative to the giraffe and the surrounding environment. Ensure the cat's orange fur blends naturally with the muted lighting of the overcast scene, and that it remains stationary in the grass throughout the duration of the clip, matching the static camera perspective.",
+  "repeat_of": "s01a13ad9"
+ },
+ {
+  "id": "s2a3597ce",
+  "kind": "new",
+  "left": "c_0fab6859943e.mp4",
+  "right": "c_144aad21e8df.mp4",
+  "source": "c_ac00b703ad34.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"static wide shot\", \"change\": \"aerial/drone shot that orbits around the colorful foil balloons\", \"scene_context\": \"floating above a busy street with green trees and cars\", \"camera\": {\"shot_type\": \"aerial shot\", \"angle\": \"high angle\", \"movement\": \"orbiting\"}, \"detail\": \"The camera should transition from a fixed position to a dynamic drone flight, circling the blue dolphin and other character balloons to show them from multiple angles against the street backdrop.\"}"
+ },
+ {
+  "id": "w1_pl2_a01",
+  "kind": "attention",
+  "left": "c_bcfaee21c79d.mp4",
+  "right": "c_0ad006a46f1f.mp4",
+  "source": "c_ee694adbe3dd.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ },
+ {
+  "id": "s0ff971c7",
+  "kind": "new",
+  "left": "c_8b4754e9a2a3.mp4",
+  "right": "c_1c2f61fbc030.mp4",
+  "source": "c_0412265194ba.mp4",
+  "prompt": "Add a small, brown butterfly that flies into the frame and lands gently on the cow's light-tan right ear. The butterfly should be realistically scaled and its wings should flutter slightly upon landing. Ensure the lighting on the butterfly matches the warm, natural side-lighting of the barn scene, and that its movement is synchronized with the cow's slight head movements and ear twitches to make the addition look seamless and natural."
+ },
+ {
+  "id": "s223ffaee",
+  "kind": "new",
+  "left": "c_8b51d398104b.mp4",
+  "right": "c_da3ca6891b2b.mp4",
+  "source": "c_536cf7888593.mp4",
+  "prompt": "Replace the textured, grey-brown rock face background with a bullring arena. The man in the grey t-shirt should remain in the foreground, maintaining his climbing posture and movements, but instead of being against a rock wall, he should appear to be positioned in front of a traditional bullring, featuring its characteristic circular sandy arena and surrounding walls. Ensure the lighting on the man is adjusted to blend naturally with the new outdoor arena environment."
+ },
+ {
+  "id": "s70c8f67e",
+  "kind": "new",
+  "left": "c_71ed179f1d7f.mp4",
+  "right": "c_59cacdf881df.mp4",
+  "source": "c_60ca51858a60.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"large artificial rock wall\", \"change\": \"replace with a lush green hedge\", \"scene_context\": \"in the background behind the baby giraffe\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The artificial rock wall should be completely replaced by a dense, vibrant green hedge that maintains the same scale and position in the background.\"}"
+ },
+ {
+  "id": "sd5b4c325",
+  "kind": "new",
+  "left": "c_b08397824040.mp4",
+  "right": "c_5f0099cb7d9b.mp4",
+  "source": "c_0ff745f9e5ab.mp4",
+  "prompt": "Change the current front-facing medium shot to a high-angle shot, shifting the camera viewpoint to look down from above at the group of four young adults and the white counter. The new perspective should emphasize the layout of the food, specifically the wooden platter of sliced tomatoes and the bowl of chips, while still capturing the people in the red jacket, black sweater, grey hoodie, and plaid shirt as they socialize with their wine glasses."
+ },
+ {
+  "id": "sa90bf66f",
+  "kind": "new",
+  "left": "c_0cac1bb61b7f.mp4",
+  "right": "c_37467261c147.mp4",
+  "source": "c_f5fe27c25673.mp4",
+  "prompt": "Replace the light-colored table surface and the blurred white background with a sandy desert landscape. The new background should feature golden-brown sand dunes and sparse, dry vegetation under a bright sky. Ensure that the person in the blue top, the red paper, the white ink bowl, and the striped cloth remain untouched and appear naturally integrated into the new desert environment, maintaining the original lighting and focus."
+ },
+ {
+  "id": "sbd2f80ef",
+  "kind": "new",
+  "left": "c_9ff7fca93f28.mp4",
+  "right": "c_170850d3bb90.mp4",
+  "source": "c_4885d7789dfe.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "w1_pl2_r03",
+  "kind": "repeat",
+  "left": "c_59cacdf881df.mp4",
+  "right": "c_71ed179f1d7f.mp4",
+  "source": "c_60ca51858a60.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"large artificial rock wall\", \"change\": \"replace with a lush green hedge\", \"scene_context\": \"in the background behind the baby giraffe\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The artificial rock wall should be completely replaced by a dense, vibrant green hedge that maintains the same scale and position in the background.\"}",
+  "repeat_of": "s70c8f67e"
+ },
+ {
+  "id": "s61df72e5",
+  "kind": "new",
+  "left": "c_715dac7edb78.mp4",
+  "right": "c_a50f2e0efe59.mp4",
+  "source": "c_1ecb9f7ad0ca.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"golden sunlight and clear sky\", \"change\": \"replace with a dark, stormy atmosphere featuring a thunderstorm with rain and lightning flashes\", \"scene_context\": \"the background sky and overall lighting of the grassy field\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The warm golden glow and lens flare should be replaced with deep grey clouds and a moody, dim lighting. Add visible rain streaks falling across the scene and intermittent bright flashes of lightning that illuminate the woman, the horse, and the trees.\"}"
+ },
+ {
+  "id": "w1_pl2_a02",
+  "kind": "attention",
+  "left": "c_0f47cde479f9.mp4",
+  "right": "c_6c16b03356b8.mp4",
+  "source": "c_cb4e7310d4a7.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "se37ce9e0",
+  "kind": "new",
+  "left": "c_b047c6b2e1d5.mp4",
+  "right": "c_75c42430887c.mp4",
+  "source": "c_7d6143b5c2dd.mp4",
+  "prompt": "Add a small, green lime slice floating in the water inside the clear glass. The lime slice should be a vibrant green color with a visible citrus pulp texture and a thin rind. It should be positioned within the turbulent water, moving naturally with the swirling currents and bubbles as the glass fills. Ensure the lime slice is partially submerged and interacts realistically with the water's transparency and the bright, diffused lighting of the scene, maintaining the clean, minimalist aesthetic."
+ },
+ {
+  "id": "s6bce3e27",
+  "kind": "new",
+  "left": "c_21a9c49ab16d.mp4",
+  "right": "c_bbc22869db05.mp4",
+  "source": "c_d87bde1b97cd.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"the small, scruffy, light-brown dog running across the concrete plaza\", \"change\": \"a mountain climber performing mountain climber exercises\", \"scene_context\": \"moving across the concrete plaza in front of the concrete ledge and red-brick stairs\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The mountain climber should be positioned on the ground, mimicking the path and timing of the dog's movement across the plaza. The person should be in a plank position, rapidly alternating legs in a running motion.\"}"
+ },
+ {
+  "id": "s69d1d955",
+  "kind": "new",
+  "left": "c_877f548a8cdb.mp4",
+  "right": "c_3cd8907d7338.mp4",
+  "source": "c_fa7428f4bb57.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the person and the fruit stack on the light-beige table\", \"change\": \"Dolly out from the person and the fruit stack on the light-beige table to reveal more of the room\", \"scene_context\": \"sitting at a light-beige table against a white curtain background\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"eye-level\", \"movement\": \"dolly out\"}, \"detail\": \"The camera should smoothly move backward from the initial medium shot, expanding the field of view to show more of the surrounding room and the table's edges as the fruits scatter.\"}"
+ }
+]

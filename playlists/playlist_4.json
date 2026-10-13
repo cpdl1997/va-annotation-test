@@ -1,0 +1,359 @@
+[
+ {
+  "id": "s933979a8",
+  "kind": "new",
+  "left": "c_ca87297c7510.mp4",
+  "right": "c_975fd92878a7.mp4",
+  "source": "c_9c9cff2a50d3.mp4",
+  "prompt": "Change the color of the brown dirt covering the entire arena floor to a vibrant honey gold. The edit should specifically target the ground surface where the horses and calf are moving, transforming the current earthy brown tone into a warm, golden hue while maintaining the natural texture, shadows, and highlights of the dirt. Ensure the color shift is consistent across the entire ground area throughout the video without affecting the white fences, the riders, or the spectators in the background."
+ },
+ {
+  "id": "s109e82e8",
+  "kind": "new",
+  "left": "c_6184ffe7020c.mp4",
+  "right": "c_158b17a72e8b.mp4",
+  "source": "c_50f4f9c31387.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small, colorful bird\", \"change\": \"add a small, colorful bird perched on the silver laptop\", \"scene_context\": \"on the silver laptop in the upper left\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bird should be small and vibrant in color, appearing naturally perched on the top edge or surface of the silver laptop throughout the entire video.\"}"
+ },
+ {
+  "id": "sb57abcf5",
+  "kind": "new",
+  "left": "c_d8952b004dc0.mp4",
+  "right": "c_b4195e0d7960.mp4",
+  "source": "c_cff113adf3f8.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person in the blue protective gown\", \"change\": \"pick up a conical grey object and throw it like a cricket ball\", \"scene_context\": \"standing behind a tray of conical grey objects in a sterile environment\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The person should grip the conical object firmly and perform a full overarm bowling motion characteristic of cricket, releasing the object forward and out of the frame.\"}"
+ },
+ {
+  "id": "s2ed49fcd",
+  "kind": "new",
+  "left": "c_a2b9df80e69b.mp4",
+  "right": "c_7b923f105991.mp4",
+  "source": "c_be13d0ef1dd4.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"dark-colored birds\", \"change\": \"remove the birds\", \"scene_context\": \"resting on the sandy ridge in the foreground\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Carefully remove the three dark birds from the sandy foreground ridge, filling in the gaps with the surrounding beige sand texture to maintain a seamless look.\"}"
+ },
+ {
+  "id": "s2f8d6b48",
+  "kind": "new",
+  "left": "c_4564f0c80975.mp4",
+  "right": "c_ab70654f7dad.mp4",
+  "source": "c_5f1b19153a88.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ },
+ {
+  "id": "sef3c8c20",
+  "kind": "new",
+  "left": "c_474a36975dff.mp4",
+  "right": "c_fdecff93d371.mp4",
+  "source": "c_957c2b38c640.mp4",
+  "prompt": "Pan the camera to the left, moving away from the man in the red and black plaid shirt and the woman in the white sweater to reveal more of the festive theme park environment. The movement should shift the focus from the couple and their desserts to show a wider view of the decorated Christmas tree, the surrounding buildings with striped awnings, and other park guests in the background, expanding the scene's scope while maintaining the bright, natural daylight."
+ },
+ {
+  "id": "sba621815",
+  "kind": "new",
+  "left": "c_719ecf82d69e.mp4",
+  "right": "c_f30ece052990.mp4",
+  "source": "c_ccb0db1ee354.mp4",
+  "prompt": "Replace the pink bubblegum bubble that the man blows from his mouth with a floating potato chip. The potato chip should appear and expand in size and position exactly where the pink bubble would be, mimicking the bubble's growth and popping motion. Ensure the potato chip has a realistic golden-brown color and texture, and that it disappears or fragments in the same way the bubble pops, leaving no pink residue on the man's lips. The replacement should be seamless, maintaining the original timing and movement of the bubblegum throughout the video."
+ },
+ {
+  "id": "w1_pl4_g01",
+  "kind": "golden",
+  "left": "c_c16c7cc8a9c4.mp4",
+  "right": "c_9b25fc4df586.mp4",
+  "source": "c_dff4add31e30.mp4",
+  "prompt": "Add a strong wind effect to the scene that causes the red and white floral tablecloth on the left side of the frame to flutter and blow realistically. The fabric should ripple and wave dynamically throughout the video, as if caught in a powerful gust of wind, while the man and the other objects in the workshop remain unaffected. Ensure the movement of the cloth looks natural and consistent with the physics of a light fabric being blown by a strong breeze."
+ },
+ {
+  "id": "sf4aebc51",
+  "kind": "new",
+  "left": "c_70d2d233203f.mp4",
+  "right": "c_2871be62d95d.mp4",
+  "source": "c_f41717fcd2aa.mp4",
+  "prompt": "Make the adult grey-and-white cat sitting in the background stand up from its resting position and walk forward across the dirt toward the small kitten in the foreground. The movement should be a natural, steady feline gait, maintaining the cat's grey-and-white coloring and proportions as it moves through the rocky garden environment."
+ },
+ {
+  "id": "sbaf64bd7",
+  "kind": "new",
+  "left": "c_9d409a06fe5e.mp4",
+  "right": "c_182074189af7.mp4",
+  "source": "c_5cfaeaa4a665.mp4",
+  "prompt": "Add a small, colorful bird perched on the top black metal frame of the umbrella structure. The bird should be realistically scaled and positioned on the horizontal black pole, contrasting with the turquoise-blue sky. Ensure the bird's lighting and shadows match the bright, direct sunlight of the scene to make it look naturally integrated into the static shot."
+ },
+ {
+  "id": "w1_pl4_g02",
+  "kind": "golden",
+  "left": "c_8d338f5336b4.mp4",
+  "right": "c_65c42a7265c9.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "w1_pl4_g05",
+  "kind": "golden",
+  "left": "c_999ff958b3c6.mp4",
+  "right": "c_ab4cb4bc4d72.mp4",
+  "source": "c_d31d36afde0c.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "sd7f8652b",
+  "kind": "new",
+  "left": "c_3dc0940da368.mp4",
+  "right": "c_ee1ab07061c6.mp4",
+  "source": "c_75dd1de95dcd.mp4",
+  "prompt": "Add a realistic traffic light standing vertically next to the low red wall on the stone path. The traffic light should be positioned on the left side of the path, integrated into the scene so that it remains stationary as the camera moves backward and the elephant advances. Ensure the lighting and shadows on the traffic light match the overcast sky and the surrounding environment to make it look naturally placed within the scenic landscape."
+ },
+ {
+  "id": "s2996a75e",
+  "kind": "new",
+  "left": "c_84670df064e7.mp4",
+  "right": "c_7128909efe0d.mp4",
+  "source": "c_0408582811bc.mp4",
+  "prompt": "Change the clear sunny sky in the background to a dark, overcast sky with falling rain. Replace the bright, natural daylight with a moody, dim atmosphere, adding visible rain streaks falling across the entire frame. Ensure the lighting on the woman in the red top and black leggings, as well as the green grass and grey mat, is adjusted to reflect the darker, diffused light of a rainy day, making the overall scene look gloomy and wet."
+ },
+ {
+  "id": "sccf47719",
+  "kind": "new",
+  "left": "c_f61da5c963ce.mp4",
+  "right": "c_351d7f7a3f83.mp4",
+  "source": "c_064388acc730.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change to a side view that captures the full height of the man in the navy blue athletic suit jumping to hit the ball\", \"scene_context\": \"indoor gym with cream-colored walls and white beamed ceiling\", \"camera\": {\"shot_type\": \"full shot\", \"angle\": \"side view\", \"movement\": \"static or slight pan\"}, \"detail\": \"The camera should be positioned perpendicular to the man's jump trajectory to clearly show his full body extension from the floor to the peak of his jump as he hits the volleyball.\"}"
+ },
+ {
+  "id": "s8ea18f54",
+  "kind": "new",
+  "left": "c_0afda35f0a83.mp4",
+  "right": "c_87e413bb63c3.mp4",
+  "source": "c_606840412950.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"sandy enclosure and white structural pillar\", \"change\": \"replace with a distant, ancient stone castle\", \"scene_context\": \"the background area behind the elephant\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The sandy ground and the white pillar should be completely replaced by a landscape featuring a weathered, ancient stone castle in the distance. Ensure the lighting on the castle matches the bright, natural light of the original scene.\"}"
+ },
+ {
+  "id": "s382e7e2d",
+  "kind": "new",
+  "left": "c_811c24891baa.mp4",
+  "right": "c_12c4f5ddb0a3.mp4",
+  "source": "c_50294ab3cba9.mp4",
+  "prompt": "Add a small glass of sparkling wine to the scene, placing it on the grey and white checkered blanket immediately next to the small bowl of olives. The glass should be a classic champagne flute or a small wine glass, filled with a pale gold, effervescent liquid with visible tiny bubbles rising to the surface. Ensure the glass has realistic reflections and shadows that match the soft, natural lighting of the picnic setting, blending seamlessly with the surrounding textures of the blanket and the nearby food items."
+ },
+ {
+  "id": "w1_pl4_r03",
+  "kind": "repeat",
+  "left": "c_ee1ab07061c6.mp4",
+  "right": "c_3dc0940da368.mp4",
+  "source": "c_75dd1de95dcd.mp4",
+  "prompt": "Add a realistic traffic light standing vertically next to the low red wall on the stone path. The traffic light should be positioned on the left side of the path, integrated into the scene so that it remains stationary as the camera moves backward and the elephant advances. Ensure the lighting and shadows on the traffic light match the overcast sky and the surrounding environment to make it look naturally placed within the scenic landscape.",
+  "repeat_of": "sd7f8652b"
+ },
+ {
+  "id": "s742563a0",
+  "kind": "new",
+  "left": "c_d28f78be21a0.mp4",
+  "right": "c_73984985c1c7.mp4",
+  "source": "c_208d20e1667b.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"green apron\", \"change\": \"change the color to red-purple\", \"scene_context\": \"worn by the person grilling chicken\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire green fabric of the apron should be shifted to a deep red-purple hue while maintaining the original folds, shadows, and texture.\"}"
+ },
+ {
+  "id": "sac6951af",
+  "kind": "new",
+  "left": "c_1c003e4568cd.mp4",
+  "right": "c_c393b651717c.mp4",
+  "source": "c_796aab8c7cc3.mp4",
+  "prompt": "Change the color of the large orange pumpkin being carved to a vibrant turquoise. Ensure that the turquoise hue is applied consistently across the entire surface of the pumpkin, including the outer skin and the interior flesh visible through the carved eyes and jagged mouth. The lighting and shadows on the pumpkin should be preserved to maintain its three-dimensional shape and texture, but the original orange tones must be completely replaced by turquoise."
+ },
+ {
+  "id": "s22449f1d",
+  "kind": "new",
+  "left": "c_a5c70ae7cd8b.mp4",
+  "right": "c_ba26deeee5dd.mp4",
+  "source": "c_3c4c4c50c4c0.mp4",
+  "prompt": "Add a light rain effect falling across the entire scene, including the dark night sky and the grassy lawn where the fire dancer is performing. The rain should appear as fine, translucent streaks of water descending vertically throughout the frame. Ensure the rain interacts naturally with the lighting, with the droplets catching the bright orange glow from the fire poi and the light from the tan building's windows. The overall effect should create a misty, damp atmosphere without obscuring the performer or the crowd sitting on the grass."
+ },
+ {
+  "id": "s1717e039",
+  "kind": "new",
+  "left": "c_e873023ed444.mp4",
+  "right": "c_0eee7aa65570.mp4",
+  "source": "c_041e28f32488.mp4",
+  "prompt": "Modify the action of the man wearing the tan robe and turquoise hairnet so that he stands up from his crouched position. He should transition from his current squatting posture while milking the black and white cow to a full standing position, moving his body upward and away from the mechanical milking machine and yellow hoses. The movement should be smooth and physically plausible, maintaining the consistency of his clothing and the surrounding barn environment."
+ },
+ {
+  "id": "s6ef1d9a4",
+  "kind": "new",
+  "left": "c_205da1a53f79.mp4",
+  "right": "c_21ecf270d93f.mp4",
+  "source": "c_4789a90948e7.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the woman in purple pajamas\", \"change\": \"wave her hand\", \"scene_context\": \"standing against a plain white background while pillows fall around her\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"As the pillows begin to slide and fall from the stack, the woman should lift one of her hands and perform a friendly waving motion toward the camera.\"}"
+ },
+ {
+  "id": "w1_pl4_r04",
+  "kind": "repeat",
+  "left": "c_ba26deeee5dd.mp4",
+  "right": "c_a5c70ae7cd8b.mp4",
+  "source": "c_3c4c4c50c4c0.mp4",
+  "prompt": "Add a light rain effect falling across the entire scene, including the dark night sky and the grassy lawn where the fire dancer is performing. The rain should appear as fine, translucent streaks of water descending vertically throughout the frame. Ensure the rain interacts naturally with the lighting, with the droplets catching the bright orange glow from the fire poi and the light from the tan building's windows. The overall effect should create a misty, damp atmosphere without obscuring the performer or the crowd sitting on the grass.",
+  "repeat_of": "s22449f1d"
+ },
+ {
+  "id": "w1_pl4_g03",
+  "kind": "golden",
+  "left": "c_9243339c09ea.mp4",
+  "right": "c_de0c640bb23d.mp4",
+  "source": "c_edbb5b590319.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "se222a6bd",
+  "kind": "new",
+  "left": "c_0b70921f1302.mp4",
+  "right": "c_72f911b6aec4.mp4",
+  "source": "c_d5ce4d3df4b2.mp4",
+  "prompt": "Add a thunderstorm effect to the scene, featuring heavy rain falling across the entire frame. The rain should visibly strike the person's hand and the dark soil within the black plastic seed tray, creating small splashes and making the surfaces of the plastic and the skin appear wet and glistening. The bright, natural lighting should be dimmed to a moody, overcast grey to match the storm, and occasional flashes of lightning should illuminate the scene to enhance the thunderstorm atmosphere."
+ },
+ {
+  "id": "w1_pl4_g04",
+  "kind": "golden",
+  "left": "c_a1fb2fc2ea19.mp4",
+  "right": "c_42ee322f5eaa.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s1b30effe",
+  "kind": "new",
+  "left": "c_b87784839e54.mp4",
+  "right": "c_4fd06b315879.mp4",
+  "source": "c_b8bfa8a416d8.mp4",
+  "prompt": "Replace the purple indoor climbing wall background, including all the colorful climbing holds (blue, pink, red) and yellow grade tags, with a martial arts gym background. The new background should feature typical elements of a dojo or martial arts studio, such as tatami mats on the floor and walls, perhaps with some training equipment or a minimalist aesthetic. Ensure the young woman in the light grey tank top remains perfectly integrated into the new scene, maintaining her position and movements as she drinks from the water bottle and looks down."
+ },
+ {
+  "id": "w1_pl4_r05",
+  "kind": "repeat",
+  "left": "c_437e8bcecf8c.mp4",
+  "right": "c_944ce1bb5606.mp4",
+  "source": "c_536ba5b2ae19.mp4",
+  "prompt": "Replace the textured, grey-brown rock face background with a bullring arena. The man in the grey t-shirt should remain in the foreground, maintaining his climbing posture and movements, but instead of being against a rock wall, he should appear to be positioned in front of a traditional bullring, featuring its characteristic circular sandy arena and surrounding walls. Ensure the lighting on the man is adjusted to blend naturally with the new outdoor arena environment.",
+  "repeat_of": "s04542e49"
+ },
+ {
+  "id": "w1_pl4_r01",
+  "kind": "repeat",
+  "left": "c_975fd92878a7.mp4",
+  "right": "c_ca87297c7510.mp4",
+  "source": "c_9c9cff2a50d3.mp4",
+  "prompt": "Change the color of the brown dirt covering the entire arena floor to a vibrant honey gold. The edit should specifically target the ground surface where the horses and calf are moving, transforming the current earthy brown tone into a warm, golden hue while maintaining the natural texture, shadows, and highlights of the dirt. Ensure the color shift is consistent across the entire ground area throughout the video without affecting the white fences, the riders, or the spectators in the background.",
+  "repeat_of": "s933979a8"
+ },
+ {
+  "id": "w1_pl4_a02",
+  "kind": "attention",
+  "left": "c_de5c8628a325.mp4",
+  "right": "c_0cbc792d1874.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "saefda8be",
+  "kind": "new",
+  "left": "c_e550d4fc5b01.mp4",
+  "right": "c_aa40078d01f2.mp4",
+  "source": "c_b056d1953692.mp4",
+  "prompt": "Change the handheld panning shot to an aerial drone shot that looks down on the cows and the farm buildings. Instead of the camera moving horizontally at eye level from the black and white cow to the brown and white cow with the leather collar, the viewpoint should be shifted to a high-angle overhead perspective. The resulting shot should provide a top-down view of the entire farmyard, showing the layout of the rustic wooden barn with the red tiled roof, the white plastered building, and the cows moving across the green grass and dirt ground from above."
+ },
+ {
+  "id": "s08c1ea1b",
+  "kind": "new",
+  "left": "c_456db57a2375.mp4",
+  "right": "c_61a1bd5ac4dc.mp4",
+  "source": "c_333e08dba4f9.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the white tunic\", \"change\": \"look directly into the camera and smile\", \"scene_context\": \"standing in a grassy field while loading a musket\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should maintain the physical action of loading the musket with the ramrod, but shift his gaze from the weapon to the lens and exhibit a friendly smile.\"}"
+ },
+ {
+  "id": "s5e96ea52",
+  "kind": "new",
+  "left": "c_7c96be6d0504.mp4",
+  "right": "c_c3dda1db810f.mp4",
+  "source": "c_0e69f2d41bf1.mp4",
+  "prompt": "Replace the grassy field background, consisting of green and brown grass, with a broadleaf forest floor. The new background should feature a natural layer of fallen brown leaves, twigs, and patches of forest soil, while maintaining the same low-angle perspective and bright, natural sunlight. Ensure the golfer's brown shoes, the golf club, and the white golf ball remain untouched and interact naturally with the new forest floor texture throughout the entire video."
+ },
+ {
+  "id": "sfba86e04",
+  "kind": "new",
+  "left": "c_1745cf70b6eb.mp4",
+  "right": "c_fc9db1c53c19.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s0c31ba61",
+  "kind": "new",
+  "left": "c_b3f4160905e1.mp4",
+  "right": "c_61b6918fc8b7.mp4",
+  "source": "c_2a17f7f92453.mp4",
+  "prompt": "Add a soft, golden sunlight glow and floating dust motes across the woman in the black backless top and the dark gray yoga mat to simulate a sunny indoor environment. The golden light should appear as if streaming from a nearby window, creating warm highlights on her skin and the surface of the mat, while the dust motes should drift slowly and subtly through the light beams to enhance the atmospheric, sun-drenched feel of the room."
+ },
+ {
+  "id": "sca74714f",
+  "kind": "new",
+  "left": "c_3ade957ee0a0.mp4",
+  "right": "c_db8370b6ad20.mp4",
+  "source": "c_eca8303ab8c7.mp4",
+  "prompt": "Remove the small white bird perched on the weathered wooden fence in the background on the left side of the frame. Carefully erase the bird from every frame it appears in, filling in the gap with the texture and color of the rustic wooden logs and the blue sky behind it. Ensure the removal is seamless, maintaining the natural lighting and grain of the wood so that no trace of the bird remains and the background looks undisturbed."
+ },
+ {
+  "id": "s770d48ea",
+  "kind": "new",
+  "left": "c_af56fdb0d322.mp4",
+  "right": "c_7c2b6415c092.mp4",
+  "source": "c_b24019cc76d5.mp4",
+  "prompt": "Change the handheld panning shot to an aerial drone shot that looks down on the cows and the farm buildings. Instead of the camera moving horizontally at eye level from the black and white cow to the brown and white cow with the leather collar, the viewpoint should be shifted to a high-angle overhead perspective. The resulting shot should provide a top-down view of the entire farmyard, showing the layout of the rustic wooden barn with the red tiled roof, the white plastered building, and the cows moving across the green grass and dirt ground from above."
+ },
+ {
+  "id": "s04542e49",
+  "kind": "new",
+  "left": "c_944ce1bb5606.mp4",
+  "right": "c_437e8bcecf8c.mp4",
+  "source": "c_536ba5b2ae19.mp4",
+  "prompt": "Replace the textured, grey-brown rock face background with a bullring arena. The man in the grey t-shirt should remain in the foreground, maintaining his climbing posture and movements, but instead of being against a rock wall, he should appear to be positioned in front of a traditional bullring, featuring its characteristic circular sandy arena and surrounding walls. Ensure the lighting on the man is adjusted to blend naturally with the new outdoor arena environment."
+ },
+ {
+  "id": "sf4b935b9",
+  "kind": "new",
+  "left": "c_554d6dc20f74.mp4",
+  "right": "c_9ceb75956f9c.mp4",
+  "source": "c_b87970a17c0d.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"amber glass pump bottles\", \"change\": \"clear glass pump bottles\", \"scene_context\": \"sitting on a black oval tray on a grey countertop\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The amber tint of the glass should be replaced with a completely transparent clear glass, while maintaining the black pump dispensers and the labels.\"}"
+ },
+ {
+  "id": "sc454becc",
+  "kind": "new",
+  "left": "c_1ba388e85403.mp4",
+  "right": "c_f208b79e9a36.mp4",
+  "source": "c_e0cca73b9b32.mp4",
+  "prompt": "Modify the actions of the young woman with red hair wearing the light purple shirt so that instead of pursing her lips and crossing her arms, she lifts one hand and waves it towards the camera in a friendly greeting gesture. The wave should be a natural side-to-side motion of the hand and wrist, while she maintains a pleasant expression on her face. Ensure the movement blends seamlessly with her initial pose of having her hands on her hips, and that the lighting and purple background remain consistent throughout the new action."
+ },
+ {
+  "id": "w1_pl4_r02",
+  "kind": "repeat",
+  "left": "c_7128909efe0d.mp4",
+  "right": "c_84670df064e7.mp4",
+  "source": "c_0408582811bc.mp4",
+  "prompt": "Change the clear sunny sky in the background to a dark, overcast sky with falling rain. Replace the bright, natural daylight with a moody, dim atmosphere, adding visible rain streaks falling across the entire frame. Ensure the lighting on the woman in the red top and black leggings, as well as the green grass and grey mat, is adjusted to reflect the darker, diffused light of a rainy day, making the overall scene look gloomy and wet.",
+  "repeat_of": "s2996a75e"
+ },
+ {
+  "id": "w1_pl4_a01",
+  "kind": "attention",
+  "left": "c_48171f7bb3fa.mp4",
+  "right": "c_0183fe31fd4b.mp4",
+  "source": "c_da900e009400.mp4",
+  "prompt": "Replace the dimly lit kitchen background, including the dark cabinetry, the countertop with jars, and the window on the left, with a bright, modern bakery shop interior. The new background should feature light-colored walls, glass display cases filled with pastries, and warm, ambient lighting throughout the space. Ensure the man in the black beanie and grey sweater remains the central subject, and adjust the high-contrast lighting on his figure to blend naturally with the bright, airy atmosphere of the bakery shop."
+ },
+ {
+  "id": "sb41c034f",
+  "kind": "new",
+  "left": "c_9be68791ccd5.mp4",
+  "right": "c_db4d00359914.mp4",
+  "source": "c_f5b96aadb805.mp4",
+  "prompt": "Transform the entire video, including the light-colored stone surface, the falling raindrops, and the blurred green foliage in the background, into a pencil sketch style. Replace all colors and natural textures with hand-drawn graphite lines, cross-hatching, and shading on a white or off-white paper texture. The raindrops and splashes on the stone should be rendered as fine, sketchy lines and dots, while the background greenery should be simplified into soft, sketched contours and light shading to maintain the original depth of field."
+ }
+]

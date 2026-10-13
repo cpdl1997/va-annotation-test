@@ -1,0 +1,359 @@
+[
+ {
+  "id": "s3e218b27",
+  "kind": "new",
+  "left": "c_25e3dccc0b96.mp4",
+  "right": "c_e269a5546012.mp4",
+  "source": "c_ba71d52b2d08.mp4",
+  "prompt": "Apply a cinematic noir style to the entire scene, converting the footage of the man vacuuming the kitchen into high-contrast black and white. Transform the neutral color palette\u2014including the blue checkered shirt, white t-shirt, and grey hexagonal floor tiles\u2014into a stark monochrome. Enhance the dramatic lighting by deepening the shadows around the black shelving and range hood while intensifying the highlights from the natural light source on the right, creating a moody, atmospheric aesthetic throughout the video."
+ },
+ {
+  "id": "w1_pl0_r02",
+  "kind": "repeat",
+  "left": "c_2d96ba46486e.mp4",
+  "right": "c_d0e0a251a3e0.mp4",
+  "source": "c_3e3a934e67d9.mp4",
+  "prompt": "Transform the entire video, including the light-colored stone surface, the falling raindrops, and the blurred green foliage in the background, into a pencil sketch style. Replace all colors and natural textures with hand-drawn graphite lines, cross-hatching, and shading on a white or off-white paper texture. The raindrops and splashes on the stone should be rendered as fine, sketchy lines and dots, while the background greenery should be simplified into soft, sketched contours and light shading to maintain the original depth of field.",
+  "repeat_of": "sdf8d8775"
+ },
+ {
+  "id": "s6719dbc7",
+  "kind": "new",
+  "left": "c_e69322dccd15.mp4",
+  "right": "c_5703965d5412.mp4",
+  "source": "c_dd2b2ed858f1.mp4",
+  "prompt": "Replace the background, consisting of the light-gray rocky cliffs and the clear blue sky, with a dense, foggy pine forest. The new background should feature tall, dark green evergreen trees partially obscured by a thick, atmospheric white mist to create a moody, mysterious environment. Ensure the man in the mustard-yellow sweater remains untouched and that the lighting on his face and clothing is adjusted to blend naturally with the softer, diffused light of the foggy forest setting."
+ },
+ {
+  "id": "s606c6294",
+  "kind": "new",
+  "left": "c_2e7b8877b901.mp4",
+  "right": "c_db70f9b6b0cf.mp4",
+  "source": "c_bc9fd2a06290.mp4",
+  "prompt": "Change the static medium shot to a slow, gradual zoom-in that focuses on the belay device attached to the climbing harness and the person's hands as they manage the thick brown rope. The camera should move from the initial chest-down view to a tighter close-up, centering the frame on the mechanical interaction between the hands, the device, and the taut rope, while maintaining the natural outdoor lighting and earthy background."
+ },
+ {
+  "id": "s58996af5",
+  "kind": "new",
+  "left": "c_097cb1977b75.mp4",
+  "right": "c_dbf0444c2f4a.mp4",
+  "source": "c_9b5ae50591f0.mp4",
+  "prompt": "Transform the entire video into a Chinese cartoon style. Convert the person in the white ribbed sweater with black sleeves, their gesturing hands, the white table, and the blurred figure in the foreground into stylized 2D animations. Use clean, bold outlines and a vibrant, simplified color palette characteristic of modern Chinese animation. The soft lighting should be replaced with flat or cel-shaded coloring, while maintaining the original movements of the hands and the overall composition of the scene."
+ },
+ {
+  "id": "s1f483908",
+  "kind": "new",
+  "left": "c_1ccece737eee.mp4",
+  "right": "c_835083ea8393.mp4",
+  "source": "c_5eb0a5209a62.mp4",
+  "prompt": "Replace the blurred indoor background, visible behind the person in the white t-shirt and the stack of books, with the interior of a rustic hunting lodge. The new background should feature elements such as dark wooden log walls, taxidermy mounts, and warm, dim lighting to contrast with the bright, airy foreground. Ensure the transition between the person and the new lodge interior is seamless, maintaining the original focus on the hands and the open book while the background remains softly out of focus to preserve the depth of field."
+ },
+ {
+  "id": "sdf8d8775",
+  "kind": "new",
+  "left": "c_d0e0a251a3e0.mp4",
+  "right": "c_2d96ba46486e.mp4",
+  "source": "c_3e3a934e67d9.mp4",
+  "prompt": "Transform the entire video, including the light-colored stone surface, the falling raindrops, and the blurred green foliage in the background, into a pencil sketch style. Replace all colors and natural textures with hand-drawn graphite lines, cross-hatching, and shading on a white or off-white paper texture. The raindrops and splashes on the stone should be rendered as fine, sketchy lines and dots, while the background greenery should be simplified into soft, sketched contours and light shading to maintain the original depth of field."
+ },
+ {
+  "id": "w1_pl0_g05",
+  "kind": "golden",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s5765c664",
+  "kind": "new",
+  "left": "c_b14a2795e6d9.mp4",
+  "right": "c_fbb5d3edcb32.mp4",
+  "source": "c_2ebe75fa3d0d.mp4",
+  "prompt": "Change the static wide shot to an aerial drone shot that follows the shirtless man in red shorts from above. Instead of the fixed perspective, the camera should descend and track his movement as he walks across the blue mats and ascend vertically to follow his trajectory as he jumps high into the air from the small blue trampoline, capturing the layout of the gymnastics facility, including the orange platform and olive-green foam pits, from a top-down perspective."
+ },
+ {
+  "id": "s4c777ee0",
+  "kind": "new",
+  "left": "c_67a8440fae32.mp4",
+  "right": "c_0c53c123dd7b.mp4",
+  "source": "c_e9eb6bb33462.mp4",
+  "prompt": "Change the color of the overcast sky from its current muted grey to a medium cyan-blue. The edit should specifically target the entire upper region of the frame above the horizon and the distant mountains, replacing the flat, desaturated grey tones with a vibrant yet natural medium cyan-blue hue while maintaining the existing cloud textures and lighting."
+ },
+ {
+  "id": "sa7d4155e",
+  "kind": "new",
+  "left": "c_5119015b321b.mp4",
+  "right": "c_b8cdaa8c042e.mp4",
+  "source": "c_d0fa46018ea6.mp4",
+  "prompt": "Change the clear sunny sky in the background to a dark, overcast sky with falling rain. Replace the bright, natural daylight with a moody, dim atmosphere, adding visible rain streaks falling across the entire frame. Ensure the lighting on the woman in the red top and black leggings, as well as the green grass and grey mat, is adjusted to reflect the darker, diffused light of a rainy day, making the overall scene look gloomy and wet."
+ },
+ {
+  "id": "se5496760",
+  "kind": "new",
+  "left": "c_2344934fcce6.mp4",
+  "right": "c_16af779b7a33.mp4",
+  "source": "c_cd5b3422d6b0.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"white plastic bag\", \"change\": \"change the color to beige\", \"scene_context\": \"floating in dark, murky water\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright white of the plastic bag and its corresponding reflection in the water should be shifted to a muted beige tone while maintaining the original highlights and shadows.\"}"
+ },
+ {
+  "id": "sb1ac4c84",
+  "kind": "new",
+  "left": "c_a916043e2b20.mp4",
+  "right": "c_ccaf433a2f97.mp4",
+  "source": "c_6f710000af30.mp4",
+  "prompt": "Transform the entire video into a Chinese cartoon style. Convert the person in the white ribbed sweater with black sleeves, their gesturing hands, the white table, and the blurred figure in the foreground into stylized 2D animations. Use clean, bold outlines and a vibrant, simplified color palette characteristic of modern Chinese animation. The soft lighting should be replaced with flat or cel-shaded coloring, while maintaining the original movements of the hands and the overall composition of the scene."
+ },
+ {
+  "id": "w1_pl0_r03",
+  "kind": "repeat",
+  "left": "c_fbb5d3edcb32.mp4",
+  "right": "c_b14a2795e6d9.mp4",
+  "source": "c_2ebe75fa3d0d.mp4",
+  "prompt": "Change the static wide shot to an aerial drone shot that follows the shirtless man in red shorts from above. Instead of the fixed perspective, the camera should descend and track his movement as he walks across the blue mats and ascend vertically to follow his trajectory as he jumps high into the air from the small blue trampoline, capturing the layout of the gymnastics facility, including the orange platform and olive-green foam pits, from a top-down perspective.",
+  "repeat_of": "s5765c664"
+ },
+ {
+  "id": "s430c76af",
+  "kind": "new",
+  "left": "c_35feecaf0766.mp4",
+  "right": "c_61a0c46473fd.mp4",
+  "source": "c_50a3f774d823.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"textured white wall background\", \"change\": \"replace with a concrete wall of an army base\", \"scene_context\": \"the surface behind the red and black paint splatters\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new concrete wall should have a rough, industrial grey texture typical of military bunkers, while maintaining the original high-contrast lighting and the placement of the paint splatters.\"}"
+ },
+ {
+  "id": "s749eb6a8",
+  "kind": "new",
+  "left": "c_d9c9c85fcf01.mp4",
+  "right": "c_9303ca92fc72.mp4",
+  "source": "c_0f7e569ee50d.mp4",
+  "prompt": "Add a small bunch of fresh, vibrant green mint leaves resting on the white surface of the paddleboard, positioned immediately next to the man's left hand. The mint leaves should appear natural and realistic, with a slight sheen to suggest freshness, and should be scaled appropriately to fit the scene. Ensure the leaves are placed so they remain stationary on the board throughout the duration of the clip, blending seamlessly with the soft, diffused lighting of the beach environment."
+ },
+ {
+  "id": "sa430d8b9",
+  "kind": "new",
+  "left": "c_7b03e992e396.mp4",
+  "right": "c_7b51ac1ef931.mp4",
+  "source": "c_4915c380b32f.mp4",
+  "prompt": "Transform the visual style of the red ink diffusing in the water into a claymation style. Replace the fluid, translucent, and wispy textures of the red pigment with a solid, matte, and tactile clay appearance. The voluminous, cloud-like shapes should look like hand-molded red clay with subtle fingerprints and a slightly uneven, chunky surface. Maintain the overall composition and the high-contrast deep blue background, but ensure the red mass has the physical weight and opaque quality of sculpted clay rather than liquid ink."
+ },
+ {
+  "id": "sff3d7b2c",
+  "kind": "new",
+  "left": "c_baa3c1fd08ac.mp4",
+  "right": "c_968b7ef7f1f0.mp4",
+  "source": "c_d25167cf3346.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"blurred background\", \"change\": \"replace the blurred background with a sunny outdoor promenade\", \"scene_context\": \"the area behind the person's hands and the white paper\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new background should feature a bright, sunlit pedestrian walkway with soft bokeh, maintaining the shallow depth of field to keep the focus on the hands and drawing.\"}"
+ },
+ {
+  "id": "s9604365e",
+  "kind": "new",
+  "left": "c_f4d0645698b1.mp4",
+  "right": "c_daa38715b91d.mp4",
+  "source": "c_9776e1b88335.mp4",
+  "prompt": "Change the camera movement to zoom in on the thin layer of white mist floating across the lake's surface, moving closer to the water to capture the detailed texture and movement of the fog as it drifts between the reflections of the leafless trees."
+ },
+ {
+  "id": "sb9e537f2",
+  "kind": "new",
+  "left": "c_4f52bdb5e7f5.mp4",
+  "right": "c_1a35b0015ab5.mp4",
+  "source": "c_942f2c3b04f5.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"pan right to follow the charging cable\", \"scene_context\": \"the side of a red electric vehicle during charging\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"eye-level\", \"movement\": \"pan right\"}, \"detail\": \"The camera should shift from a static position to a smooth rightward pan, tracking the movement of the charging cable as the handle is inserted into the port.\"}"
+ },
+ {
+  "id": "w1_pl0_r01",
+  "kind": "repeat",
+  "left": "c_7e6ecf4f5535.mp4",
+  "right": "c_780cfd32ea49.mp4",
+  "source": "c_26e2e9de9920.mp4",
+  "prompt": "Add a small, circular pressure dial to the red fire hydrant system located in the foreground. The dial should be integrated into the main red body of the hydrant, featuring a white face with black markings and a small needle. Ensure the dial is scaled appropriately to fit the equipment and matches the lighting and metallic texture of the hydrant to look like a natural part of the machinery throughout the entire shot.",
+  "repeat_of": "sd158aa95"
+ },
+ {
+  "id": "s2876dce2",
+  "kind": "new",
+  "left": "c_ba58637606d4.mp4",
+  "right": "c_cf96391a03cf.mp4",
+  "source": "c_5c8032833ea9.mp4",
+  "prompt": "Replace the hazy blue-grey smoke rising from the forest floor in the center and right of the frame with a swarm of small, dark birds flying upwards. The birds should follow the same drifting, upward movement as the original smoke, appearing as a dense, fluttering mass that partially obscures the leafless brown trees. Ensure the birds' movement and density mimic the flow of the smoke to maintain the same visual composition, while completely removing the smoke effect from the scene."
+ },
+ {
+  "id": "s67299554",
+  "kind": "new",
+  "left": "c_3eb443de11c0.mp4",
+  "right": "c_562dc8166def.mp4",
+  "source": "c_44eca7e9b197.mp4",
+  "prompt": "Change the static full-body shot of the small white robot into an aerial drone shot. Instead of the fixed camera position, the viewpoint should start from a high angle and slowly circle 360 degrees around the robot, capturing its rounded head, glowing blue eyes, and chunky white limbs from all sides. The movement should be smooth and cinematic, maintaining the reflective dark surface and the purple-to-blue gradient background as the camera orbits the subject."
+ },
+ {
+  "id": "s398da7b0",
+  "kind": "new",
+  "left": "c_bd9a3ffb3f9f.mp4",
+  "right": "c_b3d1bc0e17b0.mp4",
+  "source": "c_0c00f63371cd.mp4",
+  "prompt": "Modify the action of the blue merle Border Collie running in the distance along the dirt path. As the dog runs toward the camera on the grassy embankment, animate it to perform a leap, jumping over a small patch of grass. The jump should be physically plausible, with the dog's body lifting off the ground and landing smoothly back on the path, maintaining its forward momentum and the overall bright, overexposed lighting of the scene."
+ },
+ {
+  "id": "s8f829788",
+  "kind": "new",
+  "left": "c_9529a6892a09.mp4",
+  "right": "c_a5ce74e2fc9d.mp4",
+  "source": "c_172f3332b4c6.mp4",
+  "prompt": "Remove the red power cord that trails behind the teal and black electric lawnmower as it moves across the grass. Carefully erase the cord from the frame throughout the entire video, ensuring that the green lawn and the background foliage are seamlessly filled in where the cord was previously visible. The final result should show the lawnmower moving across the grass without any visible power cable attached to it or trailing on the ground."
+ },
+ {
+  "id": "w1_pl0_r05",
+  "kind": "repeat",
+  "left": "c_7b51ac1ef931.mp4",
+  "right": "c_7b03e992e396.mp4",
+  "source": "c_4915c380b32f.mp4",
+  "prompt": "Transform the visual style of the red ink diffusing in the water into a claymation style. Replace the fluid, translucent, and wispy textures of the red pigment with a solid, matte, and tactile clay appearance. The voluminous, cloud-like shapes should look like hand-molded red clay with subtle fingerprints and a slightly uneven, chunky surface. Maintain the overall composition and the high-contrast deep blue background, but ensure the red mass has the physical weight and opaque quality of sculpted clay rather than liquid ink.",
+  "repeat_of": "sa430d8b9"
+ },
+ {
+  "id": "sb304c359",
+  "kind": "new",
+  "left": "c_3ca56a60c587.mp4",
+  "right": "c_fcc83b35b26c.mp4",
+  "source": "c_6d98acb2ce26.mp4",
+  "prompt": "Replace the paintbrush held in the person's right hand with a small spray paint can. The spray paint can should be realistically integrated into the person's grip as they lower their arm and hold the object horizontally over the wooden table. Ensure the can's size, lighting, and shadows match the minimalist, brightly lit environment of the room, maintaining a seamless look as the person moves their hand throughout the clip."
+ },
+ {
+  "id": "w1_pl0_r04",
+  "kind": "repeat",
+  "left": "c_db70f9b6b0cf.mp4",
+  "right": "c_2e7b8877b901.mp4",
+  "source": "c_bc9fd2a06290.mp4",
+  "prompt": "Change the static medium shot to a slow, gradual zoom-in that focuses on the belay device attached to the climbing harness and the person's hands as they manage the thick brown rope. The camera should move from the initial chest-down view to a tighter close-up, centering the frame on the mechanical interaction between the hands, the device, and the taut rope, while maintaining the natural outdoor lighting and earthy background.",
+  "repeat_of": "s606c6294"
+ },
+ {
+  "id": "w1_pl0_g04",
+  "kind": "golden",
+  "left": "c_dc8b4e13cd18.mp4",
+  "right": "c_297b49bef8d7.mp4",
+  "source": "c_5f480a0660c0.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "w1_pl0_g03",
+  "kind": "golden",
+  "left": "c_3517e683a803.mp4",
+  "right": "c_2045f2721826.mp4",
+  "source": "c_5d1f2052fe89.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "s715c669c",
+  "kind": "new",
+  "left": "c_69559027a89e.mp4",
+  "right": "c_3acb0a354e5e.mp4",
+  "source": "c_43d9c642b313.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"transform into a pixel art style\", \"scene_context\": \"a person trimming a green hedge with brown-handled shears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Convert all visual elements, including the foliage, the person's hands, and the shears, into a low-resolution, blocky pixel art aesthetic with a limited color palette.\"}"
+ },
+ {
+  "id": "s19a6021c",
+  "kind": "new",
+  "left": "c_25887ce070b3.mp4",
+  "right": "c_2d9783348c49.mp4",
+  "source": "c_0135f6de266c.mp4",
+  "prompt": "Change the color of the plain, bright, neutral-colored background wall to a light powder blue. The edit should specifically target the bright area behind the man, replacing the current high-contrast white/neutral tone with a soft, pale blue hue while maintaining the flat lighting and overall composition of the shot."
+ },
+ {
+  "id": "w1_pl0_a01",
+  "kind": "attention",
+  "left": "c_9c66ccb1aeaf.mp4",
+  "right": "c_85c929461dbe.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "sd158aa95",
+  "kind": "new",
+  "left": "c_780cfd32ea49.mp4",
+  "right": "c_7e6ecf4f5535.mp4",
+  "source": "c_26e2e9de9920.mp4",
+  "prompt": "Add a small, circular pressure dial to the red fire hydrant system located in the foreground. The dial should be integrated into the main red body of the hydrant, featuring a white face with black markings and a small needle. Ensure the dial is scaled appropriately to fit the equipment and matches the lighting and metallic texture of the hydrant to look like a natural part of the machinery throughout the entire shot."
+ },
+ {
+  "id": "w1_pl0_g01",
+  "kind": "golden",
+  "left": "c_fc9db1c53c19.mp4",
+  "right": "c_1745cf70b6eb.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s8934fc81",
+  "kind": "new",
+  "left": "c_dfa1137c6a49.mp4",
+  "right": "c_f2554c21396c.mp4",
+  "source": "c_3bb60e3fc054.mp4",
+  "prompt": "Transform the visual style of the red ink diffusing in the water into a claymation style. Replace the fluid, translucent, and wispy textures of the red pigment with a solid, matte, and tactile clay appearance. The voluminous, cloud-like shapes should look like hand-molded red clay with subtle fingerprints and a slightly uneven, chunky surface. Maintain the overall composition and the high-contrast deep blue background, but ensure the red mass has the physical weight and opaque quality of sculpted clay rather than liquid ink."
+ },
+ {
+  "id": "scea73659",
+  "kind": "new",
+  "left": "c_25f37bc7843e.mp4",
+  "right": "c_c28e84c73258.mp4",
+  "source": "c_c854ec46f649.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"background greenery and stone pillar\", \"change\": \"replace with a sandy beach and ocean view\", \"scene_context\": \"behind the person jumping on the paved surface\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The glass railing should remain, but the reflections and the area behind it should now show a bright, sunny beach with white sand and blue ocean waves. The tan stone pillar should be completely replaced by the beach landscape.\"}"
+ },
+ {
+  "id": "s9b35bbf4",
+  "kind": "new",
+  "left": "c_5331334c5cdc.mp4",
+  "right": "c_735828d1d838.mp4",
+  "source": "c_7ceb8a992f45.mp4",
+  "prompt": "Change the color of the light blue wall in the background to lavender. Ensure that the lavender hue is applied consistently across the entire wall surface, while preserving the white, stylized wave-like patterns and the overall lighting of the scene. The final result should replace all light blue tones in the background with a soft lavender color, maintaining the same brightness and saturation levels to keep the cool color palette of the enclosure."
+ },
+ {
+  "id": "s781b4d96",
+  "kind": "new",
+  "left": "c_c220394beadb.mp4",
+  "right": "c_c4dfd4adf044.mp4",
+  "source": "c_5f07f5b724f5.mp4",
+  "prompt": "Change the color of the vibrant green pasture where the sheep are grazing to a soft lavender purple. Ensure that the color shift is applied uniformly across the entire grassy field, while maintaining the existing lighting, long shadows cast by the sheep, and the natural texture of the grass. The surrounding autumn-colored trees and the dark winding path should remain their original colors to create a striking contrast with the new lavender landscape."
+ },
+ {
+  "id": "w1_pl0_a02",
+  "kind": "attention",
+  "left": "c_bcfaee21c79d.mp4",
+  "right": "c_0ad006a46f1f.mp4",
+  "source": "c_ee694adbe3dd.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ },
+ {
+  "id": "s76aebdf7",
+  "kind": "new",
+  "left": "c_1a6abd7b2507.mp4",
+  "right": "c_58e3c6fcc31e.mp4",
+  "source": "c_c3a9e7d53414.mp4",
+  "prompt": "Modify the action of the gothic clown dressed in the long black dress and white ruffled collar; instead of standing still and raising their arms, have the figure slowly walk forward from the red-lit room, crossing the threshold of the blue doorway and moving toward the camera. The movement should be slow and menacing, maintaining the character's eerie presence as they transition from the intense red lighting of the inner room into the blue-lit foreground of the dilapidated hallway."
+ },
+ {
+  "id": "s6c83d0ff",
+  "kind": "new",
+  "left": "c_9df7b04d38d8.mp4",
+  "right": "c_b4e7ab585301.mp4",
+  "source": "c_b724955b73cb.mp4",
+  "prompt": "Add a layer of thick, white fog that fills the entire indoor room, surrounding the woman in the white slip dress and her reflection in the mirror. The fog should be dense and atmospheric, partially obscuring the background and the edges of the frame while allowing the woman and her reflection to remain visible through the haze. The white fog should blend with the existing soft, natural light coming from the right, enhancing the airy and intimate mood of the scene."
+ },
+ {
+  "id": "s3fb27ced",
+  "kind": "new",
+  "left": "c_176bcd408355.mp4",
+  "right": "c_e0e8295999e7.mp4",
+  "source": "c_75067ca1183d.mp4",
+  "prompt": "Pan the camera right across the surface of the murky, pale-beige water, moving the viewpoint horizontally to reveal more of the silty water and the distorted reflections of the dark, leafless tree branches. The movement should be smooth and steady, shifting the focus from the organic debris on the left edge toward the right side of the frame while continuing to capture the expanding concentric ripples created by the falling raindrops."
+ },
+ {
+  "id": "w1_pl0_g02",
+  "kind": "golden",
+  "left": "c_65c42a7265c9.mp4",
+  "right": "c_8d338f5336b4.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ }
+]

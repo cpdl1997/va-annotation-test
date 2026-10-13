@@ -1,0 +1,359 @@
+[
+ {
+  "id": "w1_pl16_a02",
+  "kind": "attention",
+  "left": "c_bcfaee21c79d.mp4",
+  "right": "c_0ad006a46f1f.mp4",
+  "source": "c_ee694adbe3dd.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ },
+ {
+  "id": "s5e22990a",
+  "kind": "new",
+  "left": "c_00d2d23da22a.mp4",
+  "right": "c_71d233eb33d7.mp4",
+  "source": "c_dc90b9ed7c3f.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire scene\", \"change\": \"Apply a cyberpunk neon style, enhancing the blue and white arena lights with glowing neon accents and adding a futuristic, high-contrast color grade\", \"scene_context\": \"a crowded indoor arena with a woman in a maroon shirt\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Transform the existing arena lighting into vibrant, glowing neon blue and magenta hues. Increase the contrast and saturation to create a futuristic, synthwave aesthetic across the crowd and the digital screens.\"}"
+ },
+ {
+  "id": "s6858943e",
+  "kind": "new",
+  "left": "c_ccec16c7804c.mp4",
+  "right": "c_319e7b50249a.mp4",
+  "source": "c_1635e0e63ca0.mp4",
+  "prompt": "Replace the background, consisting of the light-gray rocky cliffs and the clear blue sky, with a dense, foggy pine forest. The new background should feature tall, dark green evergreen trees partially obscured by a thick, atmospheric white mist to create a moody, mysterious environment. Ensure the man in the mustard-yellow sweater remains untouched and that the lighting on his face and clothing is adjusted to blend naturally with the softer, diffused light of the foggy forest setting."
+ },
+ {
+  "id": "w1_pl16_g01",
+  "kind": "golden",
+  "left": "c_1745cf70b6eb.mp4",
+  "right": "c_fc9db1c53c19.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "s1cc82d5f",
+  "kind": "new",
+  "left": "c_1af4da273d7d.mp4",
+  "right": "c_e64c87a706a5.mp4",
+  "source": "c_b9a971ea9b1c.mp4",
+  "prompt": "Modify the action of the gothic clown dressed in the long black dress and white ruffled collar; instead of standing still and raising their arms, have the figure slowly walk forward from the red-lit room, crossing the threshold of the blue doorway and moving toward the camera. The movement should be slow and menacing, maintaining the character's eerie presence as they transition from the intense red lighting of the inner room into the blue-lit foreground of the dilapidated hallway."
+ },
+ {
+  "id": "s40000a87",
+  "kind": "new",
+  "left": "c_a1b0085d1710.mp4",
+  "right": "c_c365a4b40352.mp4",
+  "source": "c_6fd557688bf9.mp4",
+  "prompt": "Change the color of the teal and deep blue water throughout the video to a medium purple-lavender hue. Ensure that the shimmering caustic light patterns on the sandy bottom and the reflections on the surface maintain their brightness and luminosity, but shift in tone to complement the new purple-lavender color of the water. The floating autumn leaves and the dark koi fish swimming beneath the surface should remain their original colors, creating a distinct contrast against the newly colored purple-lavender water."
+ },
+ {
+  "id": "w1_pl16_r04",
+  "kind": "repeat",
+  "left": "c_abd38fa0c6e4.mp4",
+  "right": "c_bd46eb704c3d.mp4",
+  "source": "c_7458ec7de0e9.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"tilt the camera up to focus on the white metal vaulted ceiling\", \"scene_context\": \"inside a large, arched train station with a blonde woman\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"low angle\", \"movement\": \"tilt up\"}, \"detail\": \"As the woman looks upward, the camera should smoothly tilt up from her face to capture the intricate geometry and glass panels of the white vaulted ceiling.\"}",
+  "repeat_of": "s5b23117f"
+ },
+ {
+  "id": "s2410380b",
+  "kind": "new",
+  "left": "c_02e87a0064be.mp4",
+  "right": "c_2ad2bfb865ea.mp4",
+  "source": "c_ec2a1d9db47d.mp4",
+  "prompt": "Add a thunderstorm to the background of the scene, specifically visible through the large windows behind the swimmer. Incorporate heavy, streaks of rain falling against the glass and intermittent, bright flashes of lightning that illuminate the dark twilight exterior. The lightning should cast a momentary, cool-toned glow into the dimly lit indoor facility, contrasting with the warm golden reflections on the pool water, while the rain should create a blurred, wet texture on the window panes to enhance the stormy atmosphere."
+ },
+ {
+  "id": "s9e401285",
+  "kind": "new",
+  "left": "c_fd27f363e488.mp4",
+  "right": "c_ba8eabbe0d4c.mp4",
+  "source": "c_cce632632354.mp4",
+  "prompt": "Dolly out from the tight close-up of the swirling purple ink and shimmering particles to a wide shot, gradually revealing the entire container of black liquid in which the pigment is diffusing. The camera should move backward smoothly, transitioning from the abstract, ethereal plumes of violet ink to a full view of the vessel, showing the scale of the ink's movement within the dark liquid environment."
+ },
+ {
+  "id": "w1_pl16_a01",
+  "kind": "attention",
+  "left": "c_de5c8628a325.mp4",
+  "right": "c_0cbc792d1874.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "s1f168897",
+  "kind": "new",
+  "left": "c_edf1687beae8.mp4",
+  "right": "c_27138214aad1.mp4",
+  "source": "c_48413240b57a.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person on the skateboard\", \"change\": \"performs a kickflip\", \"scene_context\": \"on a light-gray tiled pavement\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The skater should flick their front foot to make the board rotate 360 degrees along its longitudinal axis before landing back on the board with both feet.\"}"
+ },
+ {
+  "id": "s314a2d68",
+  "kind": "new",
+  "left": "c_69e4bdaaf74d.mp4",
+  "right": "c_9386c59ffe1d.mp4",
+  "source": "c_92a9867e0766.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the person and the fruit stack on the light-beige table\", \"change\": \"Dolly out from the person and the fruit stack on the light-beige table to reveal more of the room\", \"scene_context\": \"sitting at a light-beige table against a white curtain background\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"eye-level\", \"movement\": \"dolly out\"}, \"detail\": \"The camera should smoothly move backward from the initial medium shot, expanding the field of view to show more of the surrounding room and the table's edges as the fruits scatter.\"}"
+ },
+ {
+  "id": "s8a110297",
+  "kind": "new",
+  "left": "c_d78bb6e91e94.mp4",
+  "right": "c_54de7a3d69b8.mp4",
+  "source": "c_c597b7fd0fc6.mp4",
+  "prompt": "Replace the textured, reddish-brown dirt and clay surface that fills the entire frame with a dark grey asphalt pavement. The new asphalt surface should maintain a similar coarse, grainy texture with small pebbles and imperfections, but in a dark charcoal grey color. Ensure that the falling rain streaks and the resulting splashes and ripples upon impact are preserved and realistically integrated onto the new dark grey pavement surface, maintaining the same static camera angle and diffused lighting."
+ },
+ {
+  "id": "w1_pl16_r05",
+  "kind": "repeat",
+  "left": "c_54de7a3d69b8.mp4",
+  "right": "c_d78bb6e91e94.mp4",
+  "source": "c_c597b7fd0fc6.mp4",
+  "prompt": "Replace the textured, reddish-brown dirt and clay surface that fills the entire frame with a dark grey asphalt pavement. The new asphalt surface should maintain a similar coarse, grainy texture with small pebbles and imperfections, but in a dark charcoal grey color. Ensure that the falling rain streaks and the resulting splashes and ripples upon impact are preserved and realistically integrated onto the new dark grey pavement surface, maintaining the same static camera angle and diffused lighting.",
+  "repeat_of": "s8a110297"
+ },
+ {
+  "id": "sf6f67b05",
+  "kind": "new",
+  "left": "c_8e9625697449.mp4",
+  "right": "c_369b6796a8ea.mp4",
+  "source": "c_9fe305485bb4.mp4",
+  "prompt": "Replace the plain, light gray background behind the woman with a blurred junkyard scene. The new background should feature out-of-focus piles of scrap metal, rusted car parts, and industrial debris to create a stark contrast with the subject's clean appearance and red shirt. Ensure the edges around the woman's dreadlocks and the red-and-white checkered fabric on her shoulder are cleanly masked so that she remains the sharp focal point while the junkyard environment remains softly blurred in the distance."
+ },
+ {
+  "id": "s443bd903",
+  "kind": "new",
+  "left": "c_96aecd140e6c.mp4",
+  "right": "c_da80dde076a1.mp4",
+  "source": "c_0430450aeb65.mp4",
+  "prompt": "Change the camera viewpoint from a static wide shot to a high angle looking down at the red street food cart and the pedestrians. The new perspective should be positioned above the scene, providing a top-down view of the two men in grey jackets operating the grill, the white steam rising from the cart, and the silhouettes of the pedestrians walking across the sidewalk. The red cart, the decorative metal fence, and the white wall with the \"K\u00dcLT\u00dcR BA\" text should all be visible from this elevated vantage point, maintaining the high-contrast night lighting and urban atmosphere."
+ },
+ {
+  "id": "sdea65b26",
+  "kind": "new",
+  "left": "c_59922278708d.mp4",
+  "right": "c_875df5077ec0.mp4",
+  "source": "c_bbbd8e584819.mp4",
+  "prompt": "Replace the entire rural outdoor background, including the tall evergreen trees, the brown building on the left, and the ground covered in dry mulch and pine needles, with a detailed chemistry lab environment. The elderly man in the purple shirt and cowboy hat, along with the blue wheelbarrow filled with hay, should remain in the foreground. The new background should feature laboratory elements such as stainless steel tables, beakers, flasks, scientific equipment, and white tiled walls, ensuring the lighting on the man and wheelbarrow is adjusted to blend naturally with the indoor lab setting."
+ },
+ {
+  "id": "s4cbb2d2a",
+  "kind": "new",
+  "left": "c_e13be9d250db.mp4",
+  "right": "c_0f32b9ed809e.mp4",
+  "source": "c_cc39075530ba.mp4",
+  "prompt": "Remove the thin silver bracelet from the woman's left wrist throughout the entire video. Ensure the skin on her wrist is seamlessly reconstructed to match the surrounding skin tone and texture, maintaining a natural appearance as she moves her arms and hands while laughing. The removal should be consistent across all frames, leaving no trace of the jewelry or any blurring artifacts on her wrist."
+ },
+ {
+  "id": "secae6529",
+  "kind": "new",
+  "left": "c_e428183045a3.mp4",
+  "right": "c_1f3d61a1787b.mp4",
+  "source": "c_127dc10497f1.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small, colorful bird\", \"change\": \"add a small, colorful bird perched on the silver laptop\", \"scene_context\": \"on the silver laptop in the upper left\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bird should be small and vibrant in color, appearing naturally perched on the top edge or surface of the silver laptop throughout the entire video.\"}"
+ },
+ {
+  "id": "s86943c45",
+  "kind": "new",
+  "left": "c_f1f98058fafa.mp4",
+  "right": "c_7abf82854398.mp4",
+  "source": "c_80283b1b8019.mp4",
+  "prompt": "Apply a high-contrast black and white noir style to the entire video. Transform the muted color palette\u2014including the brown hair, skin tones, and the black long-sleeved shirt\u2014into a stark grayscale. Increase the contrast significantly to deepen the shadows and brighten the highlights, emphasizing the tactile textures of the hair and the precise movements of the fingers. The final result should have a dramatic, moody aesthetic where the darks are rich and the lights are crisp, removing all color from the subject and the patterned grey and white background."
+ },
+ {
+  "id": "se2b7c1a4",
+  "kind": "new",
+  "left": "c_4ff5644f13eb.mp4",
+  "right": "c_2672ef7bb89b.mp4",
+  "source": "c_2a35bb07dfc1.mp4",
+  "prompt": "Add a hailstorm to the entire scene, featuring small, white ice pellets falling consistently across the frame. The hail should fall from the pale, overcast sky, passing in front of the man in the navy blue polo and the background of green and palm trees. Ensure the ice pellets have a slight motion blur to simulate falling speed and that they interact naturally with the environment, appearing to land on the dry, coarse grass and dirt of the driving range."
+ },
+ {
+  "id": "w1_pl16_g03",
+  "kind": "golden",
+  "left": "c_9e7f36a928a8.mp4",
+  "right": "c_1db26344910b.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "w1_pl16_r02",
+  "kind": "repeat",
+  "left": "c_0f32b9ed809e.mp4",
+  "right": "c_e13be9d250db.mp4",
+  "source": "c_cc39075530ba.mp4",
+  "prompt": "Remove the thin silver bracelet from the woman's left wrist throughout the entire video. Ensure the skin on her wrist is seamlessly reconstructed to match the surrounding skin tone and texture, maintaining a natural appearance as she moves her arms and hands while laughing. The removal should be consistent across all frames, leaving no trace of the jewelry or any blurring artifacts on her wrist.",
+  "repeat_of": "s4cbb2d2a"
+ },
+ {
+  "id": "w1_pl16_g05",
+  "kind": "golden",
+  "left": "c_297b49bef8d7.mp4",
+  "right": "c_dc8b4e13cd18.mp4",
+  "source": "c_5f480a0660c0.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "w1_pl16_g02",
+  "kind": "golden",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "s7460a54d",
+  "kind": "new",
+  "left": "c_603be1e582f9.mp4",
+  "right": "c_72fc59fe7fa0.mp4",
+  "source": "c_d8b15547b7c9.mp4",
+  "prompt": "Modify the timing of the action so that the person's hand, wearing a white protective suit, is already gripping the handle of the metallic spray gun at 00:00, rather than entering the frame and gripping it at 00:02. The hand should be firmly positioned on the handle from the very start of the video, maintaining the same grip and placement as seen later in the clip, while the rest of the scene remains static until the trigger is pulled."
+ },
+ {
+  "id": "w1_pl16_r01",
+  "kind": "repeat",
+  "left": "c_7abf82854398.mp4",
+  "right": "c_f1f98058fafa.mp4",
+  "source": "c_80283b1b8019.mp4",
+  "prompt": "Apply a high-contrast black and white noir style to the entire video. Transform the muted color palette\u2014including the brown hair, skin tones, and the black long-sleeved shirt\u2014into a stark grayscale. Increase the contrast significantly to deepen the shadows and brighten the highlights, emphasizing the tactile textures of the hair and the precise movements of the fingers. The final result should have a dramatic, moody aesthetic where the darks are rich and the lights are crisp, removing all color from the subject and the patterned grey and white background.",
+  "repeat_of": "s86943c45"
+ },
+ {
+  "id": "seaf01567",
+  "kind": "new",
+  "left": "c_895204bee673.mp4",
+  "right": "c_37b8e10de5e8.mp4",
+  "source": "c_2b8d938d595a.mp4",
+  "prompt": "Change the handheld selfie perspective to an arc shot that circles around the man in the white denim jacket. Instead of the static, close-up front-facing view, the camera should smoothly orbit 360 degrees around the man, capturing him from different angles as he transitions from smiling to a stern expression. The movement should maintain a consistent distance from the man, revealing more of the white wall with abstract black line art in the background as the camera rotates. The final result should be a cinematic, fluid circular motion that replaces the slight natural shaking of the handheld selfie."
+ },
+ {
+  "id": "s9bdd5f48",
+  "kind": "new",
+  "left": "c_a243a6a7e964.mp4",
+  "right": "c_ed7c359ebcc8.mp4",
+  "source": "c_e5957100b66a.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the white t-shirt\", \"change\": \"wave his hand toward the camera after discarding the cloth\", \"scene_context\": \"standing behind a white table with a trash bin against a green background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"After the man drops the cloth into the trash bin, he should lift one hand and perform a friendly waving motion directed at the viewer before the video ends.\"}"
+ },
+ {
+  "id": "s12b2eb25",
+  "kind": "new",
+  "left": "c_0f26f0de3bb6.mp4",
+  "right": "c_66cce38aa801.mp4",
+  "source": "c_98fe5f4ad98b.mp4",
+  "prompt": "Pan left from the center of the murky grey water, moving away from the erupting white splash, to focus on the line of tall, slender poplar trees and the dry grass atop the sloped concrete bank on the left side of the canal."
+ },
+ {
+  "id": "s94a0dbab",
+  "kind": "new",
+  "left": "c_af30e2f8d084.mp4",
+  "right": "c_0d1cf77be11c.mp4",
+  "source": "c_cfcb7ebda39a.mp4",
+  "prompt": "Change the high-angle shot to a front view at water level, looking directly at the green beer bottle. The camera should be positioned low, aligned with the surface of the crystal-clear water, so that the bottle is viewed from the side rather than from above. The white and grey pebbles on the seabed should now appear behind and beneath the bottle in the background, and the ripples on the water's surface should be visible in the foreground, creating a more immersive, eye-level perspective of the floating bottle."
+ },
+ {
+  "id": "s0f1078a6",
+  "kind": "new",
+  "left": "c_5e1b74735f66.mp4",
+  "right": "c_d8af46299d67.mp4",
+  "source": "c_980cfc0cbbbb.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "s5b23117f",
+  "kind": "new",
+  "left": "c_bd46eb704c3d.mp4",
+  "right": "c_abd38fa0c6e4.mp4",
+  "source": "c_7458ec7de0e9.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"tilt the camera up to focus on the white metal vaulted ceiling\", \"scene_context\": \"inside a large, arched train station with a blonde woman\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"low angle\", \"movement\": \"tilt up\"}, \"detail\": \"As the woman looks upward, the camera should smoothly tilt up from her face to capture the intricate geometry and glass panels of the white vaulted ceiling.\"}"
+ },
+ {
+  "id": "s00b71e49",
+  "kind": "new",
+  "left": "c_d441e0f2251a.mp4",
+  "right": "c_f9439830bc2d.mp4",
+  "source": "c_60e18a2b8a95.mp4",
+  "prompt": "Replace the entire bedroom background, including the pink walls, the wooden herringbone floor, the bed with pink linens, and the beige armchair with the white round pillow, with a colorful urban alley. The new background should feature vibrant graffiti-covered brick walls, a paved asphalt ground, and urban elements like metal pipes or crates, while keeping the woman with red and purple hair and her movements exactly as they are. Ensure the lighting on the woman is adjusted to blend naturally with the new outdoor urban environment."
+ },
+ {
+  "id": "s2f175c0a",
+  "kind": "new",
+  "left": "c_1ea597d7980b.mp4",
+  "right": "c_c2b0fb7601a6.mp4",
+  "source": "c_b819c4052760.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"tilt the camera up from the woman's face to reveal more of the white bedsheets and the room's ceiling\", \"scene_context\": \"a young woman lying on a white pillow and bedsheets\", \"camera\": {\"shot_type\": \"high-angle shot\", \"angle\": \"tilted upwards\", \"movement\": \"tilt up\"}, \"detail\": \"The camera should smoothly transition from the close-up of the woman's face, moving upwards to expand the frame to include the surrounding white bedding and the ceiling of the room.\"}"
+ },
+ {
+  "id": "s0d78fc81",
+  "kind": "new",
+  "left": "c_6b1d8af6a026.mp4",
+  "right": "c_0319d19c8627.mp4",
+  "source": "c_4f29e8b34be8.mp4",
+  "prompt": "Add a hailstorm to the entire scene, featuring small, white ice pellets falling consistently across the frame. The hail should fall from the pale, overcast sky, passing in front of the man in the navy blue polo and the background of green and palm trees. Ensure the ice pellets have a slight motion blur to simulate falling speed and that they interact naturally with the environment, appearing to land on the dry, coarse grass and dirt of the driving range."
+ },
+ {
+  "id": "w1_pl16_r03",
+  "kind": "repeat",
+  "left": "c_da80dde076a1.mp4",
+  "right": "c_96aecd140e6c.mp4",
+  "source": "c_0430450aeb65.mp4",
+  "prompt": "Change the camera viewpoint from a static wide shot to a high angle looking down at the red street food cart and the pedestrians. The new perspective should be positioned above the scene, providing a top-down view of the two men in grey jackets operating the grill, the white steam rising from the cart, and the silhouettes of the pedestrians walking across the sidewalk. The red cart, the decorative metal fence, and the white wall with the \"K\u00dcLT\u00dcR BA\" text should all be visible from this elevated vantage point, maintaining the high-contrast night lighting and urban atmosphere.",
+  "repeat_of": "s443bd903"
+ },
+ {
+  "id": "w1_pl16_g04",
+  "kind": "golden",
+  "left": "c_e56d98539102.mp4",
+  "right": "c_2871fb0c1adb.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "s6c72563d",
+  "kind": "new",
+  "left": "c_409dabeb453f.mp4",
+  "right": "c_1afa4b91ebf9.mp4",
+  "source": "c_6210535c3702.mp4",
+  "prompt": "Replace the white minimalist cafe background, including the white walls and the white espresso machine, with a scenic view of a glacier. The barista, their sage green apron, the stainless steel pitcher, and the items on the counter should remain untouched, while the entire environment behind and around them is transformed into a vast, icy glacial landscape with towering ice formations and a cold, blue-toned atmosphere."
+ },
+ {
+  "id": "s3efb890a",
+  "kind": "new",
+  "left": "c_8f77b15c2257.mp4",
+  "right": "c_545d2cae9360.mp4",
+  "source": "c_8c9de9094128.mp4",
+  "prompt": "Add a small, colorful bird perched on the top black metal frame of the umbrella structure. The bird should be realistically scaled and positioned on the horizontal black pole, contrasting with the turquoise-blue sky. Ensure the bird's lighting and shadows match the bright, direct sunlight of the scene to make it look naturally integrated into the static shot."
+ },
+ {
+  "id": "sdd4b942a",
+  "kind": "new",
+  "left": "c_6539b0899a9d.mp4",
+  "right": "c_b40c696de038.mp4",
+  "source": "c_2ce200c10404.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"pink indoor room background\", \"change\": \"replace with a dark, stone-walled catacomb\", \"scene_context\": \"the area behind the woman and the makeup artist\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright pink walls and soft lighting should be replaced with cold, damp stone walls and dim, atmospheric lighting typical of an underground catacomb.\"}"
+ },
+ {
+  "id": "s844c34e4",
+  "kind": "new",
+  "left": "c_5178af26d101.mp4",
+  "right": "c_ff03bf230414.mp4",
+  "source": "c_f0f6e1335896.mp4",
+  "prompt": "Change the current low-angle perspective to a high-angle shot, repositioning the camera to look down from above at the bartender's hands as they pour liquid from the clear glass bottle into the stainless steel cocktail shaker. The new viewpoint should provide a top-down view of the bar counter, clearly showing the arrangement of the metal shakers, the stirring spoon, and the small bottles with pourers from an overhead perspective, while maintaining the warm, amber-toned lighting of the scene."
+ },
+ {
+  "id": "sc9a360d0",
+  "kind": "new",
+  "left": "c_d700704061f1.mp4",
+  "right": "c_66f2373c3171.mp4",
+  "source": "c_84b04b432adf.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person in the brown jacket\", \"change\": \"performs a Zumba dance routine while kneeling beside the cardboard box\", \"scene_context\": \"kneeling on the wooden floor in a minimalist white room\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The person should maintain their kneeling position but incorporate rhythmic, high-energy arm movements and torso sways characteristic of Zumba. The movements should be fluid and synchronized to an imagined upbeat tempo.\"}"
+ },
+ {
+  "id": "sdfdc3799",
+  "kind": "new",
+  "left": "c_d780cf82e241.mp4",
+  "right": "c_da58d94adf04.mp4",
+  "source": "c_b37bbab73888.mp4",
+  "prompt": "Replace the bright turquoise underwater background and the intense white sunlight filtering from above with a view of a bustling downtown city skyline. The city buildings and skyscrapers should be visible through the water, maintaining the underwater aesthetic with distorted perspectives, cyan color grading, and floating air bubbles to ensure the man in the diving mask remains seamlessly integrated into the new urban aquatic environment."
+ }
+]

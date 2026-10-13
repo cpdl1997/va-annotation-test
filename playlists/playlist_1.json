@@ -1,0 +1,359 @@
+[
+ {
+  "id": "sa95d7205",
+  "kind": "new",
+  "left": "c_8fdff471dcd2.mp4",
+  "right": "c_4ee061abc70e.mp4",
+  "source": "c_1bcb84f74cd1.mp4",
+  "prompt": "Modify the action of the small tabby kitten so that instead of batting and biting the dark, textured fabric from a stationary position, it pounces forward with a sudden burst of energy and jumps fully onto the dark fabric. The motion should be a quick, playful leap, with the kitten's body extending forward and landing firmly on the object, while maintaining the black-and-white aesthetic and soft, moody lighting of the original scene."
+ },
+ {
+  "id": "w1_pl1_g05",
+  "kind": "golden",
+  "left": "c_2871fb0c1adb.mp4",
+  "right": "c_e56d98539102.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "s2d751c06",
+  "kind": "new",
+  "left": "c_14345fc8ed67.mp4",
+  "right": "c_574b838dfb0c.mp4",
+  "source": "c_3d8fc55c3edc.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"the white wall, radiator, and black chair in the background\", \"change\": \"replace with a rope bridge over a misty canyon\", \"scene_context\": \"the area behind the dancing couple\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The background should be replaced with a cinematic view of a rustic rope bridge spanning a deep, fog-filled canyon, while keeping the wooden floor and the dancers intact.\"}"
+ },
+ {
+  "id": "sbd79c1f9",
+  "kind": "new",
+  "left": "c_cfc343ee330b.mp4",
+  "right": "c_b24deb9511a5.mp4",
+  "source": "c_62e44248fda4.mp4",
+  "prompt": "Replace the hazy, pale blue sky in the background with a dramatic sunset sky featuring vibrant orange and purple hues. The new sky should seamlessly blend with the horizon line behind the distant scrubland and the sprawling branches of the dead tree, while maintaining the natural lighting on the zebra and the golden savanna grass. The transition from orange to purple should create a rich, atmospheric gradient across the upper portion of the frame, transforming the midday feel into a serene evening scene."
+ },
+ {
+  "id": "s7fe99198",
+  "kind": "new",
+  "left": "c_9c66ccb1aeaf.mp4",
+  "right": "c_85c929461dbe.mp4",
+  "source": "c_ffeff03c9deb.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ },
+ {
+  "id": "w1_pl1_g03",
+  "kind": "golden",
+  "left": "c_c16c7cc8a9c4.mp4",
+  "right": "c_9b25fc4df586.mp4",
+  "source": "c_dff4add31e30.mp4",
+  "prompt": "Add a strong wind effect to the scene that causes the red and white floral tablecloth on the left side of the frame to flutter and blow realistically. The fabric should ripple and wave dynamically throughout the video, as if caught in a powerful gust of wind, while the man and the other objects in the workshop remain unaffected. Ensure the movement of the cloth looks natural and consistent with the physics of a light fabric being blown by a strong breeze."
+ },
+ {
+  "id": "sac542fde",
+  "kind": "new",
+  "left": "c_27cb0a3e2ce2.mp4",
+  "right": "c_1b41db07758a.mp4",
+  "source": "c_fc5c4ca433d9.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person in the background\", \"change\": \"swing the axe more slowly\", \"scene_context\": \"standing behind the vertical block of wood in an outdoor yard\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Slow down the downward motion of the axe swing starting at 00:03, extending the time it takes for the axe to travel from the peak of the swing to the point of impact at 00:04.\"}"
+ },
+ {
+  "id": "sd029736e",
+  "kind": "new",
+  "left": "c_58632b6cfdfe.mp4",
+  "right": "c_c6cd6528bcd8.mp4",
+  "source": "c_86c50c1dc9b2.mp4",
+  "prompt": "Change the color of the woman's black blazer to a neutral gray. Ensure the gray tone is consistent across the entire garment, maintaining the original fabric texture, shadows, and highlights to keep the look realistic. The change should apply to the blazer throughout the entire duration of the video, while leaving the white top, the black payment terminal, and the rest of the scene unchanged."
+ },
+ {
+  "id": "s607c570e",
+  "kind": "new",
+  "left": "c_8f8592d7380a.mp4",
+  "right": "c_f59a643cd55a.mp4",
+  "source": "c_9fa181076386.mp4",
+  "prompt": "Change the color of the red yoga mats on the floor to indigo. Ensure that the indigo color is applied consistently across all the mats visible in the scene, including the one in the foreground and the one to the left, while maintaining the original texture, lighting, and shadows of the mats."
+ },
+ {
+  "id": "w1_pl1_a02",
+  "kind": "attention",
+  "left": "c_de5c8628a325.mp4",
+  "right": "c_0cbc792d1874.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "w1_pl1_r01",
+  "kind": "repeat",
+  "left": "c_b751475d04b7.mp4",
+  "right": "c_d7133b3fde67.mp4",
+  "source": "c_2d26b42758c6.mp4",
+  "prompt": "Add a strong wind effect to the scene, specifically targeting the man's red button-down shirt and the dark blue blanket covering him. The fabric of both the red shirt and the blue blanket should flutter, ripple, and wave dynamically as if caught in a powerful gust of wind, while the rest of the scene, including the medical professional and the bandage, remains unaffected. The movement of the cloth should look natural and consistent with a high-wind environment.",
+  "repeat_of": "s5ae186ac"
+ },
+ {
+  "id": "s2eccea39",
+  "kind": "new",
+  "left": "c_0c6156a1ef9e.mp4",
+  "right": "c_6a3f43828092.mp4",
+  "source": "c_0ed44e572ff2.mp4",
+  "prompt": "Replace the plain, bright white studio background with a lush apple orchard. The new background should feature rows of vibrant green apple trees laden with ripe red apples, with soft sunlight filtering through the leaves to create a natural, outdoor atmosphere. Ensure the edges around the man in the red jacket, yellow beanie, and blue backpack are cleanly masked so he appears naturally integrated into the orchard setting, maintaining the original lighting on his person while blending him into the new environment."
+ },
+ {
+  "id": "w1_pl1_r04",
+  "kind": "repeat",
+  "left": "c_9566f0ef637b.mp4",
+  "right": "c_642bfea84b77.mp4",
+  "source": "c_820240234f4a.mp4",
+  "prompt": "Transform the entire video into a 3D Pixar-style animation. Convert the people, including the man in the patterned jacket and the woman in the brown jacket, into stylized characters with exaggerated features and smooth, expressive skin textures. The large metal incineration bins, the bright red paper packets, and the blue and pink bag of offerings should be rendered with vibrant, saturated colors and soft, rounded edges. The smoke and fire inside the bins should be transformed into stylized, glowing volumetric effects. The outdoor paved area and the overcast lighting should be replaced with a bright, clean, and polished 3D environment with soft ambient occlusion and cinematic lighting typical of a modern animated feature film.",
+  "repeat_of": "sf0726af4"
+ },
+ {
+  "id": "safd8536f",
+  "kind": "new",
+  "left": "c_d1e3e8edbcdb.mp4",
+  "right": "c_ef7821e9e6eb.mp4",
+  "source": "c_7b3a16760bfb.mp4",
+  "prompt": "Add a layer of morning frost to the light-colored brick wall in the background. The frost should appear as a delicate, crystalline white coating that clings to the texture of the bricks and mortar, creating a frozen, wintry effect. Ensure the frost is subtly integrated into the blurred background, maintaining the existing depth of field so that the frost remains out of focus while the glass and pouring water stay sharp. The overall look should enhance the cool, moody color palette of the scene."
+ },
+ {
+  "id": "sef6756ae",
+  "kind": "new",
+  "left": "c_1b71fdc2b9ab.mp4",
+  "right": "c_2257e3c89c53.mp4",
+  "source": "c_7b6e1e2248a8.mp4",
+  "prompt": "Change the bright, natural daylight illuminating the colorful wooden boat and the surrounding water to an overcast sky. Replace the high-contrast lighting and sharp shadows with a muted, greyish light that softens the vibrant blue, yellow, and red stripes of the boat. The overall atmosphere should shift from a sunny day to a cloudy, dim environment, reducing the saturation of the colors and creating a flat, diffused lighting effect across the two men and the background boats."
+ },
+ {
+  "id": "s1e39d1b4",
+  "kind": "new",
+  "left": "c_85b780bdb0fd.mp4",
+  "right": "c_aead206df5df.mp4",
+  "source": "c_00dccbd54caf.mp4",
+  "prompt": "{\"task_type\": \"Color Edit\", \"target\": \"white notebook\", \"change\": \"change the color to fuchsia purple\", \"scene_context\": \"on the left side of the wooden table\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The white cover and edges of the notebook on the left should be uniformly changed to a vibrant fuchsia purple while maintaining the original texture and lighting.\"}"
+ },
+ {
+  "id": "s06f8cb78",
+  "kind": "new",
+  "left": "c_ba8ba16664fd.mp4",
+  "right": "c_9b0690d1bee7.mp4",
+  "source": "c_220cb47f4c04.mp4",
+  "prompt": "Remove the person's hands from the entire video. Carefully erase the fingers and palms that are stirring the raw egg into the mound of white flour. Fill in the resulting gaps by seamlessly reconstructing the textures of the powdery flour and the viscous orange egg yolk, ensuring the ingredients appear to move or clump naturally without any visible human interaction. The final result should show only the flour and egg on the light-colored surface, maintaining the shallow depth of field and bright, diffused lighting of the original scene."
+ },
+ {
+  "id": "s1d9b4d6e",
+  "kind": "new",
+  "left": "c_8a0849f726f2.mp4",
+  "right": "c_4fcaf0be5118.mp4",
+  "source": "c_6b60c87ed306.mp4",
+  "prompt": "Modify the action of the person's light-skinned hands under the chrome faucet so that they rub together more vigorously. Instead of the current gentle rubbing, increase the speed and intensity of the hand movements to simulate scrubbing. As they rub more intensely, add a thick, white, bubbly soap lather that builds up and covers the palms and fingers, contrasting with the clear stream of water flowing from the faucet into the white sink."
+ },
+ {
+  "id": "w1_pl1_r05",
+  "kind": "repeat",
+  "left": "c_4fcaf0be5118.mp4",
+  "right": "c_8a0849f726f2.mp4",
+  "source": "c_6b60c87ed306.mp4",
+  "prompt": "Modify the action of the person's light-skinned hands under the chrome faucet so that they rub together more vigorously. Instead of the current gentle rubbing, increase the speed and intensity of the hand movements to simulate scrubbing. As they rub more intensely, add a thick, white, bubbly soap lather that builds up and covers the palms and fingers, contrasting with the clear stream of water flowing from the faucet into the white sink.",
+  "repeat_of": "s1d9b4d6e"
+ },
+ {
+  "id": "s12f661b7",
+  "kind": "new",
+  "left": "c_b16a8e5b575b.mp4",
+  "right": "c_74fe19d18e21.mp4",
+  "source": "c_f054fa3765a5.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"entire video\", \"change\": \"transform into a caricature style with exaggerated facial features and proportions\", \"scene_context\": \"a man and woman dancing intimately near a bright window\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Apply a stylized, illustrative look where the man's and woman's facial features are humorously oversized and their body proportions are distorted. Maintain the original colors, including the bright blue flower and the high-contrast lighting.\"}"
+ },
+ {
+  "id": "sbf9d3c89",
+  "kind": "new",
+  "left": "c_11850fc8458c.mp4",
+  "right": "c_424a1ee8b1a9.mp4",
+  "source": "c_f5b477681e22.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change the camera viewpoint to a front view of the person on the golf green\", \"scene_context\": \"a person in purple pants and white sneakers on a sunlit golf green\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"front view\", \"movement\": \"static\"}, \"detail\": \"The camera should be positioned directly in front of the person, showing their full body from the front as they putt the ball and retrieve it from the hole.\"}"
+ },
+ {
+  "id": "w1_pl1_g02",
+  "kind": "golden",
+  "left": "c_cab73d3c95ec.mp4",
+  "right": "c_8fa5c76edd94.mp4",
+  "source": "c_edf8e52eeff1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "s2ed40064",
+  "kind": "new",
+  "left": "c_4d8e68d12247.mp4",
+  "right": "c_0c079b38fc83.mp4",
+  "source": "c_cb34ffd585be.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"soft blue-grey gradient background\", \"change\": \"replace with a blurred view of a crowded arena during a performance\", \"scene_context\": \"the area behind the woman in the profile shot\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The new background should be heavily blurred to maintain the shallow depth of field, featuring bokeh lights and the indistinct shapes of a large crowd in a concert or sports arena setting.\"}"
+ },
+ {
+  "id": "w1_pl1_a01",
+  "kind": "attention",
+  "left": "c_0ad006a46f1f.mp4",
+  "right": "c_bcfaee21c79d.mp4",
+  "source": "c_ee694adbe3dd.mp4",
+  "prompt": "Modify the action of the person wearing black gloves at the beginning of the video: instead of carefully placing the silver aluminum can into the metal conveyor system, have them accidentally drop the can. The can should slip from their grip and fall downward, bouncing off the metal machinery and hitting the floor, while the person's hand momentarily freezes in a reaction to the mistake. The motion of the falling can should be physically plausible, maintaining the metallic reflections and lighting of the industrial environment."
+ },
+ {
+  "id": "s6de524b4",
+  "kind": "new",
+  "left": "c_65c50fe2e63b.mp4",
+  "right": "c_821ccfdeb663.mp4",
+  "source": "c_1771ddbab6ca.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"dark-colored birds\", \"change\": \"remove the birds\", \"scene_context\": \"resting on the sandy ridge in the foreground\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Carefully remove the three dark birds from the sandy foreground ridge, filling in the gaps with the surrounding beige sand texture to maintain a seamless look.\"}"
+ },
+ {
+  "id": "w1_pl1_r02",
+  "kind": "repeat",
+  "left": "c_ef7821e9e6eb.mp4",
+  "right": "c_d1e3e8edbcdb.mp4",
+  "source": "c_7b3a16760bfb.mp4",
+  "prompt": "Add a layer of morning frost to the light-colored brick wall in the background. The frost should appear as a delicate, crystalline white coating that clings to the texture of the bricks and mortar, creating a frozen, wintry effect. Ensure the frost is subtly integrated into the blurred background, maintaining the existing depth of field so that the frost remains out of focus while the glass and pouring water stay sharp. The overall look should enhance the cool, moody color palette of the scene.",
+  "repeat_of": "safd8536f"
+ },
+ {
+  "id": "sbdeae24e",
+  "kind": "new",
+  "left": "c_111c3883ace2.mp4",
+  "right": "c_4abb4fcc0ce5.mp4",
+  "source": "c_15826dfa6cfb.mp4",
+  "prompt": "Apply a pop art style to the entire video, transforming the scene into a comic-book aesthetic. Implement bold, thick black outlines around the man, the blue yoga mat, the black tufted leather sofa, and the architectural lines of the window and red brick wall. Replace the natural lighting and neutral tones with a vibrant, highly saturated color palette, making the red bricks and blue mat pop intensely against the background. The final result should look like a stylized graphic illustration with flat, vivid colors and strong contrast."
+ },
+ {
+  "id": "s05e6eee9",
+  "kind": "new",
+  "left": "c_85c8b2fdcd65.mp4",
+  "right": "c_593baaa97304.mp4",
+  "source": "c_2673b40aa77a.mp4",
+  "prompt": "Add a light rain effect falling across the entire scene, including the dark night sky and the grassy lawn where the fire dancer is performing. The rain should appear as fine, translucent streaks of water descending vertically throughout the frame. Ensure the rain interacts naturally with the lighting, with the droplets catching the bright orange glow from the fire poi and the light from the tan building's windows. The overall effect should create a misty, damp atmosphere without obscuring the performer or the crowd sitting on the grass."
+ },
+ {
+  "id": "sce1e3fba",
+  "kind": "new",
+  "left": "c_915b85449a0e.mp4",
+  "right": "c_b04f7d3969af.mp4",
+  "source": "c_4e97995d9d02.mp4",
+  "prompt": "Modify the action of the man in the blue jacket and cap on the left side of the frame: instead of using the leaf blower to create a cloud of white dust on the pavement, make him stop the activity and stand completely still. The leaf blower should remain in his hands, but it should no longer be operational, and the white dust and debris should be removed from the scene."
+ },
+ {
+  "id": "sce0f914c",
+  "kind": "new",
+  "left": "c_c92e626dbdcb.mp4",
+  "right": "c_1b055afb800e.mp4",
+  "source": "c_aeaceb51b524.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"dense green foliage background\", \"change\": \"replace with a sunny vineyard\", \"scene_context\": \"the area surrounding the two Siamese kittens\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The lush green leaves and white wildflowers should be replaced with rows of grapevines under bright, warm sunlight. The kittens should remain in the foreground, seamlessly integrated into the new vineyard setting.\"}"
+ },
+ {
+  "id": "s2d4a804f",
+  "kind": "new",
+  "left": "c_d12855d12e2d.mp4",
+  "right": "c_4b04d255e31b.mp4",
+  "source": "c_153a2111bc2b.mp4",
+  "prompt": "{\"task_type\": \"Style Change\", \"target\": \"the entire scene\", \"change\": \"transform into a low poly 3D art style\", \"scene_context\": \"a person bodyboarding in the ocean under a clear blue sky\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Convert all elements, including the water, foam, person, and sky, into simplified geometric polygons with flat shading. Maintain the original color palette of deep blue, white, and red while removing all smooth gradients and organic textures.\"}"
+ },
+ {
+  "id": "s16bb0919",
+  "kind": "new",
+  "left": "c_f5b605edbfc0.mp4",
+  "right": "c_b8a79d911b20.mp4",
+  "source": "c_4f54de13c92a.mp4",
+  "prompt": "Remove the small white bird perched on the weathered wooden fence in the background on the left side of the frame. Carefully erase the bird from every frame it appears in, filling in the gap with the texture and color of the rustic wooden logs and the blue sky behind it. Ensure the removal is seamless, maintaining the natural lighting and grain of the wood so that no trace of the bird remains and the background looks undisturbed."
+ },
+ {
+  "id": "s8c3f7115",
+  "kind": "new",
+  "left": "c_f77261df69af.mp4",
+  "right": "c_e6f60890697c.mp4",
+  "source": "c_3114d601e262.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey rock face and surrounding environment\", \"change\": \"replace with an underwater coral reef setting\", \"scene_context\": \"the background and surface the climber is ascending\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The jagged grey rock should be replaced with colorful coral formations and sea sponges. The surrounding air should be replaced with clear blue water containing small floating particles and fish to enhance the underwater atmosphere.\"}"
+ },
+ {
+  "id": "sa52b0604",
+  "kind": "new",
+  "left": "c_30b2cd89ae40.mp4",
+  "right": "c_82f80ce805d7.mp4",
+  "source": "c_a9641513e5d4.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change the static close-up shot to an aerial drone shot looking down\", \"scene_context\": \"the white and light-brown puppy among the branches and foliage\", \"camera\": {\"shot_type\": \"aerial drone shot\", \"angle\": \"top-down / bird's-eye view\", \"movement\": \"static or slow drift\"}, \"detail\": \"The camera should be positioned high above the puppy, looking directly down to show the puppy's position relative to the surrounding tangle of branches and the stone wall background.\"}"
+ },
+ {
+  "id": "sf0726af4",
+  "kind": "new",
+  "left": "c_642bfea84b77.mp4",
+  "right": "c_9566f0ef637b.mp4",
+  "source": "c_820240234f4a.mp4",
+  "prompt": "Transform the entire video into a 3D Pixar-style animation. Convert the people, including the man in the patterned jacket and the woman in the brown jacket, into stylized characters with exaggerated features and smooth, expressive skin textures. The large metal incineration bins, the bright red paper packets, and the blue and pink bag of offerings should be rendered with vibrant, saturated colors and soft, rounded edges. The smoke and fire inside the bins should be transformed into stylized, glowing volumetric effects. The outdoor paved area and the overcast lighting should be replaced with a bright, clean, and polished 3D environment with soft ambient occlusion and cinematic lighting typical of a modern animated feature film."
+ },
+ {
+  "id": "w1_pl1_r03",
+  "kind": "repeat",
+  "left": "c_1b41db07758a.mp4",
+  "right": "c_27cb0a3e2ce2.mp4",
+  "source": "c_fc5c4ca433d9.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the person in the background\", \"change\": \"swing the axe more slowly\", \"scene_context\": \"standing behind the vertical block of wood in an outdoor yard\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Slow down the downward motion of the axe swing starting at 00:03, extending the time it takes for the axe to travel from the peak of the swing to the point of impact at 00:04.\"}",
+  "repeat_of": "sac542fde"
+ },
+ {
+  "id": "s35c3bc3e",
+  "kind": "new",
+  "left": "c_ea4ad130cdb7.mp4",
+  "right": "c_a1246766f37f.mp4",
+  "source": "c_d0877b22b251.mp4",
+  "prompt": "From 00:01 to 00:04, instead of the person's hand simply holding the top of the white wooden frame, modify the action so the person uses the dark brown rubber mallet to tap the top wooden corner block into place. The motion should mirror the tapping action seen at the bottom right corner from 00:00 to 00:01, with the mallet head striking the small wooden block at the top right corner of the frame to secure it."
+ },
+ {
+  "id": "s872c9515",
+  "kind": "new",
+  "left": "c_67d584be9655.mp4",
+  "right": "c_19942b2ba83a.mp4",
+  "source": "c_2b4df39a27f3.mp4",
+  "prompt": "Replace the distant blue mountains in the background with a futuristic cityscape. The cityscape should feature towering skyscrapers, neon lights, and advanced architectural structures that stretch across the horizon, replacing the natural mountain range while maintaining the same perspective and scale. Ensure the lighting of the futuristic city blends naturally with the cloudy sky and the overall lighting of the scene, creating a stark contrast between the rustic, reddish-brown dirt road in the foreground and the high-tech urban environment in the distance."
+ },
+ {
+  "id": "seaccc242",
+  "kind": "new",
+  "left": "c_41ff7ccc43ea.mp4",
+  "right": "c_be834a4a6e5c.mp4",
+  "source": "c_1d9d92f12e68.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change the static side-profile shot to an aerial/drone shot looking straight down\", \"scene_context\": \"the man standing at the wooden desk\", \"camera\": {\"shot_type\": \"aerial shot\", \"angle\": \"top-down / bird's-eye view\", \"movement\": \"static\"}, \"detail\": \"The camera should be positioned directly above the man, capturing the top of his head, his hands cleaning the glasses, and the layout of the wooden desk including the laptop and glasses case.\"}"
+ },
+ {
+  "id": "w1_pl1_g04",
+  "kind": "golden",
+  "left": "c_999ff958b3c6.mp4",
+  "right": "c_ab4cb4bc4d72.mp4",
+  "source": "c_d31d36afde0c.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "w1_pl1_g01",
+  "kind": "golden",
+  "left": "c_9e7f36a928a8.mp4",
+  "right": "c_1db26344910b.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "s7490f685",
+  "kind": "new",
+  "left": "c_b59ffb81174c.mp4",
+  "right": "c_da1e62cd8834.mp4",
+  "source": "c_f6c6ce0117f7.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white wall and black metal spiral staircase\", \"change\": \"replace with a scenic view of a flowing river\", \"scene_context\": \"the area behind the two elderly men\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The background should be seamlessly replaced with a natural landscape featuring a river with flowing water, maintaining the same lighting and depth of field as the original shot.\"}"
+ },
+ {
+  "id": "s5ae186ac",
+  "kind": "new",
+  "left": "c_d7133b3fde67.mp4",
+  "right": "c_b751475d04b7.mp4",
+  "source": "c_2d26b42758c6.mp4",
+  "prompt": "Add a strong wind effect to the scene, specifically targeting the man's red button-down shirt and the dark blue blanket covering him. The fabric of both the red shirt and the blue blanket should flutter, ripple, and wave dynamically as if caught in a powerful gust of wind, while the rest of the scene, including the medical professional and the bandage, remains unaffected. The movement of the cloth should look natural and consistent with a high-wind environment."
+ },
+ {
+  "id": "se1fdab6f",
+  "kind": "new",
+  "left": "c_8fc788a2b073.mp4",
+  "right": "c_94f29922cd61.mp4",
+  "source": "c_ac75a5761b5d.mp4",
+  "prompt": "Remove the white ceramic bunny-shaped egg holder and the two pale eggs it contains from the white tablecloth. Ensure the area where the egg holder was positioned is seamlessly filled in with the white texture and lighting of the tablecloth, maintaining a clean and minimalist look without any visible artifacts or remnants of the object."
+ }
+]

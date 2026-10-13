@@ -1,0 +1,359 @@
+[
+ {
+  "id": "sb5f40410",
+  "kind": "new",
+  "left": "c_a0c5b1f0c120.mp4",
+  "right": "c_4a09b2f52fe5.mp4",
+  "source": "c_dea34df4d547.mp4",
+  "prompt": "Add a small, red berry to the grey, lichen-covered tree branch, positioned just in front of the yellow bird. The berry should be a vivid red color to contrast with the grey branch and should appear naturally attached to the wood, maintaining the same soft, diffused lighting and focus as the rest of the scene. The berry must remain stationary on the branch throughout the entire duration of the clip."
+ },
+ {
+  "id": "sd8f48835",
+  "kind": "new",
+  "left": "c_09c3d0a0c54c.mp4",
+  "right": "c_a7d08e66c27f.mp4",
+  "source": "c_416632fde310.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the woman with curly dark hair wearing a beige linen robe\", \"change\": \"Dolly in on the woman\", \"scene_context\": \"positioned against a plain, bright white background\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"eye-level\", \"movement\": \"dolly in\"}, \"detail\": \"The camera should smoothly move closer to the woman's face, increasing the magnification of her pensive expression and the texture of her robe while maintaining focus.\"}"
+ },
+ {
+  "id": "s9ecb4e73",
+  "kind": "new",
+  "left": "c_1692089476c3.mp4",
+  "right": "c_b4c865931100.mp4",
+  "source": "c_298a378fd90c.mp4",
+  "prompt": "Transform the entire video, including the black chicken, the metal bowl on the wire rack, and the dirt ground with dry leaves, into a rough sketch style. Replace the muted, warm color palette with a monochromatic look, using charcoal-like black lines on a textured, off-white or light gray paper background. The outlines of the chicken and the objects should be loose and hand-drawn, with minimal hatching for shading to maintain a raw, artistic pencil-sketch aesthetic throughout the sequence."
+ },
+ {
+  "id": "s470f571f",
+  "kind": "new",
+  "left": "c_cd9ba712a432.mp4",
+  "right": "c_251cdab99d01.mp4",
+  "source": "c_e0ac0ce34e88.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"change to a side view of the person mixing flour in the stainless steel bowl\", \"scene_context\": \"a person in a brown apron mixing flour in a stainless steel bowl on a metal table\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"side view\", \"movement\": \"static\"}, \"detail\": \"The camera should be repositioned to the side of the table, showing the person's profile and the side of the bowl as they mix the flour.\"}"
+ },
+ {
+  "id": "w1_pl7_g03",
+  "kind": "golden",
+  "left": "c_fc9db1c53c19.mp4",
+  "right": "c_1745cf70b6eb.mp4",
+  "source": "c_3b4b88b77bf8.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"grey gardening gloves\", \"change\": \"replace with translucent, ghostly figure's hands\", \"scene_context\": \"on the person's hands working in the dark garden soil\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The gloves should be completely replaced by semi-transparent, ethereal hands that maintain the same movements and positions as the original gloved hands. The ghostly hands should have a slight glow and allow the soil and background to be partially visible through them.\"}"
+ },
+ {
+  "id": "w1_pl7_g02",
+  "kind": "golden",
+  "left": "c_42ee322f5eaa.mp4",
+  "right": "c_a1fb2fc2ea19.mp4",
+  "source": "c_f8942c902ec7.mp4",
+  "prompt": "Remove the red backpack from the person's back as they walk and jump into the puddle. Ensure the red fabric and the straps of the backpack are completely erased, seamlessly filling in the area with the blue color and texture of the person's jacket. The removal should be consistent across all frames, maintaining the natural appearance of the jacket's back and the surrounding forest background without leaving any artifacts or blurring."
+ },
+ {
+  "id": "s59ad04e5",
+  "kind": "new",
+  "left": "c_51a4e7720479.mp4",
+  "right": "c_e040b5730b1c.mp4",
+  "source": "c_fa57eb2f1d5e.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"the white disposable coffee cup\", \"change\": \"Remove the white disposable coffee cup from the man's hand\", \"scene_context\": \"held by the man in the dark blue uniform\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the coffee cup entirely from the sequence, ensuring the man's hand movements and facial expressions are naturally filled in where the cup previously obscured his face and clothing.\"}"
+ },
+ {
+  "id": "seaf6d839",
+  "kind": "new",
+  "left": "c_8569b81067c2.mp4",
+  "right": "c_afd0d2e15332.mp4",
+  "source": "c_082a38034cf2.mp4",
+  "prompt": "Transform the entire video into a watercolor painting style. Apply a soft, artistic filter that replaces the realistic textures of the woman's pale skin, light hair, and the pink flower petal eyebrows with fluid, translucent paint washes. The edges of the subject and the plain, light-colored background should appear slightly blurred and bleeding into one another, mimicking the effect of wet-on-wet watercolor. Maintain the muted color palette and the vibrant pink of the petals, but render them as delicate pigment stains with visible paper texture and soft, organic brushstrokes throughout the frame."
+ },
+ {
+  "id": "s9c88f467",
+  "kind": "new",
+  "left": "c_3c3ae5ab5ba3.mp4",
+  "right": "c_b7cecb496c63.mp4",
+  "source": "c_50ef23c6fc27.mp4",
+  "prompt": "Add a small, brown butterfly that flies into the frame and lands gently on the cow's light-tan right ear. The butterfly should be realistically scaled and its wings should flutter slightly upon landing. Ensure the lighting on the butterfly matches the warm, natural side-lighting of the barn scene, and that its movement is synchronized with the cow's slight head movements and ear twitches to make the addition look seamless and natural."
+ },
+ {
+  "id": "sd102ea5e",
+  "kind": "new",
+  "left": "c_957e1b5787e0.mp4",
+  "right": "c_d5652e65d4d1.mp4",
+  "source": "c_614d5ce2f5ae.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera viewpoint\", \"change\": \"pan left from the coffee pouring action to reveal more of the off-white wall and the surrounding room\", \"scene_context\": \"a person pouring coffee into a cup on a light-wood shelving unit\", \"camera\": {\"shot_type\": \"medium shot\", \"angle\": \"eye-level\", \"movement\": \"pan left\"}, \"detail\": \"The camera should start on the action of pouring coffee and smoothly shift its focus to the left, expanding the view of the minimalist room and the plain off-white wall.\"}"
+ },
+ {
+  "id": "s891ee19c",
+  "kind": "new",
+  "left": "c_59d2a8d825b8.mp4",
+  "right": "c_e48838cda8a7.mp4",
+  "source": "c_581af1a7cefa.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the man in the white tunic\", \"change\": \"look directly into the camera and smile\", \"scene_context\": \"standing in a grassy field while loading a musket\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The man should maintain the physical action of loading the musket with the ramrod, but shift his gaze from the weapon to the lens and exhibit a friendly smile.\"}"
+ },
+ {
+  "id": "w1_pl7_a01",
+  "kind": "attention",
+  "left": "c_7766f8ad5204.mp4",
+  "right": "c_fd0f5bcdbd3c.mp4",
+  "source": "c_08467013f4af.mp4",
+  "prompt": "Replace the entire background behind the man, including the blurred park setting, the green food truck, the picnic tables, and the handwritten menu board, with a scenic coastal environment. The new background should feature a sandy shoreline, a blue ocean, and a prominent lighthouse visible in the far distance. Ensure the lighting on the coastal scene matches the muted, overcast lighting on the man to maintain a seamless integration."
+ },
+ {
+  "id": "s456c9b53",
+  "kind": "new",
+  "left": "c_1b9d79d25172.mp4",
+  "right": "c_ea89c74c4564.mp4",
+  "source": "c_b429878685ef.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"clear blue sky\", \"change\": \"Add a monsoon downpour\", \"scene_context\": \"the background behind the fluttering kite tail\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the bright blue sky with dark, heavy rain clouds and add dense, vertical streaks of falling rain throughout the frame. The lighting should shift from bright sunlight to a moody, overcast atmosphere.\"}"
+ },
+ {
+  "id": "s01a09006",
+  "kind": "new",
+  "left": "c_c468b0e5d8cc.mp4",
+  "right": "c_c25040395337.mp4",
+  "source": "c_6c6df674a5ef.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"the small, scruffy, light-brown dog running across the concrete plaza\", \"change\": \"a mountain climber performing mountain climber exercises\", \"scene_context\": \"moving across the concrete plaza in front of the concrete ledge and red-brick stairs\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The mountain climber should be positioned on the ground, mimicking the path and timing of the dog's movement across the plaza. The person should be in a plank position, rapidly alternating legs in a running motion.\"}"
+ },
+ {
+  "id": "w1_pl7_g05",
+  "kind": "golden",
+  "left": "c_9ff7fca93f28.mp4",
+  "right": "c_170850d3bb90.mp4",
+  "source": "c_4885d7789dfe.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "w1_pl7_r03",
+  "kind": "repeat",
+  "left": "c_29d25a82b5ed.mp4",
+  "right": "c_2c2873a5a8e6.mp4",
+  "source": "c_42c5389ba705.mp4",
+  "prompt": "Add a small, white sheep standing on the stone stairs, positioned next to the intricate wrought-iron railing. The sheep should appear naturally integrated into the derelict environment, with its white wool contrasting against the muted grey stone of the steps and the dark metal of the railing. Ensure the sheep's scale is realistic relative to the stairs and that it remains stationary as the camera pans upward, maintaining consistent lighting and shadows to match the dim, natural light of the scene.",
+  "repeat_of": "s01efcd2a"
+ },
+ {
+  "id": "s6cae5c5a",
+  "kind": "new",
+  "left": "c_2c181880547b.mp4",
+  "right": "c_93c995917cd6.mp4",
+  "source": "c_b275ac8cd3b2.mp4",
+  "prompt": "Replace the blurred indoor background, visible behind the person in the white t-shirt and the stack of books, with the interior of a rustic hunting lodge. The new background should feature elements such as dark wooden log walls, taxidermy mounts, and warm, dim lighting to contrast with the bright, airy foreground. Ensure the transition between the person and the new lodge interior is seamless, maintaining the original focus on the hands and the open book while the background remains softly out of focus to preserve the depth of field."
+ },
+ {
+  "id": "sf81597ec",
+  "kind": "new",
+  "left": "c_90b799315af8.mp4",
+  "right": "c_f86b47202c43.mp4",
+  "source": "c_ab832ba293e9.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small cascading waterfall\", \"change\": \"add a small cascading waterfall\", \"scene_context\": \"the distant body of water in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The waterfall should be small and subtle, blending naturally into the distant landscape. It should feature white, foaming water cascading down a rocky ledge into the water body.\"}"
+ },
+ {
+  "id": "s81deacb3",
+  "kind": "new",
+  "left": "c_e3f466a6bf69.mp4",
+  "right": "c_1bdab6850eaf.mp4",
+  "source": "c_237b40a7e3ca.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"pink indoor room background\", \"change\": \"replace with a dark, stone-walled catacomb\", \"scene_context\": \"the area behind the woman and the makeup artist\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright pink walls and soft lighting should be replaced with cold, damp stone walls and dim, atmospheric lighting typical of an underground catacomb.\"}"
+ },
+ {
+  "id": "sf5b22c3e",
+  "kind": "new",
+  "left": "c_9dcc62e9651d.mp4",
+  "right": "c_88380dd2654c.mp4",
+  "source": "c_cd590ce0347f.mp4",
+  "prompt": "Replace the paintbrush held in the person's right hand with a small spray paint can. The spray paint can should be realistically integrated into the person's grip as they lower their arm and hold the object horizontally over the wooden table. Ensure the can's size, lighting, and shadows match the minimalist, brightly lit environment of the room, maintaining a seamless look as the person moves their hand throughout the clip."
+ },
+ {
+  "id": "sa67aa7db",
+  "kind": "new",
+  "left": "c_a7fbb064060c.mp4",
+  "right": "c_202da4c14943.mp4",
+  "source": "c_5ad31950d4d4.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"lighting\", \"change\": \"Add bright, direct sunlight and sharp shadows to replace the overcast lighting\", \"scene_context\": \"the outdoor paved area where the musician is playing\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the soft, diffused light with high-contrast sunlight, creating distinct, hard-edged shadows on the pavement and the musician's clothing and instrument.\"}"
+ },
+ {
+  "id": "sf41ac6ea",
+  "kind": "new",
+  "left": "c_d78195964e22.mp4",
+  "right": "c_677f46eceebe.mp4",
+  "source": "c_2a0a7a59d454.mp4",
+  "prompt": "Replace the minimalist living room background, including the white wall and the light grey fabric sofa with the white throw pillow, with a lush green garden. The grey kitten, the white shag rug, and the colorful toy should remain untouched in the foreground. The new background should feature vibrant green grass, various garden plants, and soft natural outdoor lighting to create a seamless transition between the indoor rug and the outdoor garden environment."
+ },
+ {
+  "id": "s01efcd2a",
+  "kind": "new",
+  "left": "c_2c2873a5a8e6.mp4",
+  "right": "c_29d25a82b5ed.mp4",
+  "source": "c_42c5389ba705.mp4",
+  "prompt": "Add a small, white sheep standing on the stone stairs, positioned next to the intricate wrought-iron railing. The sheep should appear naturally integrated into the derelict environment, with its white wool contrasting against the muted grey stone of the steps and the dark metal of the railing. Ensure the sheep's scale is realistic relative to the stairs and that it remains stationary as the camera pans upward, maintaining consistent lighting and shadows to match the dim, natural light of the scene."
+ },
+ {
+  "id": "sf2f15cae",
+  "kind": "new",
+  "left": "c_b5e74fef149a.mp4",
+  "right": "c_2b253809887e.mp4",
+  "source": "c_d543888e339e.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small, colorful silent disco headphone\", \"change\": \"add a small, colorful silent disco headphone resting on top of the white flakes\", \"scene_context\": \"in the center of the frame, resting on the white flaky material\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The headphones should be small in scale relative to the frame and feature vibrant, multi-colored accents. They should appear to be physically resting on the surface of the flakes, with some flakes slightly overlapping the bottom of the headphones to create a natural integration.\"}"
+ },
+ {
+  "id": "s677b6a01",
+  "kind": "new",
+  "left": "c_2045f2721826.mp4",
+  "right": "c_3517e683a803.mp4",
+  "source": "c_5d1f2052fe89.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"green grassy field background\", \"change\": \"replace with a snowy winter landscape\", \"scene_context\": \"the ground surrounding the three brown bears\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The green grass and dirt patches should be completely replaced with a layer of white, powdery snow. Ensure the bears appear naturally embedded in the snow, with soft shadows cast on the white surface.\"}"
+ },
+ {
+  "id": "s15292159",
+  "kind": "new",
+  "left": "c_b49472351cd0.mp4",
+  "right": "c_afede8ea2c28.mp4",
+  "source": "c_2dca3db97829.mp4",
+  "prompt": "Tilt the camera up from the low-angle close-up of the reddish-brown millipede on the grey textured asphalt road to reveal more of the lush green forest background, shifting the focus from the creature to the dense foliage and thin tree trunks in the distance."
+ },
+ {
+  "id": "w1_pl7_g04",
+  "kind": "golden",
+  "left": "c_dc8b4e13cd18.mp4",
+  "right": "c_297b49bef8d7.mp4",
+  "source": "c_5f480a0660c0.mp4",
+  "prompt": "Change the color of the red soles on the man's black sneakers to a medium purple-blue. Ensure the color shift is applied consistently to the soles of both shoes throughout the entire video, maintaining the original lighting, shadows, and texture of the material while replacing the red hue with the specified purple-blue tone."
+ },
+ {
+  "id": "s6dc1b589",
+  "kind": "new",
+  "left": "c_74f0889bcc54.mp4",
+  "right": "c_7e1b2de8afc9.mp4",
+  "source": "c_f65cfef68174.mp4",
+  "prompt": "Remove the person wearing the blue garment from the left arch. Ensure that the person is completely erased from every frame they appear in, from the moment they are first illuminated by the moving blue light until the end of the video. The area previously occupied by the person should be seamlessly filled in with the surrounding dark, concrete-like textures of the wall and the atmospheric blue haze and lighting. The final result should look as if the left arch is empty, maintaining the consistent deep blue color palette and high-contrast lighting of the industrial interior without any visual artifacts or traces of the person."
+ },
+ {
+  "id": "s4b66f128",
+  "kind": "new",
+  "left": "c_0d12878464ea.mp4",
+  "right": "c_f58778873571.mp4",
+  "source": "c_8cb1a4375e0f.mp4",
+  "prompt": "Remove the pair of tan sandals located on the wooden floor of the boat, positioned to the right of the man's feet and the black sneakers. The sandals should be completely erased from every frame of the video. Fill in the resulting empty space with the natural texture and color of the weathered wooden planks of the boat's floor to ensure the removal is seamless and the background remains consistent throughout the rowing motion."
+ },
+ {
+  "id": "w1_pl7_r05",
+  "kind": "repeat",
+  "left": "c_312114434cd2.mp4",
+  "right": "c_11adcdfe34c6.mp4",
+  "source": "c_d9d1b5a53875.mp4",
+  "prompt": "Modify the action of the small tabby kitten so that instead of batting and biting the dark, textured fabric from a stationary position, it pounces forward with a sudden burst of energy and jumps fully onto the dark fabric. The motion should be a quick, playful leap, with the kitten's body extending forward and landing firmly on the object, while maintaining the black-and-white aesthetic and soft, moody lighting of the original scene.",
+  "repeat_of": "sa99bb791"
+ },
+ {
+  "id": "sa2d3eef2",
+  "kind": "new",
+  "left": "c_7c02dcc9d53a.mp4",
+  "right": "c_944e190df886.mp4",
+  "source": "c_906bec009884.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"two small green jalape\u00f1os\", \"change\": \"remove the jalape\u00f1os from the scene\", \"scene_context\": \"sitting on the wooden cutting board to the right of the pizza\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Completely remove the two green jalape\u00f1os and fill the resulting gap with the natural texture and color of the wooden cutting board.\"}"
+ },
+ {
+  "id": "w1_pl7_g01",
+  "kind": "golden",
+  "left": "c_8d338f5336b4.mp4",
+  "right": "c_65c42a7265c9.mp4",
+  "source": "c_08c7ef4f72fc.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "s878dc233",
+  "kind": "new",
+  "left": "c_7213f30c74f9.mp4",
+  "right": "c_73ea68cee700.mp4",
+  "source": "c_126602e62d26.mp4",
+  "prompt": "Add a small piece of green broccoli resting on one of the red-tiled stairs in the lower half of the frame. The broccoli should be placed statically on a step, appearing as a small, textured green organic object that contrasts with the smooth red surface of the tiles. Ensure the lighting and shadows on the broccoli match the soft, natural daylight of the scene so that it looks naturally integrated into the environment as the man walks past it."
+ },
+ {
+  "id": "sed10ba3b",
+  "kind": "new",
+  "left": "c_11f547176043.mp4",
+  "right": "c_e8da57f6569b.mp4",
+  "source": "c_71b9d6feb178.mp4",
+  "prompt": "Remove the light-colored rocks located on the forest floor in the immediate foreground. Carefully erase these pale stones from the bottom of the frame, filling in the resulting gaps with a seamless blend of the surrounding brown leaf litter and small green plants. The final result should look natural, as if the ground consists only of soil, leaves, and vegetation, without any visible traces or artifacts where the rocks were previously positioned."
+ },
+ {
+  "id": "w1_pl7_r01",
+  "kind": "repeat",
+  "left": "c_080943a7e965.mp4",
+  "right": "c_f0182a5f5193.mp4",
+  "source": "c_5c24f8a4168a.mp4",
+  "prompt": "Replace the background of the video, specifically the field of dry, brown grass and the hazy mountain range under the blue sky, with a snowy alpine landscape. The new background should feature snow-covered ground and jagged, snow-capped mountain peaks to create a winter environment. Ensure the person in the brown shearling jacket and the green blade of grass they are holding remain untouched and are seamlessly integrated into the new snowy setting, maintaining the same lighting and static camera perspective.",
+  "repeat_of": "s8f839575"
+ },
+ {
+  "id": "s8980fb3f",
+  "kind": "new",
+  "left": "c_56f2d2b90dbf.mp4",
+  "right": "c_58312653271b.mp4",
+  "source": "c_81a29f87665d.mp4",
+  "prompt": "Modify the scene so that instead of being static, the white plastic tiles with black uppercase letters drop from above and scatter dynamically across the dark gray matte surface. The tiles should fall with realistic physics, bouncing and sliding upon impact to create a random, disordered pile, replacing the current slow camera pan over already-placed tiles."
+ },
+ {
+  "id": "w1_pl7_a02",
+  "kind": "attention",
+  "left": "c_de5c8628a325.mp4",
+  "right": "c_0cbc792d1874.mp4",
+  "source": "c_fbfbcea0462b.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "w1_pl7_r02",
+  "kind": "repeat",
+  "left": "c_1bdab6850eaf.mp4",
+  "right": "c_e3f466a6bf69.mp4",
+  "source": "c_237b40a7e3ca.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"pink indoor room background\", \"change\": \"replace with a dark, stone-walled catacomb\", \"scene_context\": \"the area behind the woman and the makeup artist\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright pink walls and soft lighting should be replaced with cold, damp stone walls and dim, atmospheric lighting typical of an underground catacomb.\"}",
+  "repeat_of": "s81deacb3"
+ },
+ {
+  "id": "s6a373165",
+  "kind": "new",
+  "left": "c_7819fcc11f3a.mp4",
+  "right": "c_dfbbc3cba751.mp4",
+  "source": "c_40757ea216d7.mp4",
+  "prompt": "Change the high-angle shot to a front view at water level, looking directly at the green beer bottle. The camera should be positioned low, aligned with the surface of the crystal-clear water, so that the bottle is viewed from the side rather than from above. The white and grey pebbles on the seabed should now appear behind and beneath the bottle in the background, and the ripples on the water's surface should be visible in the foreground, creating a more immersive, eye-level perspective of the floating bottle."
+ },
+ {
+  "id": "s8f839575",
+  "kind": "new",
+  "left": "c_f0182a5f5193.mp4",
+  "right": "c_080943a7e965.mp4",
+  "source": "c_5c24f8a4168a.mp4",
+  "prompt": "Replace the background of the video, specifically the field of dry, brown grass and the hazy mountain range under the blue sky, with a snowy alpine landscape. The new background should feature snow-covered ground and jagged, snow-capped mountain peaks to create a winter environment. Ensure the person in the brown shearling jacket and the green blade of grass they are holding remain untouched and are seamlessly integrated into the new snowy setting, maintaining the same lighting and static camera perspective."
+ },
+ {
+  "id": "sa99bb791",
+  "kind": "new",
+  "left": "c_11adcdfe34c6.mp4",
+  "right": "c_312114434cd2.mp4",
+  "source": "c_d9d1b5a53875.mp4",
+  "prompt": "Modify the action of the small tabby kitten so that instead of batting and biting the dark, textured fabric from a stationary position, it pounces forward with a sudden burst of energy and jumps fully onto the dark fabric. The motion should be a quick, playful leap, with the kitten's body extending forward and landing firmly on the object, while maintaining the black-and-white aesthetic and soft, moody lighting of the original scene."
+ },
+ {
+  "id": "w1_pl7_r04",
+  "kind": "repeat",
+  "left": "c_f58778873571.mp4",
+  "right": "c_0d12878464ea.mp4",
+  "source": "c_8cb1a4375e0f.mp4",
+  "prompt": "Remove the pair of tan sandals located on the wooden floor of the boat, positioned to the right of the man's feet and the black sneakers. The sandals should be completely erased from every frame of the video. Fill in the resulting empty space with the natural texture and color of the weathered wooden planks of the boat's floor to ensure the removal is seamless and the background remains consistent throughout the rowing motion.",
+  "repeat_of": "s4b66f128"
+ },
+ {
+  "id": "s772aba38",
+  "kind": "new",
+  "left": "c_8c709b278536.mp4",
+  "right": "c_031d6102f40e.mp4",
+  "source": "c_9fe8d473b079.mp4",
+  "prompt": "Remove the blue noise-canceling headphones and the attached microphone from the man's head. Ensure that the black baseball cap and the sides of his head are realistically reconstructed where the headphones were previously positioned. The removal should be seamless, maintaining the consistent lighting and muted color palette of the scene, so it appears as though the man is simply wearing the cap without any headgear."
+ },
+ {
+  "id": "s31fdf9a8",
+  "kind": "new",
+  "left": "c_0c73eb5ec2b2.mp4",
+  "right": "c_43ab246e5031.mp4",
+  "source": "c_137f349a1df2.mp4",
+  "prompt": "Change the static close-up shot of the person wearing the white sleeveless top and black leather bag into an aerial drone shot. The camera should start at the current close-up position and smoothly pull back and ascend, transitioning from the detailed view of the tattooed arm and blue denim shirt to a wide-angle overhead perspective that reveals the person standing within the full urban environment and industrial setting."
+ }
+]

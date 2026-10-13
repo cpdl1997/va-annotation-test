@@ -1,0 +1,359 @@
+[
+ {
+  "id": "w1_pl8_r03",
+  "kind": "repeat",
+  "left": "c_9b1c0a4f69e0.mp4",
+  "right": "c_d90bad0c9ef2.mp4",
+  "source": "c_0bd7e9e3eb81.mp4",
+  "prompt": "Perform an arc shot rotating around the woman in the black hat playing the silver flute. Instead of the current static close-up, the camera should move in a smooth, semi-circular path around the flutist, shifting the perspective from her side profile to a front-facing view and then toward her other side. This movement should keep the woman as the central focal point while dynamically revealing more of the surrounding crowd, including the woman with the music notes on the left and the man with the grey instrument case on the right, creating a three-dimensional sense of the outdoor environment.",
+  "repeat_of": "s0fada181"
+ },
+ {
+  "id": "w1_pl8_r01",
+  "kind": "repeat",
+  "left": "c_bf6fd2eced1b.mp4",
+  "right": "c_7ef348aec718.mp4",
+  "source": "c_577aeda64b08.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the person's right ring finger and the ring with small stones\", \"change\": \"Zoom in on the person's right ring finger and the ring with small stones\", \"scene_context\": \"on the right hand typing on the black laptop keyboard\", \"camera\": {\"shot_type\": \"extreme close-up\", \"angle\": \"static\", \"movement\": \"zoom in\"}, \"detail\": \"The camera should transition from the current close-up of both hands to an extreme close-up focusing specifically on the ring and the finger it is on, filling more of the frame with the detail of the small stones.\"}",
+  "repeat_of": "sa200fa8b"
+ },
+ {
+  "id": "w1_pl8_g03",
+  "kind": "golden",
+  "left": "c_1db26344910b.mp4",
+  "right": "c_9e7f36a928a8.mp4",
+  "source": "c_18cac84ba37d.mp4",
+  "prompt": "Change the color of the solid, matte brown background to a deep indigo. The entire background area behind the man should be uniformly shifted from the current warm brown tone to a rich indigo hue, while ensuring the man, his white polo shirt, and his white headband remain unaffected by the color change. The final result should maintain the same matte texture and soft lighting of the original background."
+ },
+ {
+  "id": "w1_pl8_r04",
+  "kind": "repeat",
+  "left": "c_84dcc7a9976b.mp4",
+  "right": "c_c0c2ae5fc1f3.mp4",
+  "source": "c_6e7b07a8812c.mp4",
+  "prompt": "Boom up the camera, moving the viewpoint vertically upward from the current static close-up of the white parking sign. The movement should shift the frame to reveal more of the vivid blue sky and the blurred, leafless tree branches that are currently partially visible above the top section of the sign. The final composition should show the parking sign positioned lower in the frame, providing a wider view of the upper background elements.",
+  "repeat_of": "scddbff36"
+ },
+ {
+  "id": "w1_pl8_r02",
+  "kind": "repeat",
+  "left": "c_522ea146df1a.mp4",
+  "right": "c_9dd7758630ef.mp4",
+  "source": "c_cc3657063d47.mp4",
+  "prompt": "Replace the man's blue t-shirt with a surfer's rash guard. The rash guard should maintain a tight, athletic fit to the man's torso and arms, replacing the fabric of the blue t-shirt throughout the entire video. Ensure the rash guard's texture appears as a synthetic, quick-dry material typical of swimwear, and that it moves naturally with the man's body as he raises his arms to cover his face. The replacement should be seamless, preserving the lighting and shadows of the original scene.",
+  "repeat_of": "s7561295d"
+ },
+ {
+  "id": "sa7e42550",
+  "kind": "new",
+  "left": "c_df5b544c5303.mp4",
+  "right": "c_6567bc63663a.mp4",
+  "source": "c_305d8c5e5bbb.mp4",
+  "prompt": "Replace the stark black background behind the female dancer in the white leotard with the interior of a colorful, brightly lit toyshop. The new background should feature shelves filled with vibrant toys, games, and plushies, with bright overhead lighting that contrasts with the original moody atmosphere. Ensure the dancer and the dark wooden floor remain unchanged, seamlessly integrating her performance into the cheerful, detailed environment of the toyshop."
+ },
+ {
+  "id": "sb1d0ceb1",
+  "kind": "new",
+  "left": "c_837fa0c79d05.mp4",
+  "right": "c_af81d1fea7af.mp4",
+  "source": "c_437fdb16b55d.mp4",
+  "prompt": "Remove the small dark bird perched on the rim of the dark birdbath located on the left side of the frame. Carefully erase the bird from every frame of the video, ensuring that the rim of the birdbath and the surrounding yellow wildflowers and green foliage are seamlessly reconstructed. The final result should look as if the bird was never there, maintaining the natural texture and lighting of the birdbath's surface and the background greenery."
+ },
+ {
+  "id": "s6f94ecfb",
+  "kind": "new",
+  "left": "c_6a1067e49beb.mp4",
+  "right": "c_cffaa663bd62.mp4",
+  "source": "c_754e10c4b444.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the static shot\", \"change\": \"change the static shot to an arc shot that rotates around the swirling white smoke\", \"scene_context\": \"wisps of white smoke swirling against a dark, moody background\", \"camera\": {\"shot_type\": \"close-up\", \"angle\": \"eye-level\", \"movement\": \"arc shot rotating around the smoke\"}, \"detail\": \"The camera should smoothly orbit the central column of swirling smoke, maintaining a close-up distance to emphasize the translucent textures and shifting patterns from multiple angles.\"}"
+ },
+ {
+  "id": "s77e65419",
+  "kind": "new",
+  "left": "c_dc0611dda179.mp4",
+  "right": "c_3ae07e69abb2.mp4",
+  "source": "c_27e966f09ed6.mp4",
+  "prompt": "Make the adult grey-and-white cat sitting in the background stand up from its resting position and walk forward across the dirt toward the small kitten in the foreground. The movement should be a natural, steady feline gait, maintaining the cat's grey-and-white coloring and proportions as it moves through the rocky garden environment."
+ },
+ {
+  "id": "s599be07f",
+  "kind": "new",
+  "left": "c_f798ef5dded2.mp4",
+  "right": "c_424f89010eb3.mp4",
+  "source": "c_8b1a32940a2f.mp4",
+  "prompt": "Apply an ink wash painting style to the entire scene, transforming the low-angle shot of the three friends into a traditional East Asian art piece. The clear blue sky should become a soft, graded wash of light blue and white ink, while the figures\u2014including the person in the paint-splattered white t-shirt, the person in the grey sleeveless top, and the person in the red and white striped shirt\u2014should be rendered with fluid, expressive black ink brushstrokes. The red stripes of the shirt should be simplified into muted, bleeding crimson washes. The overall effect should feature soft edges, varying ink densities, and a textured paper background, replacing the photographic realism with a poetic, hand-painted aesthetic."
+ },
+ {
+  "id": "s19ac0954",
+  "kind": "new",
+  "left": "c_5b8a28100555.mp4",
+  "right": "c_af1ff5b863ab.mp4",
+  "source": "c_b4f79d391ea9.mp4",
+  "prompt": "Remove the small white bird perched on the weathered wooden fence in the background on the left side of the frame. Carefully erase the bird from every frame it appears in, filling in the gap with the texture and color of the rustic wooden logs and the blue sky behind it. Ensure the removal is seamless, maintaining the natural lighting and grain of the wood so that no trace of the bird remains and the background looks undisturbed."
+ },
+ {
+  "id": "w1_pl8_g02",
+  "kind": "golden",
+  "left": "c_2871fb0c1adb.mp4",
+  "right": "c_e56d98539102.mp4",
+  "source": "c_c2eea0b4b533.mp4",
+  "prompt": "{\"task_type\": \"Object Addition\", \"target\": \"small wooden spoon\", \"change\": \"add a small wooden spoon resting on the wooden cutting board\", \"scene_context\": \"on the wooden cutting board in the background\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The spoon should be made of a light-colored wood that matches the cutting board and should be placed naturally in the blurred background area.\"}"
+ },
+ {
+  "id": "se8ea9617",
+  "kind": "new",
+  "left": "c_e00b33635c7f.mp4",
+  "right": "c_16cbb2f64f6c.mp4",
+  "source": "c_f617eeda3690.mp4",
+  "prompt": "Change the static close-up shot of the person wearing the white sleeveless top and black leather bag into an aerial drone shot. The camera should start at the current close-up position and smoothly pull back and ascend, transitioning from the detailed view of the tattooed arm and blue denim shirt to a wide-angle overhead perspective that reveals the person standing within the full urban environment and industrial setting."
+ },
+ {
+  "id": "sa200fa8b",
+  "kind": "new",
+  "left": "c_7ef348aec718.mp4",
+  "right": "c_bf6fd2eced1b.mp4",
+  "source": "c_577aeda64b08.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the person's right ring finger and the ring with small stones\", \"change\": \"Zoom in on the person's right ring finger and the ring with small stones\", \"scene_context\": \"on the right hand typing on the black laptop keyboard\", \"camera\": {\"shot_type\": \"extreme close-up\", \"angle\": \"static\", \"movement\": \"zoom in\"}, \"detail\": \"The camera should transition from the current close-up of both hands to an extreme close-up focusing specifically on the ring and the finger it is on, filling more of the frame with the detail of the small stones.\"}"
+ },
+ {
+  "id": "sb18557ae",
+  "kind": "new",
+  "left": "c_897ab10dc925.mp4",
+  "right": "c_18782336a458.mp4",
+  "source": "c_a7fec34a764a.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"rain falling on the grey tiled patio\", \"change\": \"replace the rain with a hailstorm\", \"scene_context\": \"falling onto the grey tiled patio and into the puddle\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Replace the fine raindrops with small, white, solid ice pellets. The ripples in the puddle should be replaced by more violent splashes and the accumulation of small white hail stones on the tiles and in the saucer.\"}"
+ },
+ {
+  "id": "sbeb1d2c6",
+  "kind": "new",
+  "left": "c_e7983dfa99f4.mp4",
+  "right": "c_168e63ab1fbf.mp4",
+  "source": "c_a5b8b99abb48.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"the five wooden pencils and zigzag lines\", \"change\": \"dolly out to reveal more of the light beige paper background\", \"scene_context\": \"arranged horizontally on the right side of a light beige paper background\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"top-down\", \"movement\": \"dolly out\"}, \"detail\": \"The camera should smoothly move backward from the close-up view, expanding the frame to show a larger area of the empty tan paper surrounding the pencils and their corresponding zigzag lines.\"}"
+ },
+ {
+  "id": "se796ccd4",
+  "kind": "new",
+  "left": "c_8cb915cb20b2.mp4",
+  "right": "c_533d32e2167d.mp4",
+  "source": "c_d68e7232a1cd.mp4",
+  "prompt": "Remove the white table lamp located on the right side of the cardboard box. Ensure that the lamp, including its white shade, the visible light bulb, and the black power cord, is completely erased from the frame. The area previously occupied by the lamp should be seamlessly filled in with the brown cardboard texture of the box's interior and the other items behind it, maintaining the soft, natural lighting and muted color palette of the scene so that the removal looks natural and undisturbed."
+ },
+ {
+  "id": "w1_pl8_a01",
+  "kind": "attention",
+  "left": "c_6c16b03356b8.mp4",
+  "right": "c_0f47cde479f9.mp4",
+  "source": "c_cb4e7310d4a7.mp4",
+  "prompt": "{\"task_type\": \"Camera Viewpoint Change\", \"target\": \"camera\", \"change\": \"boom up from the crowd toward the disco ball and the metal truss ceiling\", \"scene_context\": \"a crowded dance floor in an open-air pavilion with a high metal truss ceiling\", \"camera\": {\"shot_type\": \"wide shot\", \"angle\": \"low angle transitioning to high angle\", \"movement\": \"boom up\"}, \"detail\": \"The camera should start at the level of the dancing crowd and smoothly ascend vertically, moving closer to the central disco ball and revealing more of the intricate metal truss ceiling and LED lights.\"}"
+ },
+ {
+  "id": "sbf140df5",
+  "kind": "new",
+  "left": "c_7544e5501711.mp4",
+  "right": "c_d9a610fbb847.mp4",
+  "source": "c_91a718ce3921.mp4",
+  "prompt": "Add a small hawk perched on the dark shelf in the background. The hawk should be realistically integrated into the scene, with brown and grey plumage that blends with the warm tones of the room. Position the bird so it is sitting still on the shelf, behind the person and the dog, ensuring its scale is appropriate for the distance. The lighting on the hawk should match the soft, diffused indoor light of the environment, and it should remain static on the shelf throughout the duration of the clip to maintain a natural look."
+ },
+ {
+  "id": "s527af231",
+  "kind": "new",
+  "left": "c_3bab8905f7e3.mp4",
+  "right": "c_f93063827d4a.mp4",
+  "source": "c_551895e09ce9.mp4",
+  "prompt": "{\"task_type\": \"Action\", \"target\": \"the woman in purple pajamas\", \"change\": \"wave her hand\", \"scene_context\": \"standing against a plain white background while pillows fall around her\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"As the pillows begin to slide and fall from the stack, the woman should lift one of her hands and perform a friendly waving motion toward the camera.\"}"
+ },
+ {
+  "id": "w1_pl8_a02",
+  "kind": "attention",
+  "left": "c_0183fe31fd4b.mp4",
+  "right": "c_48171f7bb3fa.mp4",
+  "source": "c_da900e009400.mp4",
+  "prompt": "Replace the dimly lit kitchen background, including the dark cabinetry, the countertop with jars, and the window on the left, with a bright, modern bakery shop interior. The new background should feature light-colored walls, glass display cases filled with pastries, and warm, ambient lighting throughout the space. Ensure the man in the black beanie and grey sweater remains the central subject, and adjust the high-contrast lighting on his figure to blend naturally with the bright, airy atmosphere of the bakery shop."
+ },
+ {
+  "id": "s2f12bc5a",
+  "kind": "new",
+  "left": "c_cc8fd7ed74dc.mp4",
+  "right": "c_29582a3647a0.mp4",
+  "source": "c_ff1f18110232.mp4",
+  "prompt": "Add intermittent, high-intensity flashes of white light to the dark, textured concrete wall in the background to simulate lightning during a thunderstorm. These flashes should be sudden and brief, momentarily brightening the grayscale scene and casting sharp, flickering highlights on the water's surface and the vertical lines of the wall. The timing of the flashes should be irregular to create a natural, atmospheric storm effect, contrasting with the moody, high-contrast lighting of the original footage."
+ },
+ {
+  "id": "s687615b2",
+  "kind": "new",
+  "left": "c_a899c07ee103.mp4",
+  "right": "c_0ab7df11807d.mp4",
+  "source": "c_d5a4d45e420c.mp4",
+  "prompt": "Transform the entire video into a Gongbi style painting. Convert the man in the leather jacket, the black horse, and the overcast sky into a traditional Chinese artwork characterized by meticulous, fine brushwork and delicate, precise lines. The deep black of the horse's coat and the man's dark hair should be rendered with subtle ink washes, while the pale sky and skin tones should use a soft, muted color palette. The final result should look like a detailed silk painting, replacing the photographic realism with a refined, elegant aesthetic and a flat, artistic texture."
+ },
+ {
+  "id": "s020b8c3e",
+  "kind": "new",
+  "left": "c_407c04756b8d.mp4",
+  "right": "c_d6cb2b6cad57.mp4",
+  "source": "c_d8faae569518.mp4",
+  "prompt": "{\"task_type\": \"Weather Edit\", \"target\": \"dark black background\", \"change\": \"replace with a clear sunny sky\", \"scene_context\": \"the area behind the crowd of people reaching upward\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The deep black void behind the crowd should be replaced with a bright, vivid blue sky and a warm, sunny glow. The lighting on the people should be adjusted from monochromatic blue to natural daylight to match the new sunny environment.\"}"
+ },
+ {
+  "id": "s800c25af",
+  "kind": "new",
+  "left": "c_959f317cb6e7.mp4",
+  "right": "c_1d066a05d1a9.mp4",
+  "source": "c_0875d40882ee.mp4",
+  "prompt": "Replace the neutral-colored indoor floor and the red rope barrier on the left side of the frame with a lush, green grassy outdoor meadow. The new background should seamlessly blend with the existing museum display, making it appear as though the stuffed animals and their wooden table are situated in a natural outdoor field rather than an indoor exhibit. Ensure the lighting on the grass matches the bright, even lighting of the scene to maintain a cohesive and whimsical look."
+ },
+ {
+  "id": "sbc2eb9f8",
+  "kind": "new",
+  "left": "c_613ecc6a686a.mp4",
+  "right": "c_db70781cd9b3.mp4",
+  "source": "c_20f74d745377.mp4",
+  "prompt": "Remove the large, green leafy tree located on the right side of the frame. Ensure that the tree, including its trunk and all foliage, is completely erased from the scene. The area previously occupied by the tree should be seamlessly filled in with a plausible background that matches the surrounding urban environment, such as the building facade and the ground, maintaining the consistent lighting and the presence of the white smoke and mist drifting through the area."
+ },
+ {
+  "id": "s7561295d",
+  "kind": "new",
+  "left": "c_9dd7758630ef.mp4",
+  "right": "c_522ea146df1a.mp4",
+  "source": "c_cc3657063d47.mp4",
+  "prompt": "Replace the man's blue t-shirt with a surfer's rash guard. The rash guard should maintain a tight, athletic fit to the man's torso and arms, replacing the fabric of the blue t-shirt throughout the entire video. Ensure the rash guard's texture appears as a synthetic, quick-dry material typical of swimwear, and that it moves naturally with the man's body as he raises his arms to cover his face. The replacement should be seamless, preserving the lighting and shadows of the original scene."
+ },
+ {
+  "id": "s0ec5696c",
+  "kind": "new",
+  "left": "c_4886eadb5b53.mp4",
+  "right": "c_5e1fc9fbed25.mp4",
+  "source": "c_910b00d5faf3.mp4",
+  "prompt": "{\"task_type\": \"Object Replace\", \"target\": \"the small glass containing clear liquid\", \"change\": \"replace it with a small yellow sponge\", \"scene_context\": \"in the center of the frame, being touched by the person's hand\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The small yellow sponge should be placed exactly where the glass was, maintaining the same scale and position so the person's finger appears to touch the top of the sponge.\"}"
+ },
+ {
+  "id": "s32b26b05",
+  "kind": "new",
+  "left": "c_8d353ca62762.mp4",
+  "right": "c_3c2b84ea0ee9.mp4",
+  "source": "c_7877e7a46e70.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"pink indoor room background\", \"change\": \"replace with a dark, stone-walled catacomb\", \"scene_context\": \"the area behind the woman and the makeup artist\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright pink walls and soft lighting should be replaced with cold, damp stone walls and dim, atmospheric lighting typical of an underground catacomb.\"}"
+ },
+ {
+  "id": "sf77c3c07",
+  "kind": "new",
+  "left": "c_066f3a5f76f1.mp4",
+  "right": "c_8b29633852ba.mp4",
+  "source": "c_7ec44f6ce44a.mp4",
+  "prompt": "Transform the entire video, including the light-colored stone surface, the falling raindrops, and the blurred green foliage in the background, into a pencil sketch style. Replace all colors and natural textures with hand-drawn graphite lines, cross-hatching, and shading on a white or off-white paper texture. The raindrops and splashes on the stone should be rendered as fine, sketchy lines and dots, while the background greenery should be simplified into soft, sketched contours and light shading to maintain the original depth of field."
+ },
+ {
+  "id": "w1_pl8_r05",
+  "kind": "repeat",
+  "left": "c_af81d1fea7af.mp4",
+  "right": "c_837fa0c79d05.mp4",
+  "source": "c_437fdb16b55d.mp4",
+  "prompt": "Remove the small dark bird perched on the rim of the dark birdbath located on the left side of the frame. Carefully erase the bird from every frame of the video, ensuring that the rim of the birdbath and the surrounding yellow wildflowers and green foliage are seamlessly reconstructed. The final result should look as if the bird was never there, maintaining the natural texture and lighting of the birdbath's surface and the background greenery.",
+  "repeat_of": "sb1d0ceb1"
+ },
+ {
+  "id": "s7c4799b7",
+  "kind": "new",
+  "left": "c_8cdd6f04843f.mp4",
+  "right": "c_5c422db8c727.mp4",
+  "source": "c_13772c99a505.mp4",
+  "prompt": "{\"task_type\": \"Object Removal\", \"target\": \"black wall fans\", \"change\": \"remove the black wall fans\", \"scene_context\": \"mounted on the wall in the background behind the man\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"Remove the two black electric fans visible on the wall in the background. Fill the resulting gaps with the existing wall texture and colors to maintain a seamless background.\"}"
+ },
+ {
+  "id": "sb5f35cb3",
+  "kind": "new",
+  "left": "c_7e717532fa78.mp4",
+  "right": "c_4423d9e5fd86.mp4",
+  "source": "c_94cb936533ff.mp4",
+  "prompt": "Apply a cinematic noir style to the entire scene, converting the footage of the man vacuuming the kitchen into high-contrast black and white. Transform the neutral color palette\u2014including the blue checkered shirt, white t-shirt, and grey hexagonal floor tiles\u2014into a stark monochrome. Enhance the dramatic lighting by deepening the shadows around the black shelving and range hood while intensifying the highlights from the natural light source on the right, creating a moody, atmospheric aesthetic throughout the video."
+ },
+ {
+  "id": "sd8314310",
+  "kind": "new",
+  "left": "c_06396297da8d.mp4",
+  "right": "c_154414ed1baf.mp4",
+  "source": "c_8c80a7c63ebc.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white whiteboard and the neutral office wall\", \"change\": \"replace with a lush outdoor fishpond scene\", \"scene_context\": \"the area behind the woman in the navy blue blazer\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The entire background behind the woman should be replaced with a serene outdoor environment featuring a fishpond with clear water, aquatic plants, and surrounding greenery. The woman's interactions with the marker should be maintained, but the whiteboard and its red text must be completely removed.\"}"
+ },
+ {
+  "id": "s0fada181",
+  "kind": "new",
+  "left": "c_d90bad0c9ef2.mp4",
+  "right": "c_9b1c0a4f69e0.mp4",
+  "source": "c_0bd7e9e3eb81.mp4",
+  "prompt": "Perform an arc shot rotating around the woman in the black hat playing the silver flute. Instead of the current static close-up, the camera should move in a smooth, semi-circular path around the flutist, shifting the perspective from her side profile to a front-facing view and then toward her other side. This movement should keep the woman as the central focal point while dynamically revealing more of the surrounding crowd, including the woman with the music notes on the left and the man with the grey instrument case on the right, creating a three-dimensional sense of the outdoor environment."
+ },
+ {
+  "id": "w1_pl8_g01",
+  "kind": "golden",
+  "left": "c_49062e6a8f97.mp4",
+  "right": "c_99d191f1a090.mp4",
+  "source": "c_112bfa1cff08.mp4",
+  "prompt": "Add a layer of light, translucent white mist over the distant green coastline and the horizon line. The mist should appear as a soft, atmospheric haze that partially obscures the dense green mangroves and blends the land into the pale blue sky, creating a sense of depth and humidity without completely hiding the landscape. The effect should be subtle and consistent across the entire background throughout the duration of the clip."
+ },
+ {
+  "id": "w1_pl8_g04",
+  "kind": "golden",
+  "left": "c_cc923f3ba468.mp4",
+  "right": "c_671416bfa57a.mp4",
+  "source": "c_ff9b47833482.mp4",
+  "prompt": "Replace the three clear plastic drawers, which are currently wrapped in protective plastic film inside the white LG freezer, with three rustic wooden crates. The wooden crates should be sized to fit perfectly within the freezer's compartments, maintaining the same positions as the original drawers. Ensure the texture of the wood is detailed and natural, contrasting with the smooth white interior of the freezer. The crates should follow the camera's upward panning and tilting movement, remaining realistically integrated into the scene with consistent lighting and shadows as the camera moves."
+ },
+ {
+  "id": "s501ca10d",
+  "kind": "new",
+  "left": "c_9ff952f09b8e.mp4",
+  "right": "c_1f1761f66807.mp4",
+  "source": "c_332a3abb55eb.mp4",
+  "prompt": "From 00:00 to 00:02, modify the white cat with grey tabby markings so that it meows while looking directly at the camera. The edit should involve a realistic animation of the cat's mouth opening and closing in a meowing motion, synchronized with the movement of its jaw and facial muscles. The cat's gaze should remain fixed on the lens, and the overall expression should look natural and physically plausible, blending seamlessly with the existing footage of the cat blinking."
+ },
+ {
+  "id": "s247df60e",
+  "kind": "new",
+  "left": "c_46722336402c.mp4",
+  "right": "c_b18dd7fce797.mp4",
+  "source": "c_e970ccd970c1.mp4",
+  "prompt": "{\"task_type\": \"Background Edit\", \"target\": \"white-tiled bathroom background\", \"change\": \"replace with a dark, industrial concrete basement setting\", \"scene_context\": \"the area surrounding the person in the hazmat suit and the toilet\", \"camera\": {\"shot_type\": \"unchanged\", \"angle\": \"unchanged\", \"movement\": \"unchanged\"}, \"detail\": \"The bright white tiles and bathroom fixtures should be replaced with rough, grey concrete walls and a dim, industrial atmosphere while keeping the person and the toilet intact.\"}"
+ },
+ {
+  "id": "s78ae9a58",
+  "kind": "new",
+  "left": "c_5850f0534dd8.mp4",
+  "right": "c_4baeffa3113c.mp4",
+  "source": "c_ad15b29758d2.mp4",
+  "prompt": "Change the handheld panning shot to an aerial drone shot that looks down on the cows and the farm buildings. Instead of the camera moving horizontally at eye level from the black and white cow to the brown and white cow with the leather collar, the viewpoint should be shifted to a high-angle overhead perspective. The resulting shot should provide a top-down view of the entire farmyard, showing the layout of the rustic wooden barn with the red tiled roof, the white plastered building, and the cows moving across the green grass and dirt ground from above."
+ },
+ {
+  "id": "sd34b950f",
+  "kind": "new",
+  "left": "c_1f35bd35f1e8.mp4",
+  "right": "c_ca3de7bd81d6.mp4",
+  "source": "c_20048f3aa161.mp4",
+  "prompt": "Apply an American comic style to the entire scene, including the brick wall, the polished floor with green \"ENTRY\" decals, the black stanchion, and the moving feet of the people. Transform the footage by adding bold black outlines around all figures and objects, utilizing Ben-Day dots for shading and texture in the darker areas, and replacing the muted color palette with high-contrast, saturated colors to mimic a classic comic book aesthetic."
+ },
+ {
+  "id": "scddbff36",
+  "kind": "new",
+  "left": "c_c0c2ae5fc1f3.mp4",
+  "right": "c_84dcc7a9976b.mp4",
+  "source": "c_6e7b07a8812c.mp4",
+  "prompt": "Boom up the camera, moving the viewpoint vertically upward from the current static close-up of the white parking sign. The movement should shift the frame to reveal more of the vivid blue sky and the blurred, leafless tree branches that are currently partially visible above the top section of the sign. The final composition should show the parking sign positioned lower in the frame, providing a wider view of the upper background elements."
+ },
+ {
+  "id": "sa87d1035",
+  "kind": "new",
+  "left": "c_10a751adc84e.mp4",
+  "right": "c_9cb5b1f00ef4.mp4",
+  "source": "c_6440acfe5484.mp4",
+  "prompt": "Transform the entire video into a digital painting style. Apply a painterly aesthetic to all elements, including the vibrant red pillar, the illuminated red underside of the circular structure, and the falling water droplets. Replace the realistic textures and sharp edges with visible, blended brushstrokes and a stylized, artistic finish. The deep blacks of the night background and the silhouettes of the trees should be rendered as smooth, painted gradients. Ensure the warm glow from the light bulbs is depicted as soft, diffused paint highlights, maintaining the atmospheric mood while giving the entire scene the appearance of a digital canvas."
+ },
+ {
+  "id": "w1_pl8_g05",
+  "kind": "golden",
+  "left": "c_9243339c09ea.mp4",
+  "right": "c_de0c640bb23d.mp4",
+  "source": "c_edbb5b590319.mp4",
+  "prompt": "Tilt the camera up from the current medium shot of the tennis player's waist and legs to reveal his full body, including his upper torso in the red shirt and his face, while maintaining the same static position relative to the dark court and the yellow tennis balls."
+ }
+]
