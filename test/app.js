@@ -70,7 +70,21 @@
   const trials = window.__orderTrials(list, pid + "|" + started.playlist_id);
   // test page only (dev tools on): ?n=<k> keeps the first k trials, and submit then counts as an early finish
   const nLimit = dev ? parseInt(q.get("n"), 10) : NaN;
-  if (nLimit > 0 && nLimit < trials.length) trials.length = nLimit;
+  if (nLimit > 0 && nLimit < trials.length) {
+    // not just the first k: take one of each kind first (attention, golden, a new pair with a content question, then a
+    // repeat together with its original), then more new pairs; keep the shuffled order
+    const kind = (k) => trials.filter((t) => t.kind === k);
+    const pick = new Set();
+    const group = (...ts) => { const ids = ts.filter(Boolean).map((t) => t.id).filter((id) => !pick.has(id));
+      if (ids.length && pick.size + ids.length <= nLimit) ids.forEach((id) => pick.add(id)); };
+    const news = kind("new"), rep = kind("repeat")[0];
+    group(kind("attention")[0]); group(kind("golden")[0]);
+    group(news.find((t) => (t.probes || []).some((p) => p.role === "known")) || news[0]);
+    if (rep) group(trials.find((t) => t.id === rep.repeat_of), rep);
+    news.forEach((t) => group(t));
+    const sub = trials.filter((t) => pick.has(t.id));
+    trials.splice(0, trials.length, ...sub);
+  }
   session.answers = started.answers || {};
   root.innerHTML = "";
   window.startRunner({
