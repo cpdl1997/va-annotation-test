@@ -95,7 +95,7 @@
     destroy() { this.stopTimer(); this.vids.forEach((v) => { v.pause(); v.removeAttribute("src"); v.load(); }); }
   }
 
-  // ---- layout: [Video A] [Source] [Video B] in one row, all the same size, as large as the viewport allows, then scaled by the slider.
+  // ---- layout: [Left edit] [Original] [Right edit] in one row, all the same size, as large as the viewport allows, then scaled by the slider.
   function computeLayout(ar, availW, availH) {
     // all three tiles are the same size (width-limited by 3 across, height-limited by the viewport)
     const gap = 16, L = 28;
@@ -137,7 +137,7 @@
             <div class="qline"><span class="q" id="question"></span> <span id="hint"></span></div>
             <div class="row">
               <button id="prev" type="button">&larr; Previous</button>
-              <span class="answers"><button id="ansL" type="button">Video A is better</button> <button id="ansR" type="button">Video B is better</button></span>
+              <span class="answers"><button id="ansL" type="button">Left video is better</button> <button id="ansR" type="button">Right video is better</button></span>
               <button id="next" type="button">Next &rarr;</button>
               <button id="submit" class="primary" type="button">Submit all answers</button>
               ${this.dev ? '<button id="skip" type="button">DEV: skip &amp; submit now</button>' : ""}</div>
@@ -207,10 +207,9 @@
       if (my !== this.nav) return;   // a newer navigation superseded this one
       this.st[i].tele.fallbacks = this.clips.fallbacks;
       const mk = (label, url, key) => { const d = document.createElement("div"); d.className = "tile " + (key === "S" ? "src" : "edit");
-        const badge = key === "S" ? "ORIGINAL" : "EDIT " + (key === "L" ? "A" : "B");
-        d.innerHTML = `<div class="label">${label}</div><div class="frame"><video muted playsinline loop preload="auto"></video><span class="badge">${badge}</span></div>`;
+        d.innerHTML = `<div class="label">${label}</div><div class="frame"><video muted playsinline loop preload="auto"></video></div>`;
         const v = d.querySelector("video"); v.dataset.key = key; v.src = url; return { d, v }; };
-      const S_ = mk("Original video (not edited)", urls[0], "S"), A_ = mk("Video A (edited)", urls[1], "L"), B_ = mk("Video B (edited)", urls[2], "R");
+      const S_ = mk("Original video (not edited)", urls[0], "S"), A_ = mk("Left video (edited)", urls[1], "L"), B_ = mk("Right video (edited)", urls[2], "R");
       this.tiles = [S_, A_, B_];
       try { await Promise.all(this.tiles.map((x) => (x.v.readyState >= 1 ? 0 : once(x.v, "loadedmetadata")))); } catch (e) { return this.showErr("Could not read the videos."); }
       if (my !== this.nav) return;
@@ -299,7 +298,7 @@
     }
     sendAnswer(ev) {
       const st = this.st[this.i], t = this.trials[this.i];
-      if (!st.choice) return;   // probes picked first are kept and sent with the first A/B answer
+      if (!st.choice) return;   // probes picked first are kept and sent with the first left/right answer
       const tele = Object.assign({}, st.tele, { trusted: ev ? ev.isTrusted : null, layout: this.lay && this.lay.mode, scale: this.scale,
         viewport: [innerWidth, innerHeight], dims: this.dims, honeypot: this.hp || 0, webdriver: !!navigator.webdriver });
       this.session.api.answer({ trial_id: t.id, choice: st.choice, first_choice: st.first, n_changes: st.n_changes, probes: st.probes,
@@ -331,7 +330,7 @@
       this.el.probes.querySelectorAll("input[type=radio]").forEach((inp) => { inp.disabled = !st.unlocked; });
       this.el.submit.disabled = !this.allAnswered() || this.netPending > 0 || this.finished;
       const left = Math.max(0, S.MIN_WATCH_SEC - (this.group ? Math.min(...this.group.played) : 0));
-      this.el.hint.textContent = st.unlocked ? (this.allAnswered() ? "All trials answered. You can change any answer, or submit." : (this.isComplete(this.i) ? "" : "Answer the questions below and choose A or B."))
+      this.el.hint.textContent = st.unlocked ? (this.allAnswered() ? "All trials answered. You can change any answer, or submit." : (this.isComplete(this.i) ? "" : "Answer the questions below and choose left or right."))
         : `Watch the videos to unlock the answer buttons (about ${Math.ceil(left)} s).`;
     }
 

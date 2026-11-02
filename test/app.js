@@ -39,8 +39,8 @@
     <p><b>Questions.</b> Contact the research team through Prolific messaging.</p>
     <p>By clicking the button below you confirm that you are 18 or older, have read this information, and agree to take part.</p>`, "I agree and continue");
   await page(`<h2>Instructions</h2>
-    <p>Each trial shows an original <b>source video</b> (amber frame, marked ORIGINAL, always in the middle), an <b>editing instruction</b>, and two edited versions, <b>Video A</b> and <b>Video B</b> (blue frames, marked EDIT).
-    The three videos start together and loop in sync. Watch them for a few seconds, then choose which edited video is better overall:
+    <p>Each trial shows an original <b>source video</b> (amber frame, always in the middle), an <b>editing instruction</b>, and two edited versions, the <b>left</b> and <b>right</b> videos (blue frames).
+    The three videos start together and loop in sync. Watch them for a few seconds, then choose which edited video, left or right, is better overall:
     it follows the instruction, keeps the rest of the source video intact, and looks natural and clean.</p>
     <ul><li>Use <b>Video size</b> to make the videos larger or smaller.</li>
     <li>The numbered buttons at the top let you go back to any earlier trial and change your answer before you submit.</li>
