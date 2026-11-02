@@ -99,7 +99,7 @@
   function computeLayout(ar, availW, availH) {
     // all three tiles are the same size (width-limited by 3 across, height-limited by the viewport)
     const gap = 16, L = 28;
-    const byH = Math.max(80, availH - L) * ar, byW = (availW - 2 * gap) / 3;
+    const byH = Math.max(80, availH - L) * ar, byW = (availW - 2 * gap - 16) / 3;
     const pw = Math.max(80, Math.min(byH, byW));
     return { mode: "trio", pw, ph: pw / ar, sw: pw, sh: pw / ar };
   }
@@ -206,10 +206,11 @@
       try { urls = await Promise.all([t.source, t.left, t.right].map((n) => this.clips.get(n))); } catch (e) { return this.showErr("Could not load the videos."); }
       if (my !== this.nav) return;   // a newer navigation superseded this one
       this.st[i].tele.fallbacks = this.clips.fallbacks;
-      const mk = (label, url, key) => { const d = document.createElement("div"); d.className = "tile" + (key === "S" ? " src" : "");
-        d.innerHTML = `<div class="label">${label}</div><video muted playsinline loop preload="auto"></video>`;
+      const mk = (label, url, key) => { const d = document.createElement("div"); d.className = "tile " + (key === "S" ? "src" : "edit");
+        const badge = key === "S" ? "ORIGINAL" : "EDIT " + (key === "L" ? "A" : "B");
+        d.innerHTML = `<div class="label">${label}</div><div class="frame"><video muted playsinline loop preload="auto"></video><span class="badge">${badge}</span></div>`;
         const v = d.querySelector("video"); v.dataset.key = key; v.src = url; return { d, v }; };
-      const S_ = mk("Source video (original)", urls[0], "S"), A_ = mk("Video A", urls[1], "L"), B_ = mk("Video B", urls[2], "R");
+      const S_ = mk("Original video (not edited)", urls[0], "S"), A_ = mk("Video A (edited)", urls[1], "L"), B_ = mk("Video B (edited)", urls[2], "R");
       this.tiles = [S_, A_, B_];
       try { await Promise.all(this.tiles.map((x) => (x.v.readyState >= 1 ? 0 : once(x.v, "loadedmetadata")))); } catch (e) { return this.showErr("Could not read the videos."); }
       if (my !== this.nav) return;
