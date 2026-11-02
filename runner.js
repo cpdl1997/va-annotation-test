@@ -94,19 +94,13 @@
     destroy() { this.stopTimer(); this.vids.forEach((v) => { v.pause(); v.removeAttribute("src"); v.load(); }); }
   }
 
-  // ---- layout: A/B tiles as large as the viewport allows, then scaled by the slider.
-  //  "trio":  [Video A] [Source] [Video B] in one row (source shrinks to >=55% if width is the limit)
-  //  "stack": Source (50%) centred on top, [Video A] [Video B] below; chosen when it gives the judged A/B tiles >15% more area.
-  // The switch is a CSS reorder only, so the playing <video> elements are never re-parented.
+  // ---- layout: [Video A] [Source] [Video B] in one row, all the same size, as large as the viewport allows, then scaled by the slider.
   function computeLayout(ar, availW, availH) {
-    const gap = 16, L = 28, kmin = 0.55, kst = 0.5;
-    const byH = Math.max(80, availH - L) * ar, byW = (availW - 2 * gap) / (2 + kmin);
+    // all three tiles are the same size (width-limited by 3 across, height-limited by the viewport)
+    const gap = 16, L = 28;
+    const byH = Math.max(80, availH - L) * ar, byW = (availW - 2 * gap) / 3;
     const pw = Math.max(80, Math.min(byH, byW));
-    const k = Math.max(kmin, Math.min(1, (availW - 2 * gap - 2 * pw) / pw));
-    const trio = { mode: "trio", pw, ph: pw / ar, sw: pw * k, sh: (pw * k) / ar };
-    const ph2 = Math.max(80, Math.min((availH - 2 * L - gap) / (1 + kst), ((availW - gap) / 2) / ar));
-    const stack = { mode: "stack", pw: ph2 * ar, ph: ph2, sw: kst * ph2 * ar, sh: kst * ph2 };
-    return stack.pw * stack.ph > 1.15 * trio.pw * trio.ph ? stack : trio;
+    return { mode: "trio", pw, ph: pw / ar, sw: pw, sh: pw / ar };
   }
 
   class Runner {
@@ -240,8 +234,10 @@
       this.el.sizeval.textContent = Math.round(this.scale * 100) + "%";
       if (!this.dims || !this.tiles) return;
       const lay = computeLayout(this.dims.S[0] / this.dims.S[1], this.el.stage.clientWidth, this.availH());
-      const set = (x, w, h) => { x.v.style.width = Math.round(w * this.scale) + "px"; x.v.style.height = Math.round(h * this.scale) + "px"; };
-      set(this.tiles[0], lay.sw, lay.sh); set(this.tiles[1], lay.pw, lay.ph); set(this.tiles[2], lay.pw, lay.ph);
+      // same width for all three; each height follows that clip's own aspect ratio, so there are no black bars
+      const set = (x, w) => { const vw = x.v.videoWidth || 16, vh = x.v.videoHeight || 9;
+        x.v.style.width = Math.round(w * this.scale) + "px"; x.v.style.height = Math.round((w * vh / vw) * this.scale) + "px"; };
+      this.tiles.forEach((x) => set(x, lay.pw));
       this.tiles[0].d.parentNode.classList.toggle("stack", lay.mode === "stack");
       this.lay = lay;
     }
