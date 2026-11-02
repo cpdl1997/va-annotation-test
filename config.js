@@ -8,6 +8,6 @@ window.STUDY = {
   ALLOW_DEV: false,                  // ?dev=1 tools (skip button, ?local, ?videos=, ?plbase=). MUST be false in production
   MIN_WIDTH: 1000,
   PRELOAD_AHEAD: 2,                 // trials whose clips are fetched in advance
-  MIN_LOOPS: 2,                     // full loops each clip must play before the first answer unlocks
+  MIN_WATCH_SEC: 7,                 // seconds every clip must have played (it loops if shorter) before the first answer unlocks
   HEARTBEAT_MS: 30000
 };

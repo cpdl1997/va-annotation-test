@@ -68,10 +68,13 @@
   } catch (e) { message("<h3>Could not load the study (" + esc(e.message) + "). Please contact the researcher.</h3>"); return; }
 
   const trials = window.__orderTrials(list, pid + "|" + started.playlist_id);
+  // test page only (dev tools on): ?n=<k> keeps the first k trials, and submit then counts as an early finish
+  const nLimit = dev ? parseInt(q.get("n"), 10) : NaN;
+  if (nLimit > 0 && nLimit < trials.length) trials.length = nLimit;
   session.answers = started.answers || {};
   root.innerHTML = "";
   window.startRunner({
-    container: root, trials, api, session, dev, videoBase: S.VIDEO_BASE_URL,
+    container: root, trials, api, session, dev, earlyOk: nLimit > 0 && nLimit < list.length, videoBase: S.VIDEO_BASE_URL,
     onFinished: (res, info) => done(res.code, info.early ? `Dev early submit: ${info.answered} of ${info.total} answered.` : ""),
   });
 })();

@@ -1,0 +1,71 @@
+:root {
+  --bg: #ffffff; --fg: #1d1d1f; --muted: #6b6b70; --panel: #f3f3f5; --line: #d8d8de;
+  --accent: #2b59c3; --accent-fg: #ffffff; --ok: #1d7a3c; --warn: #b25b00; --bad: #b3261e;
+  --chip-done: #cfe6d6; --chip-cur: #2b59c3;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17171a; --fg: #ececf0; --muted: #a0a0a8; --panel: #232328; --line: #3a3a42;
+    --accent: #6f93ee; --accent-fg: #0d1220; --ok: #6fcf8e; --warn: #f0a24a; --bad: #f2837c;
+    --chip-done: #27432f; --chip-cur: #6f93ee;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+button { font: inherit; cursor: pointer; color: var(--fg); background: var(--panel);
+  border: 1px solid var(--line); border-radius: 6px; padding: 8px 14px; }
+button:disabled { opacity: .45; cursor: not-allowed; }
+button.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+button.chosen { outline: 3px solid var(--accent); }
+
+.page { max-width: 760px; margin: 8vh auto; padding: 0 16px; }
+.page h2 { margin-top: 0; }
+.page .actions { margin-top: 24px; }
+
+#app { display: flex; flex-direction: column; min-height: 100vh; padding: 0 12px; }
+.topbar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 4px 0 2px; color: var(--muted); flex-wrap: wrap; }
+#netstatus { font-weight: 600; }
+#netstatus.bad { color: var(--bad); }
+#chips { display: flex; flex-wrap: wrap; gap: 4px; padding: 2px 0 6px; }
+.chip { min-width: 34px; padding: 3px 6px; font-size: 13px; border-radius: 5px; }
+.chip.done { background: var(--chip-done); }
+.chip.cur { background: var(--chip-cur); color: var(--accent-fg); border-color: var(--chip-cur); }
+
+#prompt { background: var(--panel); border-radius: 6px; padding: 6px 12px; max-height: 11vh; overflow: auto;
+  margin: 0 auto 6px; width: 100%; max-width: 1400px; font-size: 14px; line-height: 1.35; }
+#prompt b { margin-right: 4px; }
+
+#stage { position: relative; flex: 0 0 auto; display: flex; flex-direction: column; align-items: center; gap: 12px; padding-bottom: 8px; }
+#stage .row { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
+#stage .row.stack .tile.src { order: -1; flex-basis: 100%; display: flex; flex-direction: column; align-items: center; }
+.tile .label { font-weight: 600; margin: 2px 0 4px; text-align: center; }
+.tile video { display: block; background: #000; object-fit: contain; }
+#loading { color: var(--muted); padding: 40px 0; }
+#startover { position: absolute; inset: 0; display: none; align-items: center; justify-content: center;
+  background: rgba(0, 0, 0, .55); z-index: 5; }
+#startover.show { display: flex; }
+#startover button { font-size: 18px; padding: 14px 28px; }
+#errbox { color: var(--bad); text-align: center; padding: 8px; display: none; }
+
+#controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center; color: var(--muted); }
+#controls button { padding: 4px 10px; }
+#controls input[type=range] { width: 180px; vertical-align: middle; }
+
+#answerbar { position: sticky; bottom: 0; background: var(--bg); border-top: 1px solid var(--line);
+  padding: 6px 0 8px; display: flex; flex-direction: column; gap: 6px; align-items: center; z-index: 4; }
+#answerbar .qline { text-align: center; }
+#answerbar .q { font-weight: 600; }
+#answerbar .row { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center; }
+#answerbar .answers button { min-width: 190px; padding: 10px 18px; }
+#answerbar .answers { display: inline-flex; gap: 10px; }
+#hint { color: var(--muted); }
+.hp { position: absolute; left: -9999px; top: -9999px; }   /* honeypot: off-screen for humans, present in the DOM */
+
+#app { }
+#answerbar { margin-top: auto; }
+#probes { max-width: 1400px; width: 100%; margin: 0 auto; padding: 4px 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 4px 20px; font-size: 14px; }
+#probes .probe { background: var(--panel); border-radius: 6px; padding: 4px 10px; }
+#probes .pq { margin-bottom: 2px; }
+#probes .po { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+#probes label { cursor: pointer; white-space: nowrap; }

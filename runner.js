@@ -58,10 +58,11 @@
         v.addEventListener("error", () => { clearTimeout(to); rej(new Error("video error")); }, { once: true });
       });
     }
-    async start() {
+    async start(keepPos) {   // keepPos: continue from the source clip's current position (resume) instead of the beginning
       this.stopTimer();
+      const pos = keepPos ? this.vids[0].currentTime : 0;
       await Promise.all(this.vids.map((v) => this.ready(v)));
-      this.vids.forEach((v) => { v.pause(); v.playbackRate = 1; v.currentTime = 0; });
+      this.vids.forEach((v) => { v.pause(); v.playbackRate = 1; v.currentTime = pos; });
       await Promise.all(this.vids.map((v) => (v.seeking ? once(v, "seeked") : Promise.resolve())));
       try { await Promise.all(this.vids.map((v) => v.play())); } catch (e) { return false; }   // autoplay blocked
       this.last = this.vids.map((v) => v.currentTime); this.lastTick = performance.now();
@@ -172,7 +173,7 @@
       window.addEventListener("blur", () => { this.st[this.i].tele.blur++; });
       document.addEventListener("visibilitychange", () => {
         if (document.hidden) { this.st[this.i].tele.hidden++; if (this.group) this.group.pause(); }
-        else if (this.group && !this.userPaused && !this.finished) this.startPlayback();
+        else if (this.group && !this.userPaused && !this.finished) this.startPlayback(true);
       });
       this.lastActive = performance.now();
       setInterval(() => { const n = performance.now(); if (!document.hidden && !this.finished) this.st[this.i].active_ms += n - this.lastActive; this.lastActive = n; }, 250);
@@ -248,23 +249,23 @@
     }
 
     // -------------------------------------------------------------- playback
-    async startPlayback() {
+    async startPlayback(keepPos) {
       if (!this.group) return;
       this.userPaused = false; this.el.pp.textContent = "Pause";
       try {
-        const ok = await this.group.start();
+        const ok = await this.group.start(keepPos);
         if (!ok) this.el.startover.classList.add("show");
       } catch (e) { this.showErr("Videos could not be played."); }
     }
     togglePause() {
       if (!this.group) return;
-      if (this.userPaused) { this.startPlayback(); }
+      if (this.userPaused) { this.startPlayback(true); }
       else { this.userPaused = true; this.group.pause(); this.el.pp.textContent = "Play"; }
     }
     onProgress(loops) {
       const st = this.st[this.i]; st.loops = Math.max(st.loops, loops);
       st.tele.stalls = this.group.stalls; st.tele.fixes = this.group.fixes;
-      if (!st.unlocked && loops >= S.MIN_LOOPS * 0.95) { st.unlocked = true; this.refresh(); }
+      if (!st.unlocked && loops * (this.dims ? this.dims.dur : 5) >= S.MIN_WATCH_SEC - 0.1) { st.unlocked = true; this.refresh(); }
       else if (!st.unlocked) this.refresh(true);
     }
 
@@ -327,15 +328,15 @@
       this.el.ansL.disabled = this.el.ansR.disabled = !st.unlocked;
       this.el.probes.querySelectorAll("input[type=radio]").forEach((inp) => { inp.disabled = !st.unlocked; });
       this.el.submit.disabled = !this.allAnswered() || this.netPending > 0 || this.finished;
-      const left = Math.max(0, S.MIN_LOOPS - (this.group ? this.group.played[0] / (this.dims ? this.dims.dur : 5) : 0));
+      const left = Math.max(0, S.MIN_WATCH_SEC - (this.group ? Math.min(...this.group.played) : 0));
       this.el.hint.textContent = st.unlocked ? (this.allAnswered() ? "All trials answered. You can change any answer, or submit." : (this.isComplete(this.i) ? "" : "Answer the questions below and choose A or B."))
-        : `Watch the videos to unlock the answer buttons (about ${Math.ceil(left * (this.dims ? this.dims.dur : 5))} s).`;
+        : `Watch the videos to unlock the answer buttons (about ${Math.ceil(left)} s).`;
     }
 
     async submit(early) {
       if (this.finished) return;
       this.el.submit.disabled = true; this.el.hint.textContent = "Saving…";
-      const r = await this.session.api.finish({ early });
+      const r = await this.session.api.finish({ early: early || !!this.earlyOk });
       if (r.ok) { this.finished = true; if (this.group) this.group.destroy(); this.onFinished(r, { early, answered: this.st.filter((s, k) => this.isComplete(k)).length, total: this.trials.length }); return; }
       const miss = (r.missing || []).map((id) => this.trials.findIndex((t) => t.id === id)).filter((k) => k >= 0);
       if (miss.length) { this.el.hint.textContent = "Some trials are still unanswered."; this.go(miss[0]); }
