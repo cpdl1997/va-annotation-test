@@ -234,9 +234,14 @@
       this.el.sizeval.textContent = Math.round(this.scale * 100) + "%";
       if (!this.dims || !this.tiles) return;
       const lay = computeLayout(this.dims.S[0] / this.dims.S[1], this.el.stage.clientWidth, this.availH());
-      // same width for all three; each height follows that clip's own aspect ratio, so there are no black bars
-      const set = (x, w) => { const vw = x.v.videoWidth || 16, vh = x.v.videoHeight || 9;
-        x.v.style.width = Math.round(w * this.scale) + "px"; x.v.style.height = Math.round((w * vh / vw) * this.scale) + "px"; };
+      // identical box for all three (the source's aspect). An edit whose aspect is within 5% of the source's fills it
+      // (object-fit: cover crops at most ~2.5% per side, so no black bars); a clip that differs more keeps its own aspect
+      // so nothing is cropped away.
+      const ar0 = this.dims.S[0] / this.dims.S[1];
+      const set = (x, w) => { const vw = x.v.videoWidth || 16, vh = x.v.videoHeight || 9, ar = vw / vh;
+        const close = Math.abs(ar / ar0 - 1) < 0.05;
+        x.v.style.objectFit = close ? "cover" : "contain";
+        x.v.style.width = Math.round(w * this.scale) + "px"; x.v.style.height = Math.round((w / (close ? ar0 : ar)) * this.scale) + "px"; };
       this.tiles.forEach((x) => set(x, lay.pw));
       this.tiles[0].d.parentNode.classList.toggle("stack", lay.mode === "stack");
       this.lay = lay;
