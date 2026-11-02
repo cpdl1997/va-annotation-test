@@ -58,6 +58,9 @@
           this.items.shift(); lsSet(this.key, this.items);
           this.online = true; delay = 800; this.emit();
         } catch (e) {
+          if (e.status === 425) {   // server: answered too early, retry after the stated wait (not an outage)
+            await sleep(Math.min(Number(e.body && e.body.wait_ms) || 1000, 8000) + 250); continue;
+          }
           if (e.status && e.status !== 429 && e.status < 500) {   // permanent rejection: drop it, keep going
             console.warn("answer rejected", e.status, e.message);
             this.items.shift(); lsSet(this.key, this.items); this.emit(); continue;
@@ -79,7 +82,15 @@
   // ---------------------------------------------------------------- worker
   function workerBackend(session) {
     let token = null;
-    const q = new Queue("pq_" + session.pid, (it) => postJson("/answer", { token, ...it }));
+    const q = new Queue("pq_" + session.pid, async (it) => {
+      try { return await postJson("/answer", { token, ...it }); } catch (e) {
+        if (e.status === 409 && /not shown/.test(e.message)) {   // the earlier /shown never arrived: report it now, then wait out the gate
+          await postJson("/shown", { token, trial_id: it.trial_id });
+          const w = new Error("too early"); w.status = 425; w.body = { wait_ms: 7000 }; throw w;
+        }
+        throw e;
+      }
+    });
     return {
       onStatus: (cb) => q.onStatus(cb),
       pending: () => q.items.length,
@@ -92,6 +103,7 @@
         return r;
       },
       answer(rec) { q.push({ cid: cid(), ...rec }); },
+      shown(trial_id) { if (token) withRetry(() => postJson("/shown", { token, trial_id }, 8000), 4).catch(() => {}); },   // best effort; /answer repairs a miss
       heartbeat() { if (token) postJson("/heartbeat", { token }, 8000).catch(() => {}); },
       async finish(opts = {}) {
         if (!(await q.drain())) return { ok: false, error: "unsent answers", missing: [] };
@@ -118,6 +130,7 @@
       pending: () => 0,
       async start() { return { token: "local", playlist_id, status: "active", answers: answers() }; },
       answer(rec) { st.events.push({ cid: cid(), t: Date.now(), ...rec }); lsSet(key, st); },
+      shown() {},
       heartbeat() {},
       async finish(opts = {}) {
         console.log("LOCAL FINISH", { early: !!opts.early, events: st.events.length });

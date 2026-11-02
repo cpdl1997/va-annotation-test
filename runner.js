@@ -109,7 +109,7 @@
       Object.assign(this, opts);   // container, trials, api, session, dev, onFinished
       this.i = 0; this.nav = 0; this.group = null; this.clips = new ClipCache(this.videoBase);
       this.scale = Math.min(160, Math.max(60, Number(lsGet("tile_scale")) || 100)) / 100;
-      this.userPaused = false; this.finished = false; this.dims = null;
+      this.userPaused = false; this.finished = false; this.dims = null; this.shownSent = new Set();
       const prior = this.session.answers || {};
       this.st = this.trials.map((t) => {
         const c = prior[t.id] && prior[t.id].choice;
@@ -220,6 +220,7 @@
       this.applyLayout();
       this.group = new SyncGroup(this.tiles.map((x) => x.v), (loops) => this.onProgress(loops));
       this.userPaused = false; this.el.pp.textContent = "Pause";
+      if (!this.shownSent.has(t.id)) { this.shownSent.add(t.id); this.session.api.shown(t.id); }   // server-side clock for the per-trial timing gate
       this.startPlayback();
     }
     showErr(msg) {
